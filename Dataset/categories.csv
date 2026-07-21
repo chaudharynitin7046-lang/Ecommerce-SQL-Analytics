@@ -1,0 +1,36 @@
+id,name,slug,parent_id,description,created_at
+1,Electronics,electronics,,Electronics products and accessories,2020-01-01T05:05:37Z
+2,Home & Kitchen,home-kitchen,,Home & Kitchen products and accessories,2020-01-01T06:39:03Z
+3,Clothing,clothing,,Clothing products and accessories,2020-01-01T10:53:39Z
+4,Books,books,,Books products and accessories,2020-01-01T14:00:54Z
+5,Sports & Outdoors,sports-outdoors,,Sports & Outdoors products and accessories,2020-01-01T18:03:59Z
+6,Toys & Games,toys-games,,Toys & Games products and accessories,2020-01-01T22:14:18Z
+7,Beauty & Personal Care,beauty-personal-care,,Beauty & Personal Care products and accessories,2020-01-02T02:11:46Z
+8,Health & Household,health-household,,Health & Household products and accessories,2020-01-02T05:00:04Z
+9,Laptops,electronics-laptops,1,Laptops in Electronics,2020-01-02T09:29:53Z
+10,Smartphones,electronics-smartphones,1,Smartphones in Electronics,2020-01-02T10:29:46Z
+11,Headphones,electronics-headphones,1,Headphones in Electronics,2020-01-02T11:16:07Z
+12,Cameras,electronics-cameras,1,Cameras in Electronics,2020-01-02T14:50:35Z
+13,Televisions,electronics-televisions,1,Televisions in Electronics,2020-01-02T18:50:19Z
+14,Cookware,home-kitchen-cookware,2,Cookware in Home & Kitchen,2020-01-02T18:54:52Z
+15,Furniture,home-kitchen-furniture,2,Furniture in Home & Kitchen,2020-01-02T23:49:32Z
+16,Bedding,home-kitchen-bedding,2,Bedding in Home & Kitchen,2020-01-03T02:07:25Z
+17,Small Appliances,home-kitchen-small-appliances,2,Small Appliances in Home & Kitchen,2020-01-03T04:37:37Z
+18,Men's,clothing-men-s,3,Men's in Clothing,2020-01-03T09:09:15Z
+19,Women's,clothing-women-s,3,Women's in Clothing,2020-01-03T15:04:50Z
+20,Kids,clothing-kids,3,Kids in Clothing,2020-01-03T15:54:36Z
+21,Shoes,clothing-shoes,3,Shoes in Clothing,2020-01-03T21:45:40Z
+22,Fiction,books-fiction,4,Fiction in Books,2020-01-04T00:26:15Z
+23,Non-Fiction,books-non-fiction,4,Non-Fiction in Books,2020-01-04T06:07:39Z
+24,Children's Books,books-children-s-books,4,Children's Books in Books,2020-01-04T09:52:03Z
+25,Fitness,sports-outdoors-fitness,5,Fitness in Sports & Outdoors,2020-01-04T13:51:02Z
+26,Camping,sports-outdoors-camping,5,Camping in Sports & Outdoors,2020-01-04T17:44:15Z
+27,Cycling,sports-outdoors-cycling,5,Cycling in Sports & Outdoors,2020-01-04T19:49:23Z
+28,Board Games,toys-games-board-games,6,Board Games in Toys & Games,2020-01-04T23:53:51Z
+29,Action Figures,toys-games-action-figures,6,Action Figures in Toys & Games,2020-01-05T02:08:03Z
+30,Educational,toys-games-educational,6,Educational in Toys & Games,2020-01-05T07:26:53Z
+31,Skincare,beauty-personal-care-skincare,7,Skincare in Beauty & Personal Care,2020-01-05T08:09:25Z
+32,Makeup,beauty-personal-care-makeup,7,Makeup in Beauty & Personal Care,2020-01-05T11:04:30Z
+33,Hair Care,beauty-personal-care-hair-care,7,Hair Care in Beauty & Personal Care,2020-01-05T12:35:53Z
+34,Vitamins,health-household-vitamins,8,Vitamins in Health & Household,2020-01-05T13:29:31Z
+35,Cleaning,health-household-cleaning,8,Cleaning in Health & Household,2020-01-05T14:59:01Z

@@ -1,0 +1,71 @@
+id,name,contact_email,phone,city,state,country,rating,created_at
+1,Redwood Vanguard LLC,sales@redwoodvanguardllc.com,(303) 887-5729,Panama City,FL,United States,3.5,2019-06-01T19:45:30Z
+2,Pacific Beacon LLC,sales@pacificbeaconllc.com,(765) 918-4485,Lynn,MA,United States,3.5,2019-06-02T12:51:21Z
+3,Horizon Copperfield Group,sales@horizoncopperfieldgroup.com,(713) 956-6776,Jackson,TN,United States,3.5,2019-06-03T04:14:44Z
+4,Frontier Liberty Industries,sales@frontierlibertyindustries.com,(863) 240-8785,Las Vegas,NV,United States,4.7,2019-06-03T17:18:38Z
+5,Copperfield Cascade Trading,sales@copperfieldcascadetrading.com,(608) 722-1080,Chandler,AZ,United States,4.2,2019-06-04T03:12:33Z
+6,Vanguard Silverline Supply Co,sales@vanguardsilverlinesupplyco.com,(312) 860-9733,Jeffersonville,IN,United States,4.1,2019-06-04T23:29:41Z
+7,Harborview Lakeshore LLC,sales@harborviewlakeshorellc.com,(202) 242-1622,Little Rock,AR,United States,3.9,2019-06-05T23:06:49Z
+8,Cascade Liberty Distributors,sales@cascadelibertydistributors.com,(203) 956-3181,Fort Wayne,IN,United States,3.4,2019-06-06T22:30:40Z
+9,Apex Summit Trading,sales@apexsummittrading.com,(915) 799-9921,Saint Louis,MO,United States,4.4,2019-06-07T02:15:19Z
+10,Apex Northgate Distributors,sales@apexnorthgatedistributors.com,(650) 222-7777,Minneapolis,MN,United States,4.3,2019-06-07T08:05:24Z
+11,Pinnacle Pioneer Group,sales@pinnaclepioneergroup.com,(561) 218-8885,Laurel,MD,United States,4.6,2019-06-08T03:13:55Z
+12,Summit Apex Trading,sales@summitapextrading.com,(256) 372-2005,Petaluma,CA,United States,5,2019-06-08T21:53:33Z
+13,Oakmont Keystone Brands,sales@oakmontkeystonebrands.com,(812) 722-0604,Richmond,VA,United States,4.1,2019-06-09T08:40:25Z
+14,Crestwood Harborview Industries,sales@crestwoodharborviewindustries.com,(334) 379-2952,Los Angeles,CA,United States,3.5,2019-06-10T07:20:25Z
+15,Frontier Nova LLC,sales@frontiernovallc.com,(213) 216-6531,Houston,TX,United States,4.7,2019-06-10T13:14:30Z
+16,Beacon Copperfield Inc,sales@beaconcopperfieldinc.com,(862) 436-9672,Houston,TX,United States,4.5,2019-06-11T11:46:07Z
+17,Copperfield Silverline Group,sales@copperfieldsilverlinegroup.com,(917) 929-7526,New York City,NY,United States,4.7,2019-06-11T23:18:57Z
+18,Maple Leaf Cascade Trading,sales@mapleleafcascadetrading.com,(510) 939-8778,Amarillo,TX,United States,3.2,2019-06-12T07:27:34Z
+19,Pinnacle Meridian Supply Co,sales@pinnaclemeridiansupplyco.com,(315) 240-7355,Las Vegas,NV,United States,4.2,2019-06-13T00:12:39Z
+20,Keystone Northgate Supply Co,sales@keystonenorthgatesupplyco.com,(720) 231-0684,Buffalo,NY,United States,4,2019-06-13T04:52:56Z
+21,Blue Ridge Redwood Inc,sales@blueridgeredwoodinc.com,(214) 425-6546,Baton Rouge,LA,United States,4.2,2019-06-13T07:22:33Z
+22,Vertex Pacific Distributors,sales@vertexpacificdistributors.com,(251) 983-9634,Santa Ana,CA,United States,4.9,2019-06-13T10:13:27Z
+23,Vertex Pinnacle Corp,sales@vertexpinnaclecorp.com,(952) 271-1900,Knoxville,TN,United States,3.8,2019-06-13T11:19:57Z
+24,Liberty Ironclad Inc,sales@libertyironcladinc.com,(503) 228-3143,Lexington,KY,United States,4.7,2019-06-14T05:56:46Z
+25,Pinnacle Pacific Brands,sales@pinnaclepacificbrands.com,(917) 609-2633,Boise,ID,United States,3.7,2019-06-14T12:12:34Z
+26,Harborview Vanguard LLC,sales@harborviewvanguardllc.com,(602) 509-0948,Fredericksburg,VA,United States,5,2019-06-14T15:41:30Z
+27,Summit Crestwood LLC,sales@summitcrestwoodllc.com,(916) 633-7241,Corpus Christi,TX,United States,3.5,2019-06-15T15:08:19Z
+28,Vanguard Northgate Distributors,sales@vanguardnorthgatedistributors.com,(786) 659-3079,Washington,DC,United States,4.2,2019-06-16T14:47:23Z
+29,Atlantic Keystone Inc,sales@atlantickeystoneinc.com,(562) 656-4432,Washington,DC,United States,3.9,2019-06-17T03:13:41Z
+30,Vanguard Crestwood Brands,sales@vanguardcrestwoodbrands.com,(570) 263-8172,Tacoma,WA,United States,4.5,2019-06-17T19:22:51Z
+31,Pioneer Atlantic Trading,sales@pioneeratlantictrading.com,(212) 922-9917,Marietta,GA,United States,3.8,2019-06-18T18:27:26Z
+32,Harborview Atlantic LLC,sales@harborviewatlanticllc.com,(617) 582-8903,Dayton,OH,United States,3.4,2019-06-19T05:40:44Z
+33,Copperfield Redwood Inc,sales@copperfieldredwoodinc.com,(915) 706-6758,Fresno,CA,United States,4.1,2019-06-19T05:50:17Z
+34,Cascade Horizon Inc,sales@cascadehorizoninc.com,(310) 914-0667,Houston,TX,United States,4.3,2019-06-19T14:15:52Z
+35,Stonewell Pacific Group,sales@stonewellpacificgroup.com,(432) 651-2437,Boston,MA,United States,4.9,2019-06-19T16:01:53Z
+36,Meridian Pioneer Co,sales@meridianpioneerco.com,(208) 329-5692,Cincinnati,OH,United States,4.5,2019-06-20T03:48:29Z
+37,Horizon Maple Leaf Distributors,sales@horizonmapleleafdistributors.com,(617) 609-5993,Fort Lauderdale,FL,United States,3.7,2019-06-20T08:30:11Z
+38,Pacific Crestwood Brands,sales@pacificcrestwoodbrands.com,(260) 417-3445,San Diego,CA,United States,3.9,2019-06-20T18:15:22Z
+39,Keystone Nova Corp,sales@keystonenovacorp.com,(702) 888-0007,Lexington,KY,United States,3.3,2019-06-21T09:36:47Z
+40,Crestwood Apex Brands,sales@crestwoodapexbrands.com,(719) 957-1846,Saint Louis,MO,United States,4,2019-06-22T08:08:59Z
+41,Evergreen Oakmont Inc,sales@evergreenoakmontinc.com,(516) 727-8408,Miami,FL,United States,3.7,2019-06-22T22:37:26Z
+42,Vertex Harborview Co,sales@vertexharborviewco.com,(727) 671-2394,Tucson,AZ,United States,4,2019-06-23T04:32:59Z
+43,Evergreen Ironclad Corp,sales@evergreenironcladcorp.com,(818) 813-6256,Sterling,VA,United States,3.9,2019-06-23T22:20:17Z
+44,Pacific Silverline Trading,sales@pacificsilverlinetrading.com,(314) 498-1340,San Jose,CA,United States,4.7,2019-06-24T18:25:39Z
+45,Maple Leaf Apex Corp,sales@mapleleafapexcorp.com,(919) 585-0204,Greensboro,NC,United States,4.1,2019-06-25T02:13:39Z
+46,Pinnacle Lakeshore LLC,sales@pinnaclelakeshorellc.com,(901) 324-8482,Fort Worth,TX,United States,3.6,2019-06-25T04:52:40Z
+47,Ironclad Stonewell Co,sales@ironcladstonewellco.com,(310) 390-5993,Lancaster,PA,United States,4.9,2019-06-25T15:14:15Z
+48,Apex Silverline Group,sales@apexsilverlinegroup.com,(704) 409-2966,Dallas,TX,United States,4.2,2019-06-25T15:46:54Z
+49,Atlantic Liberty Distributors,sales@atlanticlibertydistributors.com,(817) 645-5256,Youngstown,OH,United States,4.3,2019-06-25T17:01:33Z
+50,Meridian Keystone Distributors,sales@meridiankeystonedistributors.com,(208) 962-3188,Charlotte,NC,United States,3.4,2019-06-26T04:05:27Z
+51,Stonewell Liberty Supply Co,sales@stonewelllibertysupplyco.com,(316) 990-5396,Austin,TX,United States,4.8,2019-06-26T15:25:07Z
+52,Ironclad Golden Gate Distributors,sales@ironcladgoldengatedistributors.com,(720) 967-4646,Warren,OH,United States,4.8,2019-06-26T15:29:18Z
+53,Pacific Horizon Brands,sales@pacifichorizonbrands.com,(228) 299-3339,Pompano Beach,FL,United States,4.1,2019-06-27T03:52:06Z
+54,Pacific Frontier Distributors,sales@pacificfrontierdistributors.com,(918) 553-2226,Carson City,NV,United States,4.8,2019-06-27T13:34:19Z
+55,Pacific Evergreen Supply Co,sales@pacificevergreensupplyco.com,(916) 980-6605,Carol Stream,IL,United States,3.8,2019-06-27T15:51:36Z
+56,Maple Leaf Nova Supply Co,sales@mapleleafnovasupplyco.com,(813) 353-6442,Charlotte,NC,United States,3.9,2019-06-27T21:27:29Z
+57,Oakmont Vanguard Group,sales@oakmontvanguardgroup.com,(303) 587-7464,Spokane,WA,United States,4.5,2019-06-28T07:45:42Z
+58,Copperfield Meridian Corp,sales@copperfieldmeridiancorp.com,(361) 968-8561,Winston Salem,NC,United States,3.9,2019-06-28T18:40:10Z
+59,Harborview Cascade Industries,sales@harborviewcascadeindustries.com,(816) 370-4749,Winston Salem,NC,United States,4.1,2019-06-28T22:55:42Z
+60,Vanguard Pioneer Distributors,sales@vanguardpioneerdistributors.com,(901) 810-5593,Carol Stream,IL,United States,4.1,2019-06-29T14:39:35Z
+61,Keystone Beacon Brands,sales@keystonebeaconbrands.com,(678) 614-4965,Lees Summit,MO,United States,3.3,2019-06-30T04:31:15Z
+62,Cascade Ironclad LLC,sales@cascadeironcladllc.com,(256) 445-6752,Pasadena,TX,United States,4.3,2019-06-30T07:58:28Z
+63,Stonewell Keystone Group,sales@stonewellkeystonegroup.com,(334) 565-4532,Billings,MT,United States,4.8,2019-06-30T10:55:23Z
+64,Vanguard Cascade Trading,sales@vanguardcascadetrading.com,(508) 635-6815,Jersey City,NJ,United States,3.4,2019-06-30T16:49:02Z
+65,Liberty Evergreen Supply Co,sales@libertyevergreensupplyco.com,(615) 513-9148,Arlington,TX,United States,4.6,2019-06-30T23:14:50Z
+66,Cascade Beacon LLC,sales@cascadebeaconllc.com,(813) 906-3727,Omaha,NE,United States,3.5,2019-07-01T21:24:41Z
+67,Vanguard Pacific Trading,sales@vanguardpacifictrading.com,(661) 643-6162,Modesto,CA,United States,4.5,2019-07-02T18:33:42Z
+68,Horizon Frontier Inc,sales@horizonfrontierinc.com,(801) 357-1726,Saint Petersburg,FL,United States,3.2,2019-07-02T21:59:28Z
+69,Evergreen Horizon Group,sales@evergreenhorizongroup.com,(601) 700-1536,Green Bay,WI,United States,3.9,2019-07-03T06:04:13Z
+70,Cascade Nova Corp,sales@cascadenovacorp.com,(316) 582-5486,Cincinnati,OH,United States,3.3,2019-07-03T19:11:13Z

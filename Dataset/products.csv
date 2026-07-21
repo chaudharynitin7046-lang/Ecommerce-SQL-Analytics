@@ -1,0 +1,1201 @@
+id,sku,name,description,category_id,supplier_id,price,cost,stock_quantity,weight_kg,is_active,created_at
+1,SKU-31-581016,Lightweight Serum 236,Lightweight Serum 236 — quality skincare product.,31,26,573.59,372.32,196,3.6,1,2021-01-01T07:51:45Z
+2,SKU-17-335147,Elite Blender 641,Elite Blender 641 — quality small appliances product.,17,63,291.85,147,162,9.62,1,2021-01-01T10:00:11Z
+3,SKU-17-606851,Deluxe Blender 723,Deluxe Blender 723 — quality small appliances product.,17,61,135.97,93.09,198,8.57,1,2021-01-01T16:46:00Z
+4,SKU-21-947150,Elite Sneakers 597,Elite Sneakers 597 — quality shoes product.,21,4,783.15,365.89,426,1.92,1,2021-01-01T18:38:19Z
+5,SKU-34-776434,Smart Multivitamin 758,Smart Multivitamin 758 — quality vitamins product.,34,43,270.2,151.43,150,0.48,1,2021-01-01T22:49:14Z
+6,SKU-11-605738,Smart Headset 141,Smart Headset 141 — quality headphones product.,11,44,507.72,292.94,418,6.54,1,2021-01-01T23:15:25Z
+7,SKU-23-377206,Elite Biography 791,Elite Biography 791 — quality non-fiction product.,23,19,464.34,324.48,31,5.32,1,2021-01-02T05:02:50Z
+8,SKU-17-413605,Compact Toaster 770,Compact Toaster 770 — quality small appliances product.,17,22,569.66,336.56,301,14.59,1,2021-01-02T10:10:04Z
+9,SKU-21-322605,Deluxe Sneakers 639,Deluxe Sneakers 639 — quality shoes product.,21,24,527.96,240.23,93,8.32,1,2021-01-02T10:49:53Z
+10,SKU-24-805573,Portable Storybook 468,Portable Storybook 468 — quality children's books product.,24,22,358.52,171.53,88,0.74,1,2021-01-02T10:54:39Z
+11,SKU-14-115253,Ultra Dutch Oven 813,Ultra Dutch Oven 813 — quality cookware product.,14,55,134.89,92.4,497,14.22,1,2021-01-02T14:33:17Z
+12,SKU-26-412745,Deluxe Tent 394,Deluxe Tent 394 — quality camping product.,26,10,505.16,339.98,319,4.62,1,2021-01-02T16:40:34Z
+13,SKU-21-233204,Deluxe Boots 553,Deluxe Boots 553 — quality shoes product.,21,69,761.84,369.13,307,14.57,1,2021-01-02T23:44:31Z
+14,SKU-32-469736,Portable Lipstick 194,Portable Lipstick 194 — quality makeup product.,32,32,499.49,364.72,97,13.99,1,2021-01-03T06:46:18Z
+15,SKU-23-958323,Smart Biography 922,Smart Biography 922 — quality non-fiction product.,23,2,528.49,365.35,332,2,0,2021-01-03T08:24:39Z
+16,SKU-30-610528,Eco Puzzle 667,Eco Puzzle 667 — quality educational product.,30,54,578.06,275.45,119,14.1,1,2021-01-03T09:23:44Z
+17,SKU-21-275326,Portable Running Shoes 433,Portable Running Shoes 433 — quality shoes product.,21,17,566.56,301.95,174,11.55,1,2021-01-03T15:26:51Z
+18,SKU-14-311033,Portable Cookware Set 176,Portable Cookware Set 176 — quality cookware product.,14,48,70.54,45.98,129,0.45,1,2021-01-03T15:51:47Z
+19,SKU-29-523782,Prime Collectible Figure 845,Prime Collectible Figure 845 — quality action figures product.,29,55,276.13,163.78,367,9.11,1,2021-01-03T17:14:04Z
+20,SKU-22-043600,Prime Novel 758,Prime Novel 758 — quality fiction product.,22,43,641.26,334.24,298,3.61,1,2021-01-03T21:29:43Z
+21,SKU-27-656883,Lightweight Bike Light 745,Lightweight Bike Light 745 — quality cycling product.,27,64,181.33,117.94,176,7.31,1,2021-01-03T22:36:58Z
+22,SKU-13-185882,Heavy-Duty 4K TV 665,Heavy-Duty 4K TV 665 — quality televisions product.,13,35,517.48,370.3,44,12.39,1,2021-01-04T03:27:12Z
+23,SKU-34-312055,Heavy-Duty Omega-3 486,Heavy-Duty Omega-3 486 — quality vitamins product.,34,64,437.59,247.84,317,14.9,0,2021-01-04T06:35:40Z
+24,SKU-34-356649,Portable Probiotic 534,Portable Probiotic 534 — quality vitamins product.,34,19,652.94,317.44,498,4.88,1,2021-01-04T07:06:36Z
+25,SKU-31-241173,Eco Serum 108,Eco Serum 108 — quality skincare product.,31,2,743.36,396.9,322,12.61,0,2021-01-04T14:23:29Z
+26,SKU-33-853747,Pro Shampoo 952,Pro Shampoo 952 — quality hair care product.,33,3,229.56,173.22,413,12.12,1,2021-01-04T15:19:52Z
+27,SKU-23-275744,Essential Biography 287,Essential Biography 287 — quality non-fiction product.,23,27,511.44,374.9,283,14.09,0,2021-01-04T18:05:43Z
+28,SKU-12-062245,Lightweight DSLR 679,Lightweight DSLR 679 — quality cameras product.,12,44,404.67,217.17,424,13.83,0,2021-01-04T18:59:36Z
+29,SKU-15-831155,Heavy-Duty Bookshelf 358,Heavy-Duty Bookshelf 358 — quality furniture product.,15,20,292.37,188.99,160,3.13,1,2021-01-05T01:44:31Z
+30,SKU-19-372016,Ultra Leggings 353,Ultra Leggings 353 — quality women's product.,19,8,402.65,250.22,44,11.89,1,2021-01-05T08:35:00Z
+31,SKU-22-667021,Essential Paperback 422,Essential Paperback 422 — quality fiction product.,22,42,92.55,43.07,491,1.37,0,2021-01-05T14:50:02Z
+32,SKU-20-707527,Prime Kids Jacket 564,Prime Kids Jacket 564 — quality kids product.,20,24,269.33,168.65,458,4.34,1,2021-01-05T17:45:58Z
+33,SKU-10-562681,Smart Mobile 899,Smart Mobile 899 — quality smartphones product.,10,66,341.39,182.92,307,11.28,1,2021-01-05T22:41:45Z
+34,SKU-17-584301,Premium Blender 468,Premium Blender 468 — quality small appliances product.,17,5,451.51,207.38,492,6.12,0,2021-01-06T01:32:43Z
+35,SKU-33-740005,Ultra Hair Oil 428,Ultra Hair Oil 428 — quality hair care product.,33,29,250.37,142.25,288,9.87,1,2021-01-06T05:54:54Z
+36,SKU-20-023936,Pro Kids T-Shirt 168,Pro Kids T-Shirt 168 — quality kids product.,20,65,128.86,97.61,415,0.58,1,2021-01-06T09:21:38Z
+37,SKU-12-869984,Classic Action Cam 443,Classic Action Cam 443 — quality cameras product.,12,68,510.5,292.81,262,11.14,1,2021-01-06T17:12:32Z
+38,SKU-22-364799,Pro Paperback 819,Pro Paperback 819 — quality fiction product.,22,43,321.77,243.46,323,12.82,1,2021-01-06T18:47:42Z
+39,SKU-27-391934,Compact Cycling Gloves 327,Compact Cycling Gloves 327 — quality cycling product.,27,69,380.18,206.92,172,5.54,1,2021-01-07T02:46:12Z
+40,SKU-14-619970,Heavy-Duty Dutch Oven 587,Heavy-Duty Dutch Oven 587 — quality cookware product.,14,1,148.85,96.62,461,11.82,1,2021-01-07T09:06:50Z
+41,SKU-22-592038,Smart Novel 579,Smart Novel 579 — quality fiction product.,22,50,193.55,94.05,205,10.12,1,2021-01-07T14:34:12Z
+42,SKU-15-443293,Elite Desk 382,Elite Desk 382 — quality furniture product.,15,39,117.25,60.18,236,8,1,2021-01-07T16:12:20Z
+43,SKU-26-506795,Eco Backpack 927,Eco Backpack 927 — quality camping product.,26,35,11.47,5.81,326,10.99,1,2021-01-07T16:50:20Z
+44,SKU-26-981213,Compact Camp Stove 404,Compact Camp Stove 404 — quality camping product.,26,34,514.39,247.47,238,12.46,1,2021-01-07T19:22:41Z
+45,SKU-9-345226,Prime Laptop 579,Prime Laptop 579 — quality laptops product.,9,13,381.74,189.47,400,15.05,1,2021-01-07T19:32:05Z
+46,SKU-12-290029,Elite DSLR 758,Elite DSLR 758 — quality cameras product.,12,2,476.35,277.74,452,0.37,1,2021-01-08T02:03:05Z
+47,SKU-16-472937,Lightweight Comforter 270,Lightweight Comforter 270 — quality bedding product.,16,13,166.11,108.69,25,11.03,1,2021-01-08T06:37:43Z
+48,SKU-24-929942,Smart Picture Book 283,Smart Picture Book 283 — quality children's books product.,24,44,119.56,66.59,283,0.16,1,2021-01-08T07:15:33Z
+49,SKU-29-315029,Compact Action Figure 465,Compact Action Figure 465 — quality action figures product.,29,37,54.43,27.38,285,12.72,1,2021-01-08T09:43:27Z
+50,SKU-18-938970,Elite Jacket 370,Elite Jacket 370 — quality men's product.,18,67,486.98,350.47,129,1.56,1,2021-01-08T11:52:53Z
+51,SKU-12-806385,Lightweight Camera 448,Lightweight Camera 448 — quality cameras product.,12,49,623.32,369.63,122,8.51,1,2021-01-08T18:55:26Z
+52,SKU-25-519239,Smart Kettlebell 901,Smart Kettlebell 901 — quality fitness product.,25,37,328.68,189.85,415,8,0,2021-01-08T22:36:03Z
+53,SKU-30-597090,Deluxe Puzzle 392,Deluxe Puzzle 392 — quality educational product.,30,25,200.46,135.54,396,3.22,1,2021-01-09T04:38:42Z
+54,SKU-9-613636,Premium Chromebook 625,Premium Chromebook 625 — quality laptops product.,9,39,322.23,152.81,224,8.36,1,2021-01-09T05:45:21Z
+55,SKU-11-701478,Max Earbuds 160,Max Earbuds 160 — quality headphones product.,11,32,245.46,170.57,305,10.69,1,2021-01-09T09:39:23Z
+56,SKU-19-279803,Ultra Cardigan 346,Ultra Cardigan 346 — quality women's product.,19,40,526.27,340.73,319,4.42,1,2021-01-09T15:26:38Z
+57,SKU-12-235843,Smart Camera 128,Smart Camera 128 — quality cameras product.,12,50,51.91,26.19,221,4.98,1,2021-01-09T16:23:58Z
+58,SKU-25-886554,Compact Kettlebell 939,Compact Kettlebell 939 — quality fitness product.,25,4,357.14,177.94,336,7.68,1,2021-01-10T00:01:34Z
+59,SKU-12-067703,Deluxe Camera 606,Deluxe Camera 606 — quality cameras product.,12,47,644.9,327.75,101,4.41,1,2021-01-10T02:13:50Z
+60,SKU-25-918091,Eco Yoga Mat 455,Eco Yoga Mat 455 — quality fitness product.,25,14,228.74,151.02,497,3.41,1,2021-01-10T09:52:50Z
+61,SKU-23-913071,Heavy-Duty Guidebook 723,Heavy-Duty Guidebook 723 — quality non-fiction product.,23,28,776.28,366.81,321,12.93,1,2021-01-10T10:59:12Z
+62,SKU-21-806453,Prime Sandals 226,Prime Sandals 226 — quality shoes product.,21,34,92.56,59.32,11,10.99,1,2021-01-10T18:12:52Z
+63,SKU-12-341925,Essential Action Cam 216,Essential Action Cam 216 — quality cameras product.,12,47,223.37,104.97,81,3.06,1,2021-01-11T00:49:55Z
+64,SKU-10-437965,Portable Smartphone 367,Portable Smartphone 367 — quality smartphones product.,10,35,243.88,125.32,263,2.78,1,2021-01-11T03:35:42Z
+65,SKU-20-171606,Lightweight Kids Jacket 434,Lightweight Kids Jacket 434 — quality kids product.,20,25,451.82,236.22,432,9.83,1,2021-01-11T03:49:59Z
+66,SKU-22-039750,Smart Novel 939,Smart Novel 939 — quality fiction product.,22,54,85.47,52.97,102,6.12,1,2021-01-11T10:52:27Z
+67,SKU-25-447347,Ultra Kettlebell 281,Ultra Kettlebell 281 — quality fitness product.,25,51,601.52,379.61,302,7.21,1,2021-01-11T15:57:52Z
+68,SKU-33-930675,Eco Shampoo 247,Eco Shampoo 247 — quality hair care product.,33,13,392.94,300.12,8,11.03,1,2021-01-11T20:05:32Z
+69,SKU-35-808150,Classic Dish Soap 611,Classic Dish Soap 611 — quality cleaning product.,35,12,426.04,252.98,93,1.47,1,2021-01-11T23:56:33Z
+70,SKU-28-805879,Eco Card Game 201,Eco Card Game 201 — quality board games product.,28,29,808.76,400.3,464,12.04,1,2021-01-12T03:35:38Z
+71,SKU-17-375505,Essential Toaster 560,Essential Toaster 560 — quality small appliances product.,17,51,594.69,272.77,451,9.68,1,2021-01-12T07:36:25Z
+72,SKU-31-221339,Ultra Cleanser 736,Ultra Cleanser 736 — quality skincare product.,31,46,318.87,158.91,324,0.66,1,2021-01-12T09:48:07Z
+73,SKU-29-762423,Pro Action Figure 266,Pro Action Figure 266 — quality action figures product.,29,65,250.89,174.38,395,14.26,1,2021-01-12T10:38:25Z
+74,SKU-12-410078,Lightweight DSLR 421,Lightweight DSLR 421 — quality cameras product.,12,20,425.98,271.98,433,4.22,1,2021-01-12T17:31:14Z
+75,SKU-24-306019,Essential Picture Book 320,Essential Picture Book 320 — quality children's books product.,24,49,562.04,310.4,304,0.97,1,2021-01-12T21:27:53Z
+76,SKU-18-914465,Deluxe Jacket 354,Deluxe Jacket 354 — quality men's product.,18,17,462.5,342.33,398,2.24,0,2021-01-13T05:16:48Z
+77,SKU-10-881056,Portable Mobile 837,Portable Mobile 837 — quality smartphones product.,10,8,707.95,395.58,142,1.31,1,2021-01-13T09:42:44Z
+78,SKU-14-328023,Portable Saucepan 938,Portable Saucepan 938 — quality cookware product.,14,17,665.62,319.16,410,2.46,1,2021-01-13T17:21:18Z
+79,SKU-15-146951,Max Desk 178,Max Desk 178 — quality furniture product.,15,52,475.06,349.89,34,15.08,1,2021-01-14T01:09:49Z
+80,SKU-19-647310,Deluxe Dress 486,Deluxe Dress 486 — quality women's product.,19,46,603.23,274.25,234,12.18,1,2021-01-14T04:47:36Z
+81,SKU-10-141726,Classic Mobile 153,Classic Mobile 153 — quality smartphones product.,10,33,213.16,114.25,471,7.11,1,2021-01-14T07:27:42Z
+82,SKU-35-481133,Ultra Laundry Detergent 491,Ultra Laundry Detergent 491 — quality cleaning product.,35,31,411.77,223.71,91,12.37,1,2021-01-14T13:36:25Z
+83,SKU-32-026248,Smart Lipstick 607,Smart Lipstick 607 — quality makeup product.,32,39,403.76,244.37,195,12.46,1,2021-01-14T21:07:11Z
+84,SKU-31-760155,Portable Moisturizer 414,Portable Moisturizer 414 — quality skincare product.,31,16,699.57,380.11,109,11.98,1,2021-01-15T03:21:41Z
+85,SKU-13-114864,Portable LED TV 503,Portable LED TV 503 — quality televisions product.,13,64,41.09,22.95,354,7.46,1,2021-01-15T05:01:17Z
+86,SKU-32-122247,Prime Eyeshadow Palette 131,Prime Eyeshadow Palette 131 — quality makeup product.,32,70,744.49,384.03,277,9.6,1,2021-01-15T10:21:45Z
+87,SKU-23-671418,Eco Biography 612,Eco Biography 612 — quality non-fiction product.,23,70,641.7,349.22,464,8.24,1,2021-01-15T17:22:52Z
+88,SKU-26-153422,Deluxe Sleeping Bag 980,Deluxe Sleeping Bag 980 — quality camping product.,26,17,34.58,17.59,200,4.88,1,2021-01-16T00:50:56Z
+89,SKU-19-353941,Deluxe Dress 784,Deluxe Dress 784 — quality women's product.,19,43,471.82,226.62,210,11.83,1,2021-01-16T08:18:05Z
+90,SKU-12-878873,Classic Camera 836,Classic Camera 836 — quality cameras product.,12,59,336.45,156.93,139,4.18,1,2021-01-16T13:33:57Z
+91,SKU-10-753993,Compact Phone 909,Compact Phone 909 — quality smartphones product.,10,8,281.57,151.59,349,0.84,1,2021-01-16T17:14:51Z
+92,SKU-26-524243,Pro Camp Stove 318,Pro Camp Stove 318 — quality camping product.,26,11,670.24,388.14,207,12.48,1,2021-01-16T22:49:27Z
+93,SKU-17-479800,Prime Coffee Maker 763,Prime Coffee Maker 763 — quality small appliances product.,17,36,343.92,171.93,376,4.3,1,2021-01-17T04:38:45Z
+94,SKU-23-219537,Ultra Guidebook 407,Ultra Guidebook 407 — quality non-fiction product.,23,30,103.46,53.43,262,1.3,1,2021-01-17T11:15:23Z
+95,SKU-23-007039,Essential Guidebook 759,Essential Guidebook 759 — quality non-fiction product.,23,45,795.38,370.03,381,10.72,1,2021-01-17T14:09:45Z
+96,SKU-32-071130,Heavy-Duty Mascara 381,Heavy-Duty Mascara 381 — quality makeup product.,32,47,508.41,276.5,481,6.72,0,2021-01-17T15:57:43Z
+97,SKU-14-833088,Classic Cookware Set 102,Classic Cookware Set 102 — quality cookware product.,14,7,737.75,402.06,343,6.86,0,2021-01-17T19:51:56Z
+98,SKU-26-889240,Heavy-Duty Backpack 709,Heavy-Duty Backpack 709 — quality camping product.,26,21,414.95,292.17,88,7.46,1,2021-01-17T22:21:57Z
+99,SKU-29-628632,Prime Collectible Figure 342,Prime Collectible Figure 342 — quality action figures product.,29,11,79.18,43.95,111,7.16,1,2021-01-18T03:27:29Z
+100,SKU-27-799334,Eco Bike Light 301,Eco Bike Light 301 — quality cycling product.,27,3,249.39,117.82,25,13.97,1,2021-01-18T04:25:51Z
+101,SKU-30-273745,Eco Puzzle 361,Eco Puzzle 361 — quality educational product.,30,62,409.93,272.13,189,9.8,1,2021-01-18T09:52:19Z
+102,SKU-20-743154,Premium Kids Shorts 466,Premium Kids Shorts 466 — quality kids product.,20,32,405.96,203.92,227,0.65,1,2021-01-18T14:26:51Z
+103,SKU-27-580499,Prime Helmet 271,Prime Helmet 271 — quality cycling product.,27,34,294.4,191.37,457,7.97,1,2021-01-18T22:12:34Z
+104,SKU-17-636049,Smart Air Fryer 664,Smart Air Fryer 664 — quality small appliances product.,17,69,615.59,332.16,174,13.01,1,2021-01-19T04:30:26Z
+105,SKU-18-682388,Prime Hoodie 928,Prime Hoodie 928 — quality men's product.,18,24,426.98,231.12,60,7.71,1,2021-01-19T05:07:11Z
+106,SKU-17-207045,Portable Toaster 606,Portable Toaster 606 — quality small appliances product.,17,16,343.79,258.74,24,9.25,1,2021-01-19T11:22:24Z
+107,SKU-23-097535,Pro Guidebook 590,Pro Guidebook 590 — quality non-fiction product.,23,18,344.47,244.59,383,13.86,1,2021-01-19T16:34:47Z
+108,SKU-26-998018,Eco Backpack 739,Eco Backpack 739 — quality camping product.,26,8,437.15,264.91,369,10.85,1,2021-01-19T23:41:17Z
+109,SKU-18-234833,Lightweight Jeans 596,Lightweight Jeans 596 — quality men's product.,18,39,402.41,203.1,379,5.74,1,2021-01-20T03:38:25Z
+110,SKU-24-646271,Classic Storybook 919,Classic Storybook 919 — quality children's books product.,24,54,126.78,79.52,395,14.53,1,2021-01-20T06:58:38Z
+111,SKU-31-400331,Eco Cleanser 795,Eco Cleanser 795 — quality skincare product.,31,38,168.58,91.05,346,10.85,1,2021-01-20T07:49:36Z
+112,SKU-31-405384,Eco Cleanser 780,Eco Cleanser 780 — quality skincare product.,31,42,393.51,208.63,31,6.81,0,2021-01-20T11:20:55Z
+113,SKU-23-136977,Premium Handbook 330,Premium Handbook 330 — quality non-fiction product.,23,2,84.26,44.66,390,7.64,1,2021-01-20T13:11:35Z
+114,SKU-21-082457,Essential Boots 767,Essential Boots 767 — quality shoes product.,21,9,186.39,104.04,28,3.23,1,2021-01-20T21:09:11Z
+115,SKU-27-838109,Prime Cycling Gloves 213,Prime Cycling Gloves 213 — quality cycling product.,27,52,880.11,402.17,80,14.55,1,2021-01-20T23:12:27Z
+116,SKU-32-616782,Deluxe Foundation 987,Deluxe Foundation 987 — quality makeup product.,32,36,597.34,363.72,120,12.52,1,2021-01-21T02:09:35Z
+117,SKU-15-886711,Ultra Office Chair 929,Ultra Office Chair 929 — quality furniture product.,15,40,485.34,234.02,204,8.59,1,2021-01-21T08:55:49Z
+118,SKU-35-032141,Classic All-Purpose Cleaner 204,Classic All-Purpose Cleaner 204 — quality cleaning product.,35,10,245.84,184.47,12,5.99,1,2021-01-21T11:13:26Z
+119,SKU-32-537688,Elite Foundation 910,Elite Foundation 910 — quality makeup product.,32,33,66.17,36.14,258,10.71,1,2021-01-21T16:15:53Z
+120,SKU-9-151401,Pro Ultrabook 637,Pro Ultrabook 637 — quality laptops product.,9,5,545.76,318.6,149,0.19,1,2021-01-21T19:42:19Z
+121,SKU-28-908990,Max Strategy Game 439,Max Strategy Game 439 — quality board games product.,28,32,351.39,179.21,116,3.49,1,2021-01-21T21:02:48Z
+122,SKU-35-574246,Pro All-Purpose Cleaner 683,Pro All-Purpose Cleaner 683 — quality cleaning product.,35,57,197.84,96.2,36,9.84,1,2021-01-22T04:58:58Z
+123,SKU-35-796035,Lightweight Laundry Detergent 170,Lightweight Laundry Detergent 170 — quality cleaning product.,35,34,366.76,195.58,78,3.92,1,2021-01-22T11:18:11Z
+124,SKU-29-021499,Classic Collectible Figure 600,Classic Collectible Figure 600 — quality action figures product.,29,30,155.07,77.81,147,9.38,1,2021-01-22T17:37:11Z
+125,SKU-32-284719,Essential Mascara 345,Essential Mascara 345 — quality makeup product.,32,48,211.98,96.43,378,0.26,0,2021-01-22T19:35:10Z
+126,SKU-20-875577,Lightweight Kids T-Shirt 868,Lightweight Kids T-Shirt 868 — quality kids product.,20,36,393.11,203.7,38,5.27,1,2021-01-22T21:59:49Z
+127,SKU-15-162088,Heavy-Duty Desk 278,Heavy-Duty Desk 278 — quality furniture product.,15,43,14.63,8.76,314,9.52,1,2021-01-22T22:21:15Z
+128,SKU-31-182145,Ultra Face Cream 266,Ultra Face Cream 266 — quality skincare product.,31,29,243.19,142.96,144,1.87,1,2021-01-22T23:12:50Z
+129,SKU-23-764061,Elite Guidebook 347,Elite Guidebook 347 — quality non-fiction product.,23,7,361.57,275.79,203,11.99,1,2021-01-23T05:31:48Z
+130,SKU-11-345709,Essential Headphones 248,Essential Headphones 248 — quality headphones product.,11,46,86.61,42.41,384,7.45,1,2021-01-23T07:20:23Z
+131,SKU-25-695206,Heavy-Duty Resistance Bands 480,Heavy-Duty Resistance Bands 480 — quality fitness product.,25,53,367.03,179.45,13,6.11,1,2021-01-23T13:45:27Z
+132,SKU-26-588310,Max Tent 232,Max Tent 232 — quality camping product.,26,56,667.8,351.68,454,1.38,1,2021-01-23T16:45:42Z
+133,SKU-11-200443,Eco Headphones 447,Eco Headphones 447 — quality headphones product.,11,52,202.74,122.81,330,3.59,1,2021-01-23T18:40:23Z
+134,SKU-33-512257,Pro Shampoo 951,Pro Shampoo 951 — quality hair care product.,33,66,317.5,185.17,206,14.18,1,2021-01-23T22:05:27Z
+135,SKU-17-183692,Ultra Blender 865,Ultra Blender 865 — quality small appliances product.,17,61,405.57,262.14,472,13.41,1,2021-01-23T23:21:04Z
+136,SKU-13-616669,Portable LED TV 217,Portable LED TV 217 — quality televisions product.,13,60,675.61,324.44,277,3.92,0,2021-01-24T02:46:06Z
+137,SKU-19-356896,Smart Blouse 812,Smart Blouse 812 — quality women's product.,19,69,36.72,23.35,455,11.71,1,2021-01-24T09:32:05Z
+138,SKU-22-214677,Ultra Novel 108,Ultra Novel 108 — quality fiction product.,22,61,442.96,276.19,204,13.73,1,2021-01-24T17:05:04Z
+139,SKU-19-438849,Max Blouse 220,Max Blouse 220 — quality women's product.,19,13,579.4,306.56,378,2.67,1,2021-01-24T20:12:28Z
+140,SKU-30-295975,Classic STEM Kit 489,Classic STEM Kit 489 — quality educational product.,30,33,691.03,319.45,283,5.2,1,2021-01-24T21:56:33Z
+141,SKU-20-742404,Classic Kids Jacket 333,Classic Kids Jacket 333 — quality kids product.,20,18,348.65,225.35,138,2.37,1,2021-01-25T00:15:41Z
+142,SKU-13-396163,Compact LED TV 158,Compact LED TV 158 — quality televisions product.,13,61,287.62,146.35,194,10.03,1,2021-01-25T04:22:02Z
+143,SKU-25-389249,Lightweight Resistance Bands 711,Lightweight Resistance Bands 711 — quality fitness product.,25,16,100.42,72.36,381,3.59,1,2021-01-25T06:49:32Z
+144,SKU-34-955057,Pro Multivitamin 746,Pro Multivitamin 746 — quality vitamins product.,34,36,68.16,31.12,293,10.98,1,2021-01-25T12:22:39Z
+145,SKU-27-221852,Max Bike Light 245,Max Bike Light 245 — quality cycling product.,27,20,82.07,44.63,443,3.74,1,2021-01-25T15:17:14Z
+146,SKU-35-362029,Smart All-Purpose Cleaner 597,Smart All-Purpose Cleaner 597 — quality cleaning product.,35,50,387.75,250.28,102,5.39,1,2021-01-25T16:10:12Z
+147,SKU-17-435824,Classic Air Fryer 826,Classic Air Fryer 826 — quality small appliances product.,17,2,175.34,126.78,218,7.14,1,2021-01-25T23:10:04Z
+148,SKU-28-807458,Smart Board Game 631,Smart Board Game 631 — quality board games product.,28,38,290.73,160.28,463,7.64,0,2021-01-26T00:46:47Z
+149,SKU-19-329831,Essential Cardigan 923,Essential Cardigan 923 — quality women's product.,19,61,486.46,233.51,306,12.94,1,2021-01-26T06:55:28Z
+150,SKU-14-597792,Portable Saucepan 864,Portable Saucepan 864 — quality cookware product.,14,62,337.78,170.86,69,1.72,1,2021-01-26T14:23:46Z
+151,SKU-15-281810,Classic Desk 128,Classic Desk 128 — quality furniture product.,15,63,328.91,154.8,338,1.97,1,2021-01-26T16:25:50Z
+152,SKU-27-665341,Smart Helmet 135,Smart Helmet 135 — quality cycling product.,27,52,258.07,190.59,321,14.06,1,2021-01-27T00:05:28Z
+153,SKU-25-477025,Eco Resistance Bands 870,Eco Resistance Bands 870 — quality fitness product.,25,47,568.28,361.5,253,5.26,1,2021-01-27T05:50:02Z
+154,SKU-23-362792,Classic Guidebook 796,Classic Guidebook 796 — quality non-fiction product.,23,25,780.16,368.66,306,7.67,1,2021-01-27T06:12:27Z
+155,SKU-24-483359,Portable Storybook 785,Portable Storybook 785 — quality children's books product.,24,66,653.22,352.11,245,9.03,1,2021-01-27T11:26:59Z
+156,SKU-18-162403,Smart T-Shirt 291,Smart T-Shirt 291 — quality men's product.,18,61,129.46,67.02,485,5.66,1,2021-01-27T16:32:24Z
+157,SKU-24-544379,Heavy-Duty Picture Book 387,Heavy-Duty Picture Book 387 — quality children's books product.,24,35,441.2,253.67,278,6.42,1,2021-01-27T21:34:58Z
+158,SKU-28-910670,Premium Card Game 954,Premium Card Game 954 — quality board games product.,28,29,371.18,219.95,240,8.38,1,2021-01-28T04:00:14Z
+159,SKU-33-524196,Classic Hair Oil 577,Classic Hair Oil 577 — quality hair care product.,33,69,192.8,111.41,187,2.69,1,2021-01-28T10:31:39Z
+160,SKU-20-114188,Classic Kids Shorts 264,Classic Kids Shorts 264 — quality kids product.,20,37,560.82,296.86,240,4.98,1,2021-01-28T11:32:52Z
+161,SKU-14-134370,Elite Saucepan 262,Elite Saucepan 262 — quality cookware product.,14,28,411.63,246.57,147,4.73,0,2021-01-28T14:03:21Z
+162,SKU-15-371988,Max Sofa 359,Max Sofa 359 — quality furniture product.,15,39,353.67,239.91,489,0.51,1,2021-01-28T17:13:42Z
+163,SKU-20-383049,Eco Kids Jacket 385,Eco Kids Jacket 385 — quality kids product.,20,39,108.01,67.79,310,5.4,1,2021-01-28T22:18:56Z
+164,SKU-33-038130,Portable Hair Oil 861,Portable Hair Oil 861 — quality hair care product.,33,58,428.47,238.33,50,5.01,1,2021-01-28T22:49:41Z
+165,SKU-12-450760,Max Camera 871,Max Camera 871 — quality cameras product.,12,61,686.07,361.51,324,7.59,1,2021-01-29T04:01:26Z
+166,SKU-21-557860,Deluxe Boots 178,Deluxe Boots 178 — quality shoes product.,21,54,404.83,241.64,438,9.22,1,2021-01-29T06:33:04Z
+167,SKU-23-805182,Prime Biography 716,Prime Biography 716 — quality non-fiction product.,23,41,158.37,91.64,55,8.51,1,2021-01-29T13:19:01Z
+168,SKU-22-104992,Elite Novel 319,Elite Novel 319 — quality fiction product.,22,61,380.66,247.94,189,5.66,1,2021-01-29T14:26:56Z
+169,SKU-25-580928,Essential Yoga Mat 842,Essential Yoga Mat 842 — quality fitness product.,25,8,126.83,72.62,440,6.47,1,2021-01-29T17:38:18Z
+170,SKU-34-082007,Ultra Multivitamin 546,Ultra Multivitamin 546 — quality vitamins product.,34,29,367.16,198.38,92,7.04,1,2021-01-30T00:39:52Z
+171,SKU-28-951152,Pro Board Game 272,Pro Board Game 272 — quality board games product.,28,29,57.56,26.47,403,8.52,1,2021-01-30T08:38:54Z
+172,SKU-11-428304,Pro Earbuds 938,Pro Earbuds 938 — quality headphones product.,11,50,430.11,224.93,126,9.56,1,2021-01-30T09:27:18Z
+173,SKU-34-029186,Compact Probiotic 461,Compact Probiotic 461 — quality vitamins product.,34,29,145.67,99.07,73,4.36,1,2021-01-30T13:01:34Z
+174,SKU-15-493293,Essential Sofa 230,Essential Sofa 230 — quality furniture product.,15,8,561.04,255.64,358,4.78,1,2021-01-30T20:29:21Z
+175,SKU-29-748405,Ultra Collectible Figure 131,Ultra Collectible Figure 131 — quality action figures product.,29,36,562.24,256.21,74,11.73,1,2021-01-31T02:51:59Z
+176,SKU-10-024440,Elite Mobile 557,Elite Mobile 557 — quality smartphones product.,10,19,339.2,248.98,226,12.48,1,2021-01-31T06:38:15Z
+177,SKU-33-285931,Premium Conditioner 574,Premium Conditioner 574 — quality hair care product.,33,69,466.36,227.99,46,10.11,1,2021-01-31T07:16:21Z
+178,SKU-27-721803,Classic Cycling Gloves 911,Classic Cycling Gloves 911 — quality cycling product.,27,17,459.83,254.19,286,14.51,1,2021-01-31T15:03:05Z
+179,SKU-13-790317,Eco Smart TV 725,Eco Smart TV 725 — quality televisions product.,13,46,157.35,95.55,9,12.94,1,2021-01-31T21:54:49Z
+180,SKU-15-835805,Max Sofa 118,Max Sofa 118 — quality furniture product.,15,21,74.99,56.73,260,7.28,1,2021-02-01T02:44:43Z
+181,SKU-10-536322,Deluxe Phone 133,Deluxe Phone 133 — quality smartphones product.,10,64,111.06,57.32,37,11.57,1,2021-02-01T10:30:54Z
+182,SKU-11-943865,Classic Headphones 467,Classic Headphones 467 — quality headphones product.,11,36,54.81,34.5,294,6.69,1,2021-02-01T15:58:09Z
+183,SKU-34-180727,Max Multivitamin 762,Max Multivitamin 762 — quality vitamins product.,34,65,543.38,285.9,44,12.88,1,2021-02-01T20:41:15Z
+184,SKU-18-330766,Smart Jacket 231,Smart Jacket 231 — quality men's product.,18,23,244,181.37,358,3.38,1,2021-02-02T01:06:36Z
+185,SKU-28-074221,Premium Card Game 823,Premium Card Game 823 — quality board games product.,28,15,14.29,10.33,447,1.42,1,2021-02-02T08:01:14Z
+186,SKU-12-306358,Elite DSLR 140,Elite DSLR 140 — quality cameras product.,12,46,688.3,390.09,359,12.02,1,2021-02-02T08:17:02Z
+187,SKU-22-926507,Classic Novel 612,Classic Novel 612 — quality fiction product.,22,8,187.4,140.2,499,7.61,1,2021-02-02T15:37:05Z
+188,SKU-25-988632,Deluxe Dumbbell Set 636,Deluxe Dumbbell Set 636 — quality fitness product.,25,15,371.87,206.31,357,2.69,1,2021-02-02T17:48:22Z
+189,SKU-26-176225,Essential Tent 760,Essential Tent 760 — quality camping product.,26,9,344.38,162,362,0.27,1,2021-02-02T21:18:09Z
+190,SKU-14-838775,Lightweight Frying Pan 702,Lightweight Frying Pan 702 — quality cookware product.,14,6,11.74,6.82,232,0.46,1,2021-02-03T00:06:37Z
+191,SKU-21-983245,Essential Sneakers 978,Essential Sneakers 978 — quality shoes product.,21,43,442.12,245.34,106,11.61,0,2021-02-03T00:22:53Z
+192,SKU-24-739636,Portable Storybook 930,Portable Storybook 930 — quality children's books product.,24,22,272.83,153.89,235,1.01,1,2021-02-03T04:48:50Z
+193,SKU-13-169794,Compact 4K TV 798,Compact 4K TV 798 — quality televisions product.,13,30,227.72,123.84,351,2.22,1,2021-02-03T07:37:01Z
+194,SKU-20-599763,Classic Kids Shorts 303,Classic Kids Shorts 303 — quality kids product.,20,25,164.93,125.32,257,4.51,1,2021-02-03T08:12:02Z
+195,SKU-21-485512,Pro Boots 799,Pro Boots 799 — quality shoes product.,21,22,389.39,183.62,162,6.57,0,2021-02-03T13:41:36Z
+196,SKU-34-976320,Portable Probiotic 299,Portable Probiotic 299 — quality vitamins product.,34,32,385.71,218.24,333,1.94,1,2021-02-03T14:10:09Z
+197,SKU-30-456225,Elite STEM Kit 903,Elite STEM Kit 903 — quality educational product.,30,17,497.8,238.89,158,2.56,0,2021-02-03T15:02:11Z
+198,SKU-26-133138,Lightweight Sleeping Bag 693,Lightweight Sleeping Bag 693 — quality camping product.,26,62,269.14,196,470,8.48,1,2021-02-03T16:20:19Z
+199,SKU-9-659882,Essential Chromebook 837,Essential Chromebook 837 — quality laptops product.,9,66,606.8,395.73,357,12.64,1,2021-02-04T00:03:34Z
+200,SKU-11-354733,Prime Headphones 469,Prime Headphones 469 — quality headphones product.,11,4,394.77,240.87,219,5.08,0,2021-02-04T06:26:30Z
+201,SKU-29-956516,Essential Action Figure 922,Essential Action Figure 922 — quality action figures product.,29,56,196.56,89.77,336,14.1,1,2021-02-04T08:19:56Z
+202,SKU-23-705506,Heavy-Duty Biography 464,Heavy-Duty Biography 464 — quality non-fiction product.,23,21,610.93,284.99,219,5.81,1,2021-02-04T10:17:40Z
+203,SKU-11-755964,Essential Headphones 516,Essential Headphones 516 — quality headphones product.,11,7,37.43,19.84,394,4.67,1,2021-02-04T10:40:46Z
+204,SKU-14-982259,Prime Frying Pan 672,Prime Frying Pan 672 — quality cookware product.,14,30,522.7,298.18,332,1.18,1,2021-02-04T11:51:46Z
+205,SKU-25-850048,Elite Dumbbell Set 825,Elite Dumbbell Set 825 — quality fitness product.,25,40,38.72,17.86,103,1.23,1,2021-02-04T16:43:03Z
+206,SKU-27-026550,Eco Bike Light 376,Eco Bike Light 376 — quality cycling product.,27,14,236.68,122.35,456,7.68,1,2021-02-04T16:45:32Z
+207,SKU-35-249547,Eco Dish Soap 899,Eco Dish Soap 899 — quality cleaning product.,35,27,250.17,114.28,390,1.5,1,2021-02-04T23:42:40Z
+208,SKU-23-736097,Prime Handbook 569,Prime Handbook 569 — quality non-fiction product.,23,14,30.93,19.99,429,5.45,1,2021-02-05T01:59:29Z
+209,SKU-31-947966,Heavy-Duty Serum 570,Heavy-Duty Serum 570 — quality skincare product.,31,69,140.74,106.02,300,6.06,1,2021-02-05T05:33:25Z
+210,SKU-16-513546,Elite Sheet Set 476,Elite Sheet Set 476 — quality bedding product.,16,57,559.73,311.66,396,1.06,1,2021-02-05T09:34:57Z
+211,SKU-24-447128,Ultra Picture Book 960,Ultra Picture Book 960 — quality children's books product.,24,10,128.33,91.1,8,11.61,1,2021-02-05T11:59:05Z
+212,SKU-13-187310,Deluxe Smart TV 730,Deluxe Smart TV 730 — quality televisions product.,13,50,613.61,314.3,204,1.78,1,2021-02-05T16:13:08Z
+213,SKU-10-825021,Compact Smartphone 546,Compact Smartphone 546 — quality smartphones product.,10,62,295.99,210.48,394,11.09,0,2021-02-05T20:31:34Z
+214,SKU-31-424976,Compact Serum 604,Compact Serum 604 — quality skincare product.,31,58,325.78,211.57,323,13.76,0,2021-02-06T04:30:46Z
+215,SKU-11-423056,Elite Headphones 210,Elite Headphones 210 — quality headphones product.,11,41,835.88,404.76,241,0.66,1,2021-02-06T05:23:03Z
+216,SKU-17-778549,Essential Coffee Maker 784,Essential Coffee Maker 784 — quality small appliances product.,17,49,606.86,347.1,109,9.95,1,2021-02-06T11:23:56Z
+217,SKU-15-733650,Smart Desk 560,Smart Desk 560 — quality furniture product.,15,51,747.56,352.68,358,0.68,1,2021-02-06T15:51:37Z
+218,SKU-35-534469,Compact Laundry Detergent 667,Compact Laundry Detergent 667 — quality cleaning product.,35,34,596.06,298.46,369,1.85,1,2021-02-06T21:48:52Z
+219,SKU-27-010066,Premium Helmet 171,Premium Helmet 171 — quality cycling product.,27,53,538.2,269.14,155,7.96,1,2021-02-06T23:46:35Z
+220,SKU-21-532579,Premium Running Shoes 464,Premium Running Shoes 464 — quality shoes product.,21,70,334.24,256.64,336,7.6,1,2021-02-07T00:53:14Z
+221,SKU-17-424388,Prime Toaster 346,Prime Toaster 346 — quality small appliances product.,17,7,275.99,154.98,122,2.07,1,2021-02-07T01:18:09Z
+222,SKU-25-637370,Smart Kettlebell 198,Smart Kettlebell 198 — quality fitness product.,25,55,272.14,199.77,494,14.08,1,2021-02-07T02:22:20Z
+223,SKU-19-198397,Ultra Leggings 559,Ultra Leggings 559 — quality women's product.,19,55,391.21,257.02,271,10.99,1,2021-02-07T08:17:42Z
+224,SKU-25-387647,Portable Yoga Mat 918,Portable Yoga Mat 918 — quality fitness product.,25,29,23.22,11.55,331,4.02,1,2021-02-07T13:50:16Z
+225,SKU-9-229429,Lightweight Notebook 572,Lightweight Notebook 572 — quality laptops product.,9,28,422.37,239.45,57,6.26,1,2021-02-07T13:52:19Z
+226,SKU-19-879573,Deluxe Blouse 742,Deluxe Blouse 742 — quality women's product.,19,30,408.99,250.24,483,3.35,1,2021-02-07T19:14:58Z
+227,SKU-26-526560,Lightweight Tent 572,Lightweight Tent 572 — quality camping product.,26,50,765.9,382.5,88,12.16,1,2021-02-07T22:23:37Z
+228,SKU-24-555240,Prime Picture Book 323,Prime Picture Book 323 — quality children's books product.,24,54,591.29,389.21,460,7.49,1,2021-02-07T23:51:47Z
+229,SKU-30-805190,Smart Learning Toy 446,Smart Learning Toy 446 — quality educational product.,30,47,388.75,226.19,224,12.67,1,2021-02-08T02:16:41Z
+230,SKU-31-564993,Prime Face Cream 286,Prime Face Cream 286 — quality skincare product.,31,65,170.62,103.88,267,6.76,1,2021-02-08T07:58:46Z
+231,SKU-24-555348,Pro Picture Book 913,Pro Picture Book 913 — quality children's books product.,24,56,748.37,390.91,411,11.14,0,2021-02-08T08:39:16Z
+232,SKU-19-613162,Prime Dress 521,Prime Dress 521 — quality women's product.,19,3,21.21,10.35,264,1.21,1,2021-02-08T15:07:23Z
+233,SKU-31-422671,Pro Face Cream 652,Pro Face Cream 652 — quality skincare product.,31,8,400.66,247.27,26,9.21,1,2021-02-08T17:17:00Z
+234,SKU-31-749746,Elite Cleanser 704,Elite Cleanser 704 — quality skincare product.,31,31,518.69,268.47,153,9.25,1,2021-02-08T18:25:08Z
+235,SKU-9-781508,Ultra Laptop 553,Ultra Laptop 553 — quality laptops product.,9,16,242.42,180.91,141,2.02,1,2021-02-09T00:49:32Z
+236,SKU-14-659867,Max Cookware Set 523,Max Cookware Set 523 — quality cookware product.,14,32,118.31,85.97,332,4.96,0,2021-02-09T07:33:33Z
+237,SKU-23-913451,Essential Guidebook 498,Essential Guidebook 498 — quality non-fiction product.,23,10,422.23,236.31,350,7.23,1,2021-02-09T08:20:19Z
+238,SKU-30-653860,Elite STEM Kit 946,Elite STEM Kit 946 — quality educational product.,30,36,101.06,71.05,36,9.9,0,2021-02-09T15:10:43Z
+239,SKU-20-293151,Essential Kids T-Shirt 581,Essential Kids T-Shirt 581 — quality kids product.,20,51,137.2,75.9,72,9.25,1,2021-02-09T17:29:02Z
+240,SKU-26-334133,Lightweight Sleeping Bag 837,Lightweight Sleeping Bag 837 — quality camping product.,26,62,150.2,88.33,343,3.84,1,2021-02-09T19:00:00Z
+241,SKU-16-573783,Essential Duvet 934,Essential Duvet 934 — quality bedding product.,16,24,472.42,342.17,332,10.12,1,2021-02-09T23:43:26Z
+242,SKU-32-221144,Max Mascara 745,Max Mascara 745 — quality makeup product.,32,69,200.72,153.02,496,12.4,1,2021-02-10T05:19:34Z
+243,SKU-21-222520,Prime Running Shoes 713,Prime Running Shoes 713 — quality shoes product.,21,29,571.81,332.82,77,7.37,1,2021-02-10T11:26:27Z
+244,SKU-14-970436,Compact Cookware Set 499,Compact Cookware Set 499 — quality cookware product.,14,55,65.64,38.11,200,9.83,1,2021-02-10T12:34:00Z
+245,SKU-19-918558,Smart Blouse 266,Smart Blouse 266 — quality women's product.,19,23,169.02,110.13,494,14.54,1,2021-02-10T18:49:36Z
+246,SKU-21-834279,Heavy-Duty Running Shoes 875,Heavy-Duty Running Shoes 875 — quality shoes product.,21,51,16.32,12.26,217,3.37,1,2021-02-10T21:03:16Z
+247,SKU-20-861793,Deluxe Kids T-Shirt 151,Deluxe Kids T-Shirt 151 — quality kids product.,20,52,757,370.58,104,14.32,1,2021-02-11T00:09:46Z
+248,SKU-24-174276,Prime Picture Book 945,Prime Picture Book 945 — quality children's books product.,24,60,752.24,378.26,5,0.86,1,2021-02-11T02:29:41Z
+249,SKU-25-140470,Deluxe Yoga Mat 390,Deluxe Yoga Mat 390 — quality fitness product.,25,30,80.69,53.52,173,8.34,1,2021-02-11T04:54:09Z
+250,SKU-17-387590,Heavy-Duty Blender 259,Heavy-Duty Blender 259 — quality small appliances product.,17,18,590.15,280.71,182,11.9,1,2021-02-11T06:07:07Z
+251,SKU-30-270006,Deluxe STEM Kit 175,Deluxe STEM Kit 175 — quality educational product.,30,48,19.94,14.48,106,8.12,0,2021-02-11T06:32:58Z
+252,SKU-11-078354,Lightweight Earbuds 276,Lightweight Earbuds 276 — quality headphones product.,11,44,578.59,267.84,45,14.41,1,2021-02-11T07:18:48Z
+253,SKU-23-806002,Heavy-Duty Biography 499,Heavy-Duty Biography 499 — quality non-fiction product.,23,55,635.3,335.38,472,13.91,1,2021-02-11T11:45:10Z
+254,SKU-21-080214,Ultra Sneakers 944,Ultra Sneakers 944 — quality shoes product.,21,57,342.39,184.91,194,7.92,1,2021-02-11T13:13:47Z
+255,SKU-11-824247,Portable Headset 467,Portable Headset 467 — quality headphones product.,11,69,244.54,131.65,87,13.72,1,2021-02-11T14:50:12Z
+256,SKU-30-033243,Max Puzzle 956,Max Puzzle 956 — quality educational product.,30,51,642.54,343.31,475,6.91,1,2021-02-11T20:24:19Z
+257,SKU-13-347644,Ultra LED TV 625,Ultra LED TV 625 — quality televisions product.,13,36,111.15,59.1,461,4.54,1,2021-02-11T20:49:22Z
+258,SKU-25-129250,Elite Yoga Mat 388,Elite Yoga Mat 388 — quality fitness product.,25,65,205.06,96.37,40,9.61,1,2021-02-12T00:02:38Z
+259,SKU-19-905780,Essential Dress 301,Essential Dress 301 — quality women's product.,19,67,119.25,91.06,428,5.23,1,2021-02-12T03:33:19Z
+260,SKU-19-243280,Classic Leggings 657,Classic Leggings 657 — quality women's product.,19,53,611.54,310.04,212,9.31,1,2021-02-12T04:00:07Z
+261,SKU-24-256527,Lightweight Picture Book 596,Lightweight Picture Book 596 — quality children's books product.,24,10,508.54,355.15,312,13.25,0,2021-02-12T04:38:50Z
+262,SKU-25-725988,Portable Kettlebell 139,Portable Kettlebell 139 — quality fitness product.,25,26,119.81,72.88,222,6.63,1,2021-02-12T07:49:36Z
+263,SKU-25-283500,Pro Dumbbell Set 851,Pro Dumbbell Set 851 — quality fitness product.,25,36,269.82,153.14,74,8.3,1,2021-02-12T13:56:12Z
+264,SKU-12-448573,Prime DSLR 280,Prime DSLR 280 — quality cameras product.,12,29,629.65,335.54,354,3.43,1,2021-02-12T21:52:45Z
+265,SKU-9-262629,Essential Ultrabook 953,Essential Ultrabook 953 — quality laptops product.,9,29,28.92,16.73,10,8.87,1,2021-02-12T22:56:53Z
+266,SKU-31-856705,Compact Cleanser 543,Compact Cleanser 543 — quality skincare product.,31,30,835.75,384.18,178,13.18,1,2021-02-13T06:48:44Z
+267,SKU-19-366152,Deluxe Leggings 342,Deluxe Leggings 342 — quality women's product.,19,39,85.63,40.99,319,4.8,1,2021-02-13T12:32:04Z
+268,SKU-26-944789,Premium Camp Stove 158,Premium Camp Stove 158 — quality camping product.,26,2,539.31,316.8,156,11,1,2021-02-13T15:06:05Z
+269,SKU-33-845860,Max Conditioner 712,Max Conditioner 712 — quality hair care product.,33,69,543.68,373.97,2,6.42,1,2021-02-13T22:33:27Z
+270,SKU-11-610895,Ultra Headphones 820,Ultra Headphones 820 — quality headphones product.,11,44,160.79,86.15,372,2.03,1,2021-02-14T00:45:45Z
+271,SKU-24-645238,Lightweight Picture Book 834,Lightweight Picture Book 834 — quality children's books product.,24,48,305.1,142.85,146,14.08,0,2021-02-14T07:11:35Z
+272,SKU-16-747337,Prime Sheet Set 295,Prime Sheet Set 295 — quality bedding product.,16,6,108.88,57.19,186,0.46,1,2021-02-14T12:43:21Z
+273,SKU-22-464120,Compact Hardcover 235,Compact Hardcover 235 — quality fiction product.,22,9,818.59,398.87,119,12.42,1,2021-02-14T16:15:25Z
+274,SKU-29-627328,Classic Action Figure 840,Classic Action Figure 840 — quality action figures product.,29,10,166.4,111.99,272,11.58,1,2021-02-14T20:07:46Z
+275,SKU-26-671784,Deluxe Camp Stove 337,Deluxe Camp Stove 337 — quality camping product.,26,51,765.14,396.92,270,12.56,1,2021-02-15T01:32:27Z
+276,SKU-25-230042,Max Dumbbell Set 762,Max Dumbbell Set 762 — quality fitness product.,25,56,225.77,164.55,304,11.74,1,2021-02-15T05:30:06Z
+277,SKU-19-311389,Essential Dress 222,Essential Dress 222 — quality women's product.,19,23,133.61,87.58,441,4.17,1,2021-02-15T05:56:28Z
+278,SKU-35-960300,Heavy-Duty All-Purpose Cleaner 189,Heavy-Duty All-Purpose Cleaner 189 — quality cleaning product.,35,26,716.44,360.87,25,5.98,1,2021-02-15T08:03:36Z
+279,SKU-11-021962,Prime Headset 685,Prime Headset 685 — quality headphones product.,11,6,134.82,63.19,59,10.08,1,2021-02-15T10:18:52Z
+280,SKU-26-381372,Compact Camp Stove 851,Compact Camp Stove 851 — quality camping product.,26,62,352.94,215.33,33,1.41,1,2021-02-15T10:53:14Z
+281,SKU-17-409960,Heavy-Duty Blender 744,Heavy-Duty Blender 744 — quality small appliances product.,17,52,406.76,259.38,81,5.35,0,2021-02-15T12:59:04Z
+282,SKU-27-117607,Eco Helmet 586,Eco Helmet 586 — quality cycling product.,27,5,48.34,35.21,239,13.56,1,2021-02-15T13:36:38Z
+283,SKU-35-631047,Eco Dish Soap 882,Eco Dish Soap 882 — quality cleaning product.,35,39,279.92,169.98,65,9.8,1,2021-02-15T19:21:15Z
+284,SKU-17-543812,Prime Toaster 425,Prime Toaster 425 — quality small appliances product.,17,43,432.71,258.76,170,11.71,1,2021-02-16T01:10:38Z
+285,SKU-13-973441,Pro Smart TV 779,Pro Smart TV 779 — quality televisions product.,13,33,79.47,48.63,279,14.94,1,2021-02-16T08:02:25Z
+286,SKU-32-776015,Compact Eyeshadow Palette 950,Compact Eyeshadow Palette 950 — quality makeup product.,32,63,654.21,321.54,364,8.98,1,2021-02-16T10:23:52Z
+287,SKU-10-068282,Heavy-Duty Smartphone 186,Heavy-Duty Smartphone 186 — quality smartphones product.,10,54,545.01,325.4,298,12,1,2021-02-16T14:39:21Z
+288,SKU-33-867964,Max Hair Oil 341,Max Hair Oil 341 — quality hair care product.,33,30,331.85,185.51,307,1.55,1,2021-02-16T15:23:05Z
+289,SKU-28-783067,Portable Strategy Game 593,Portable Strategy Game 593 — quality board games product.,28,28,292.83,214.98,449,4.87,1,2021-02-16T23:16:34Z
+290,SKU-16-690027,Max Comforter 322,Max Comforter 322 — quality bedding product.,16,34,625.08,345.07,152,7.05,1,2021-02-17T01:14:08Z
+291,SKU-17-190882,Classic Air Fryer 184,Classic Air Fryer 184 — quality small appliances product.,17,25,399.75,212.4,459,1.79,1,2021-02-17T01:30:14Z
+292,SKU-14-802873,Lightweight Dutch Oven 274,Lightweight Dutch Oven 274 — quality cookware product.,14,57,385.61,248.76,327,0.3,1,2021-02-17T09:24:55Z
+293,SKU-25-059016,Ultra Kettlebell 520,Ultra Kettlebell 520 — quality fitness product.,25,39,301.25,231.06,204,2.64,0,2021-02-17T14:58:09Z
+294,SKU-15-760063,Smart Bookshelf 285,Smart Bookshelf 285 — quality furniture product.,15,55,818.5,376.69,448,9.68,1,2021-02-17T22:46:50Z
+295,SKU-33-822073,Heavy-Duty Shampoo 173,Heavy-Duty Shampoo 173 — quality hair care product.,33,15,399.16,256.95,7,10.27,1,2021-02-18T00:11:04Z
+296,SKU-13-854831,Prime 4K TV 156,Prime 4K TV 156 — quality televisions product.,13,10,429.48,288.01,399,10.8,1,2021-02-18T05:43:13Z
+297,SKU-35-877500,Eco All-Purpose Cleaner 135,Eco All-Purpose Cleaner 135 — quality cleaning product.,35,39,208.08,157.37,270,5.9,1,2021-02-18T06:46:30Z
+298,SKU-20-005025,Heavy-Duty Kids Jacket 532,Heavy-Duty Kids Jacket 532 — quality kids product.,20,5,136,90.16,130,0.41,1,2021-02-18T07:15:27Z
+299,SKU-13-485171,Prime 4K TV 624,Prime 4K TV 624 — quality televisions product.,13,28,688.19,333.13,145,9.75,1,2021-02-18T11:48:28Z
+300,SKU-28-895215,Compact Strategy Game 159,Compact Strategy Game 159 — quality board games product.,28,17,706.75,392.54,427,3.18,1,2021-02-18T17:45:47Z
+301,SKU-29-091234,Ultra Action Figure 656,Ultra Action Figure 656 — quality action figures product.,29,29,434.99,301.96,127,6.54,1,2021-02-19T01:07:57Z
+302,SKU-16-670112,Max Comforter 355,Max Comforter 355 — quality bedding product.,16,26,638.03,328.18,320,5.48,1,2021-02-19T07:02:41Z
+303,SKU-18-368186,Max T-Shirt 170,Max T-Shirt 170 — quality men's product.,18,68,552.7,343.36,135,14.44,1,2021-02-19T13:32:55Z
+304,SKU-21-602812,Deluxe Running Shoes 831,Deluxe Running Shoes 831 — quality shoes product.,21,65,546.34,256.39,153,7.17,1,2021-02-19T19:01:37Z
+305,SKU-35-259063,Deluxe Laundry Detergent 960,Deluxe Laundry Detergent 960 — quality cleaning product.,35,42,302.36,159.88,200,13.9,1,2021-02-19T20:07:00Z
+306,SKU-32-445438,Premium Foundation 916,Premium Foundation 916 — quality makeup product.,32,9,258.99,120.63,276,7.62,1,2021-02-20T01:24:38Z
+307,SKU-27-400042,Ultra Bike Light 767,Ultra Bike Light 767 — quality cycling product.,27,35,158.01,106.29,208,1.8,1,2021-02-20T06:36:53Z
+308,SKU-35-355373,Smart All-Purpose Cleaner 721,Smart All-Purpose Cleaner 721 — quality cleaning product.,35,60,459.23,295.31,382,9.96,1,2021-02-20T10:43:36Z
+309,SKU-24-127900,Heavy-Duty Storybook 435,Heavy-Duty Storybook 435 — quality children's books product.,24,50,177.48,88,57,9.88,0,2021-02-20T16:09:16Z
+310,SKU-20-546690,Compact Kids T-Shirt 233,Compact Kids T-Shirt 233 — quality kids product.,20,26,125.3,81.63,49,6.36,0,2021-02-20T21:00:09Z
+311,SKU-17-920663,Portable Toaster 231,Portable Toaster 231 — quality small appliances product.,17,61,357.29,177.77,70,10.68,1,2021-02-21T03:13:42Z
+312,SKU-29-198802,Prime Action Figure 750,Prime Action Figure 750 — quality action figures product.,29,4,72.61,36.48,359,8.22,1,2021-02-21T07:18:05Z
+313,SKU-14-307421,Eco Frying Pan 230,Eco Frying Pan 230 — quality cookware product.,14,36,180.21,82.36,214,0.89,1,2021-02-21T08:54:22Z
+314,SKU-25-535613,Elite Dumbbell Set 615,Elite Dumbbell Set 615 — quality fitness product.,25,58,597.1,333.53,199,9.79,1,2021-02-21T12:00:39Z
+315,SKU-26-168624,Deluxe Camp Stove 783,Deluxe Camp Stove 783 — quality camping product.,26,43,422.05,224.93,175,4.41,1,2021-02-21T14:29:57Z
+316,SKU-9-810436,Portable Chromebook 833,Portable Chromebook 833 — quality laptops product.,9,13,390.75,187.79,489,4.82,0,2021-02-21T19:33:05Z
+317,SKU-27-176845,Elite Cycling Gloves 827,Elite Cycling Gloves 827 — quality cycling product.,27,25,495.91,302.21,368,4.67,1,2021-02-21T22:47:32Z
+318,SKU-28-731083,Elite Card Game 900,Elite Card Game 900 — quality board games product.,28,54,148.94,76.45,187,2.52,1,2021-02-22T04:30:57Z
+319,SKU-25-702721,Classic Kettlebell 579,Classic Kettlebell 579 — quality fitness product.,25,43,626.52,323.24,53,3.53,0,2021-02-22T09:28:08Z
+320,SKU-35-229446,Premium Dish Soap 660,Premium Dish Soap 660 — quality cleaning product.,35,41,310.53,149.4,491,11.67,1,2021-02-22T15:02:41Z
+321,SKU-25-255377,Smart Dumbbell Set 172,Smart Dumbbell Set 172 — quality fitness product.,25,38,602.39,367.46,324,1.95,1,2021-02-22T16:50:44Z
+322,SKU-17-805042,Prime Toaster 359,Prime Toaster 359 — quality small appliances product.,17,13,594,343.22,61,4.46,1,2021-02-22T23:10:34Z
+323,SKU-9-232305,Premium Ultrabook 220,Premium Ultrabook 220 — quality laptops product.,9,19,747.18,348.96,373,3,1,2021-02-23T01:22:08Z
+324,SKU-17-581722,Elite Coffee Maker 312,Elite Coffee Maker 312 — quality small appliances product.,17,47,352.33,195.2,414,5.88,1,2021-02-23T04:13:03Z
+325,SKU-25-402222,Eco Dumbbell Set 492,Eco Dumbbell Set 492 — quality fitness product.,25,11,649.82,371.55,390,7.36,1,2021-02-23T07:27:17Z
+326,SKU-26-290695,Pro Camp Stove 710,Pro Camp Stove 710 — quality camping product.,26,32,429.48,239.81,352,12.69,1,2021-02-23T08:53:12Z
+327,SKU-20-673711,Essential Kids Jacket 934,Essential Kids Jacket 934 — quality kids product.,20,57,127.72,83.69,386,7.71,1,2021-02-23T11:43:32Z
+328,SKU-28-044378,Max Card Game 328,Max Card Game 328 — quality board games product.,28,42,119.96,55.76,367,0.58,1,2021-02-23T12:39:46Z
+329,SKU-11-362916,Elite Earbuds 165,Elite Earbuds 165 — quality headphones product.,11,34,509.96,300.32,161,1.76,1,2021-02-23T13:05:57Z
+330,SKU-15-999607,Eco Bookshelf 340,Eco Bookshelf 340 — quality furniture product.,15,46,513.03,311.42,333,12.98,1,2021-02-23T20:33:11Z
+331,SKU-13-304118,Prime LED TV 700,Prime LED TV 700 — quality televisions product.,13,2,267.18,126.01,359,4.55,0,2021-02-24T03:40:22Z
+332,SKU-29-205764,Max Action Figure 744,Max Action Figure 744 — quality action figures product.,29,43,279.47,193.77,236,5.53,1,2021-02-24T08:42:28Z
+333,SKU-20-490833,Deluxe Kids Shorts 471,Deluxe Kids Shorts 471 — quality kids product.,20,54,428.04,292.52,381,13.67,0,2021-02-24T16:05:28Z
+334,SKU-22-860249,Essential Paperback 702,Essential Paperback 702 — quality fiction product.,22,70,556.14,307.9,306,10.13,1,2021-02-24T21:41:03Z
+335,SKU-22-282106,Prime Paperback 803,Prime Paperback 803 — quality fiction product.,22,23,551.02,310.1,76,1.37,1,2021-02-25T02:31:22Z
+336,SKU-31-869214,Smart Serum 773,Smart Serum 773 — quality skincare product.,31,46,468.62,320.44,193,8.04,1,2021-02-25T05:01:44Z
+337,SKU-10-953789,Eco Mobile 783,Eco Mobile 783 — quality smartphones product.,10,61,757.62,402.95,219,3.05,1,2021-02-25T06:22:39Z
+338,SKU-34-862138,Pro Omega-3 909,Pro Omega-3 909 — quality vitamins product.,34,32,247.96,140.72,295,12.13,0,2021-02-25T13:43:14Z
+339,SKU-17-117045,Deluxe Blender 414,Deluxe Blender 414 — quality small appliances product.,17,1,145.28,97.11,360,13.15,1,2021-02-25T21:40:47Z
+340,SKU-25-414236,Portable Dumbbell Set 678,Portable Dumbbell Set 678 — quality fitness product.,25,11,156.09,116.14,334,11.72,1,2021-02-26T04:49:12Z
+341,SKU-10-498646,Lightweight Mobile 240,Lightweight Mobile 240 — quality smartphones product.,10,61,322.65,168.8,304,3.86,1,2021-02-26T11:51:54Z
+342,SKU-23-849247,Max Guidebook 953,Max Guidebook 953 — quality non-fiction product.,23,58,15.39,11.39,312,4.89,1,2021-02-26T15:24:34Z
+343,SKU-20-531681,Portable Kids Shorts 238,Portable Kids Shorts 238 — quality kids product.,20,23,377.67,204.21,137,10.15,1,2021-02-26T18:53:26Z
+344,SKU-30-054755,Smart Puzzle 389,Smart Puzzle 389 — quality educational product.,30,13,657.64,326.14,491,0.6,1,2021-02-27T00:00:01Z
+345,SKU-22-422606,Heavy-Duty Hardcover 263,Heavy-Duty Hardcover 263 — quality fiction product.,22,32,331.71,195.74,366,12.6,1,2021-02-27T06:48:50Z
+346,SKU-30-827125,Portable STEM Kit 461,Portable STEM Kit 461 — quality educational product.,30,8,342.95,163.66,207,3.05,1,2021-02-27T14:34:44Z
+347,SKU-21-910239,Smart Sneakers 425,Smart Sneakers 425 — quality shoes product.,21,19,290.87,160.02,153,11.57,1,2021-02-27T19:26:07Z
+348,SKU-21-161525,Heavy-Duty Sneakers 644,Heavy-Duty Sneakers 644 — quality shoes product.,21,29,602.73,349.17,359,13.46,1,2021-02-27T19:44:55Z
+349,SKU-12-285335,Pro DSLR 301,Pro DSLR 301 — quality cameras product.,12,44,81.93,58.66,90,14.6,1,2021-02-27T21:29:39Z
+350,SKU-15-290007,Essential Desk 646,Essential Desk 646 — quality furniture product.,15,49,449.92,232.99,144,0.97,1,2021-02-28T02:44:33Z
+351,SKU-28-856719,Portable Card Game 262,Portable Card Game 262 — quality board games product.,28,57,9.75,5.75,171,6.99,1,2021-02-28T02:52:26Z
+352,SKU-17-797337,Elite Coffee Maker 845,Elite Coffee Maker 845 — quality small appliances product.,17,8,203.67,103.16,61,1.88,1,2021-02-28T04:57:05Z
+353,SKU-16-005940,Max Sheet Set 312,Max Sheet Set 312 — quality bedding product.,16,15,230.26,167.1,300,7.25,1,2021-02-28T11:15:44Z
+354,SKU-19-897431,Elite Blouse 537,Elite Blouse 537 — quality women's product.,19,21,405.05,275.37,220,0.63,1,2021-02-28T15:54:37Z
+355,SKU-18-742526,Portable Hoodie 548,Portable Hoodie 548 — quality men's product.,18,53,478.13,231.55,252,10.64,1,2021-02-28T17:58:57Z
+356,SKU-10-668103,Deluxe Phone 884,Deluxe Phone 884 — quality smartphones product.,10,33,548.55,390.8,125,3.65,1,2021-02-28T18:26:41Z
+357,SKU-34-087110,Heavy-Duty Omega-3 601,Heavy-Duty Omega-3 601 — quality vitamins product.,34,12,74.56,37.94,382,5.62,1,2021-02-28T23:03:36Z
+358,SKU-31-531752,Lightweight Face Cream 897,Lightweight Face Cream 897 — quality skincare product.,31,12,189.77,104.77,402,10.23,1,2021-02-28T23:34:03Z
+359,SKU-26-385427,Smart Sleeping Bag 581,Smart Sleeping Bag 581 — quality camping product.,26,59,438.05,322.67,81,13.66,1,2021-03-01T04:30:34Z
+360,SKU-25-132605,Heavy-Duty Kettlebell 983,Heavy-Duty Kettlebell 983 — quality fitness product.,25,60,51.07,27.18,336,0.48,1,2021-03-01T09:16:06Z
+361,SKU-21-878811,Compact Running Shoes 740,Compact Running Shoes 740 — quality shoes product.,21,63,297.61,150.57,443,1.83,1,2021-03-01T16:49:23Z
+362,SKU-34-320105,Deluxe Probiotic 108,Deluxe Probiotic 108 — quality vitamins product.,34,69,605.96,367.55,378,4.94,1,2021-03-01T22:57:50Z
+363,SKU-16-105802,Pro Comforter 189,Pro Comforter 189 — quality bedding product.,16,23,251.22,142.8,396,10.18,1,2021-03-02T05:25:29Z
+364,SKU-22-014725,Portable Paperback 867,Portable Paperback 867 — quality fiction product.,22,44,566.83,403.32,101,8.3,1,2021-03-02T05:40:56Z
+365,SKU-13-471449,Deluxe LED TV 867,Deluxe LED TV 867 — quality televisions product.,13,46,341.5,166.26,200,6.08,1,2021-03-02T09:59:18Z
+366,SKU-20-348477,Lightweight Kids Jacket 297,Lightweight Kids Jacket 297 — quality kids product.,20,43,366.71,190.55,37,11.24,1,2021-03-02T17:59:07Z
+367,SKU-15-602143,Classic Sofa 186,Classic Sofa 186 — quality furniture product.,15,21,47.33,31.66,4,14.7,0,2021-03-02T23:55:44Z
+368,SKU-34-774924,Smart Omega-3 160,Smart Omega-3 160 — quality vitamins product.,34,49,514.64,372.53,194,4.78,1,2021-03-03T00:41:28Z
+369,SKU-10-926438,Prime Mobile 862,Prime Mobile 862 — quality smartphones product.,10,17,539.34,331.53,343,8.19,1,2021-03-03T04:12:11Z
+370,SKU-25-761428,Ultra Yoga Mat 806,Ultra Yoga Mat 806 — quality fitness product.,25,6,543.09,269.37,222,2.4,1,2021-03-03T06:18:47Z
+371,SKU-19-903117,Ultra Cardigan 866,Ultra Cardigan 866 — quality women's product.,19,70,325.95,149.93,69,4.76,1,2021-03-03T07:06:13Z
+372,SKU-16-934585,Eco Comforter 880,Eco Comforter 880 — quality bedding product.,16,16,373.38,183.66,75,6.22,1,2021-03-03T13:25:21Z
+373,SKU-9-510577,Prime Notebook 213,Prime Notebook 213 — quality laptops product.,9,30,498.95,312.71,325,6.07,1,2021-03-03T19:11:40Z
+374,SKU-32-983395,Elite Foundation 863,Elite Foundation 863 — quality makeup product.,32,21,299.18,152.58,49,12.92,1,2021-03-04T00:25:35Z
+375,SKU-35-722820,Portable All-Purpose Cleaner 106,Portable All-Purpose Cleaner 106 — quality cleaning product.,35,46,67.57,50.86,119,5.87,1,2021-03-04T01:41:29Z
+376,SKU-15-265514,Heavy-Duty Sofa 924,Heavy-Duty Sofa 924 — quality furniture product.,15,51,156.82,80.47,214,10.08,1,2021-03-04T09:04:18Z
+377,SKU-33-395642,Essential Shampoo 330,Essential Shampoo 330 — quality hair care product.,33,22,31.35,23.26,444,4.6,1,2021-03-04T09:55:13Z
+378,SKU-29-900595,Premium Collectible Figure 838,Premium Collectible Figure 838 — quality action figures product.,29,58,373.28,271.42,36,4.69,1,2021-03-04T16:16:48Z
+379,SKU-30-852457,Ultra STEM Kit 803,Ultra STEM Kit 803 — quality educational product.,30,43,537.24,306.81,441,1.9,1,2021-03-04T22:09:34Z
+380,SKU-21-435115,Premium Boots 287,Premium Boots 287 — quality shoes product.,21,16,55.66,38.73,221,0.65,1,2021-03-05T05:00:01Z
+381,SKU-13-125681,Max Smart TV 959,Max Smart TV 959 — quality televisions product.,13,61,561.48,350.59,302,0.98,1,2021-03-05T07:17:40Z
+382,SKU-24-502034,Classic Picture Book 342,Classic Picture Book 342 — quality children's books product.,24,29,862.86,400.47,310,1.69,1,2021-03-05T11:39:51Z
+383,SKU-17-172072,Eco Blender 291,Eco Blender 291 — quality small appliances product.,17,2,485.41,364.6,52,12.66,1,2021-03-05T11:40:01Z
+384,SKU-21-161829,Prime Running Shoes 836,Prime Running Shoes 836 — quality shoes product.,21,21,220.37,144.66,161,11.05,1,2021-03-05T15:42:31Z
+385,SKU-35-820632,Lightweight Dish Soap 906,Lightweight Dish Soap 906 — quality cleaning product.,35,70,243.18,126.97,282,9.14,1,2021-03-05T17:57:40Z
+386,SKU-35-116985,Max All-Purpose Cleaner 276,Max All-Purpose Cleaner 276 — quality cleaning product.,35,21,500.59,289.84,240,2.98,1,2021-03-06T01:48:57Z
+387,SKU-14-358251,Classic Saucepan 202,Classic Saucepan 202 — quality cookware product.,14,60,417.89,268.28,392,1.5,1,2021-03-06T06:18:12Z
+388,SKU-25-053342,Ultra Dumbbell Set 567,Ultra Dumbbell Set 567 — quality fitness product.,25,18,191.54,145.12,80,4.94,0,2021-03-06T11:31:47Z
+389,SKU-27-251642,Premium Helmet 398,Premium Helmet 398 — quality cycling product.,27,4,628.99,376.39,362,1.25,1,2021-03-06T18:26:16Z
+390,SKU-27-031826,Heavy-Duty Cycling Gloves 778,Heavy-Duty Cycling Gloves 778 — quality cycling product.,27,58,609.73,358.69,247,0.15,1,2021-03-06T20:19:28Z
+391,SKU-9-468891,Elite Notebook 914,Elite Notebook 914 — quality laptops product.,9,31,173.04,87.46,465,1.75,1,2021-03-07T00:32:04Z
+392,SKU-22-328381,Prime Novel 154,Prime Novel 154 — quality fiction product.,22,50,414.03,193.06,303,14.63,1,2021-03-07T03:28:27Z
+393,SKU-23-533220,Classic Guidebook 552,Classic Guidebook 552 — quality non-fiction product.,23,69,573.88,327.02,365,7.3,1,2021-03-07T04:52:04Z
+394,SKU-32-277215,Lightweight Foundation 902,Lightweight Foundation 902 — quality makeup product.,32,25,635.56,311.09,342,9.06,1,2021-03-07T09:51:22Z
+395,SKU-29-390788,Classic Action Figure 388,Classic Action Figure 388 — quality action figures product.,29,33,475.87,264.28,256,0.14,1,2021-03-07T10:46:01Z
+396,SKU-32-554653,Heavy-Duty Eyeshadow Palette 765,Heavy-Duty Eyeshadow Palette 765 — quality makeup product.,32,30,234.71,116.83,108,1.48,1,2021-03-07T17:12:47Z
+397,SKU-29-956568,Portable Collectible Figure 161,Portable Collectible Figure 161 — quality action figures product.,29,14,419.44,241.23,472,9.57,1,2021-03-07T18:35:18Z
+398,SKU-34-127402,Heavy-Duty Vitamin C 602,Heavy-Duty Vitamin C 602 — quality vitamins product.,34,43,531.24,241.75,370,8.49,1,2021-03-07T20:24:16Z
+399,SKU-13-702469,Deluxe LED TV 708,Deluxe LED TV 708 — quality televisions product.,13,2,200.71,98.13,200,10.29,1,2021-03-07T21:24:07Z
+400,SKU-14-522119,Premium Saucepan 568,Premium Saucepan 568 — quality cookware product.,14,9,65.37,35.61,301,1.26,1,2021-03-07T23:53:04Z
+401,SKU-29-749049,Essential Collectible Figure 996,Essential Collectible Figure 996 — quality action figures product.,29,65,355.89,234.13,471,10.5,1,2021-03-08T07:34:15Z
+402,SKU-22-277253,Ultra Novel 370,Ultra Novel 370 — quality fiction product.,22,42,435.31,297.5,178,13.95,1,2021-03-08T08:15:13Z
+403,SKU-13-359085,Lightweight LED TV 306,Lightweight LED TV 306 — quality televisions product.,13,20,366.98,249.12,18,11.18,1,2021-03-08T09:51:47Z
+404,SKU-16-701427,Max Comforter 904,Max Comforter 904 — quality bedding product.,16,9,381.43,254.86,465,13.62,0,2021-03-08T12:25:21Z
+405,SKU-14-843780,Compact Frying Pan 200,Compact Frying Pan 200 — quality cookware product.,14,51,290.33,213.34,278,4.97,1,2021-03-08T14:01:02Z
+406,SKU-33-547470,Ultra Shampoo 407,Ultra Shampoo 407 — quality hair care product.,33,13,507.19,330.28,294,6.07,1,2021-03-08T18:59:02Z
+407,SKU-26-490905,Prime Backpack 673,Prime Backpack 673 — quality camping product.,26,54,192.87,134.34,291,9.07,1,2021-03-08T19:48:01Z
+408,SKU-25-176459,Prime Kettlebell 139,Prime Kettlebell 139 — quality fitness product.,25,70,458.87,326.79,269,6.57,1,2021-03-08T21:59:32Z
+409,SKU-33-003060,Elite Conditioner 732,Elite Conditioner 732 — quality hair care product.,33,6,505.17,349.21,180,10.44,1,2021-03-09T00:00:35Z
+410,SKU-32-808124,Premium Eyeshadow Palette 536,Premium Eyeshadow Palette 536 — quality makeup product.,32,16,129.47,81.08,175,1.69,1,2021-03-09T03:35:10Z
+411,SKU-31-746735,Classic Face Cream 988,Classic Face Cream 988 — quality skincare product.,31,4,599.57,307.17,379,5.72,1,2021-03-09T07:11:04Z
+412,SKU-22-270813,Max Paperback 577,Max Paperback 577 — quality fiction product.,22,34,284.92,188.81,74,4.22,1,2021-03-09T12:08:28Z
+413,SKU-23-509469,Premium Guidebook 769,Premium Guidebook 769 — quality non-fiction product.,23,8,96.5,61.76,468,3.26,1,2021-03-09T12:35:34Z
+414,SKU-23-862587,Lightweight Biography 944,Lightweight Biography 944 — quality non-fiction product.,23,28,211.17,115.82,414,7.52,1,2021-03-09T12:51:09Z
+415,SKU-23-551709,Lightweight Handbook 386,Lightweight Handbook 386 — quality non-fiction product.,23,64,749.68,368.72,364,6.46,0,2021-03-09T16:39:49Z
+416,SKU-23-010752,Smart Biography 876,Smart Biography 876 — quality non-fiction product.,23,70,50,23,69,2.84,1,2021-03-09T22:53:46Z
+417,SKU-31-384011,Compact Face Cream 348,Compact Face Cream 348 — quality skincare product.,31,30,551.46,378.32,363,2.6,1,2021-03-09T23:12:55Z
+418,SKU-14-083352,Deluxe Cookware Set 790,Deluxe Cookware Set 790 — quality cookware product.,14,25,564.92,357.31,166,12.52,1,2021-03-10T05:43:52Z
+419,SKU-31-695319,Heavy-Duty Cleanser 894,Heavy-Duty Cleanser 894 — quality skincare product.,31,5,503.64,229.86,457,9.49,1,2021-03-10T12:09:38Z
+420,SKU-25-058413,Heavy-Duty Yoga Mat 525,Heavy-Duty Yoga Mat 525 — quality fitness product.,25,65,750.92,375.55,447,13.26,1,2021-03-10T19:25:54Z
+421,SKU-20-442992,Elite Kids Jacket 975,Elite Kids Jacket 975 — quality kids product.,20,27,601.87,311.78,8,0.35,1,2021-03-10T22:38:37Z
+422,SKU-28-923620,Heavy-Duty Board Game 624,Heavy-Duty Board Game 624 — quality board games product.,28,37,112.29,56.93,228,6.59,1,2021-03-10T23:47:36Z
+423,SKU-12-110643,Classic Camera 111,Classic Camera 111 — quality cameras product.,12,23,376.69,196.91,388,11.11,1,2021-03-11T02:46:12Z
+424,SKU-14-138910,Heavy-Duty Dutch Oven 424,Heavy-Duty Dutch Oven 424 — quality cookware product.,14,46,690.95,357.94,414,3.57,0,2021-03-11T05:26:04Z
+425,SKU-10-150398,Prime Mobile 616,Prime Mobile 616 — quality smartphones product.,10,37,287.44,181.86,88,9.4,1,2021-03-11T06:21:57Z
+426,SKU-29-082890,Elite Action Figure 529,Elite Action Figure 529 — quality action figures product.,29,48,303.67,186.73,340,5.53,1,2021-03-11T14:21:25Z
+427,SKU-12-473948,Prime Camera 164,Prime Camera 164 — quality cameras product.,12,65,664.51,309.16,308,4.56,1,2021-03-11T17:59:42Z
+428,SKU-25-002450,Prime Kettlebell 431,Prime Kettlebell 431 — quality fitness product.,25,3,260.83,153.01,383,14.21,1,2021-03-11T22:39:03Z
+429,SKU-32-335841,Smart Mascara 704,Smart Mascara 704 — quality makeup product.,32,70,71.69,44.3,455,5.5,1,2021-03-12T00:45:12Z
+430,SKU-28-855139,Lightweight Card Game 323,Lightweight Card Game 323 — quality board games product.,28,59,774.47,383.16,232,3.97,1,2021-03-12T00:46:51Z
+431,SKU-19-348147,Portable Dress 593,Portable Dress 593 — quality women's product.,19,6,462.68,297.08,242,3.22,1,2021-03-12T03:29:36Z
+432,SKU-30-039805,Premium Puzzle 719,Premium Puzzle 719 — quality educational product.,30,9,459.65,317.38,155,11.85,1,2021-03-12T05:51:11Z
+433,SKU-14-158388,Classic Frying Pan 808,Classic Frying Pan 808 — quality cookware product.,14,3,510.93,319.14,146,5.18,1,2021-03-12T07:35:45Z
+434,SKU-31-234445,Eco Cleanser 285,Eco Cleanser 285 — quality skincare product.,31,61,584.86,354.64,493,8.86,1,2021-03-12T09:35:05Z
+435,SKU-12-439118,Elite Action Cam 353,Elite Action Cam 353 — quality cameras product.,12,16,32.64,22.34,10,1.69,1,2021-03-12T10:58:27Z
+436,SKU-24-562399,Classic Picture Book 271,Classic Picture Book 271 — quality children's books product.,24,56,169.97,77.83,118,9.65,1,2021-03-12T14:59:55Z
+437,SKU-34-187029,Prime Multivitamin 870,Prime Multivitamin 870 — quality vitamins product.,34,69,392.25,294.21,278,12.62,1,2021-03-12T17:38:53Z
+438,SKU-30-485482,Max Puzzle 921,Max Puzzle 921 — quality educational product.,30,69,99.68,67.01,286,10.74,1,2021-03-12T23:55:15Z
+439,SKU-32-370270,Pro Lipstick 471,Pro Lipstick 471 — quality makeup product.,32,52,554.33,315.27,257,5.6,1,2021-03-13T05:06:17Z
+440,SKU-33-275633,Max Hair Oil 111,Max Hair Oil 111 — quality hair care product.,33,24,16.84,12.11,72,4.05,0,2021-03-13T08:06:42Z
+441,SKU-30-694405,Classic STEM Kit 407,Classic STEM Kit 407 — quality educational product.,30,37,383.68,256.6,71,0.78,1,2021-03-13T12:50:52Z
+442,SKU-27-266244,Ultra Helmet 958,Ultra Helmet 958 — quality cycling product.,27,69,460.72,269.84,407,8.15,1,2021-03-13T16:05:37Z
+443,SKU-34-538385,Portable Probiotic 836,Portable Probiotic 836 — quality vitamins product.,34,40,194.79,96.37,3,3.85,1,2021-03-13T21:31:25Z
+444,SKU-10-121909,Smart Mobile 909,Smart Mobile 909 — quality smartphones product.,10,68,554.47,325.35,100,10.96,1,2021-03-14T04:48:46Z
+445,SKU-31-786243,Prime Cleanser 387,Prime Cleanser 387 — quality skincare product.,31,4,127.48,74.3,28,3.65,1,2021-03-14T05:42:43Z
+446,SKU-24-646814,Premium Storybook 120,Premium Storybook 120 — quality children's books product.,24,2,157.66,107.15,250,2.74,1,2021-03-14T06:07:00Z
+447,SKU-16-386793,Elite Pillow 249,Elite Pillow 249 — quality bedding product.,16,19,524.04,309.72,58,15.07,1,2021-03-14T07:51:15Z
+448,SKU-24-078863,Smart Storybook 753,Smart Storybook 753 — quality children's books product.,24,32,499.71,328.74,336,5.33,1,2021-03-14T14:01:34Z
+449,SKU-23-651114,Compact Biography 275,Compact Biography 275 — quality non-fiction product.,23,17,716.15,388.7,251,13.38,0,2021-03-14T16:26:29Z
+450,SKU-24-129934,Max Storybook 527,Max Storybook 527 — quality children's books product.,24,41,78.31,56.85,38,14.3,1,2021-03-14T18:57:46Z
+451,SKU-19-027321,Lightweight Dress 412,Lightweight Dress 412 — quality women's product.,19,35,361.37,242.72,250,7.23,1,2021-03-14T19:49:10Z
+452,SKU-12-036333,Eco DSLR 345,Eco DSLR 345 — quality cameras product.,12,44,618.63,345.15,161,3.43,1,2021-03-15T00:41:26Z
+453,SKU-17-469062,Portable Air Fryer 523,Portable Air Fryer 523 — quality small appliances product.,17,4,162.55,122.4,205,0.78,0,2021-03-15T04:17:28Z
+454,SKU-13-279917,Deluxe 4K TV 218,Deluxe 4K TV 218 — quality televisions product.,13,69,566.51,271.27,354,13.12,1,2021-03-15T09:16:15Z
+455,SKU-12-826302,Smart DSLR 390,Smart DSLR 390 — quality cameras product.,12,70,332.25,163.3,160,1.78,1,2021-03-15T17:05:24Z
+456,SKU-11-355094,Elite Headset 450,Elite Headset 450 — quality headphones product.,11,3,549.29,288.72,219,12.94,0,2021-03-16T00:06:34Z
+457,SKU-12-282661,Deluxe Camera 163,Deluxe Camera 163 — quality cameras product.,12,28,561.82,378.49,51,4.16,1,2021-03-16T03:48:58Z
+458,SKU-17-893026,Lightweight Air Fryer 107,Lightweight Air Fryer 107 — quality small appliances product.,17,54,513.38,277.28,372,7.21,1,2021-03-16T09:33:18Z
+459,SKU-35-096470,Compact Dish Soap 280,Compact Dish Soap 280 — quality cleaning product.,35,2,558.57,265.62,114,0.25,1,2021-03-16T10:37:46Z
+460,SKU-23-228097,Pro Handbook 303,Pro Handbook 303 — quality non-fiction product.,23,43,45.82,24.17,244,0.3,1,2021-03-16T14:20:40Z
+461,SKU-13-413715,Eco Smart TV 242,Eco Smart TV 242 — quality televisions product.,13,11,248.64,115.93,481,0.26,1,2021-03-16T14:42:25Z
+462,SKU-13-715092,Compact 4K TV 969,Compact 4K TV 969 — quality televisions product.,13,44,514.78,243.44,182,4.4,1,2021-03-16T14:52:28Z
+463,SKU-19-696607,Premium Dress 902,Premium Dress 902 — quality women's product.,19,47,210.78,160.49,365,0.33,1,2021-03-16T20:33:54Z
+464,SKU-35-068935,Elite All-Purpose Cleaner 892,Elite All-Purpose Cleaner 892 — quality cleaning product.,35,33,385.11,187.05,305,10.83,0,2021-03-17T01:27:34Z
+465,SKU-9-790999,Eco Ultrabook 790,Eco Ultrabook 790 — quality laptops product.,9,36,499.29,258.1,475,7.58,0,2021-03-17T09:15:28Z
+466,SKU-12-515523,Compact Camera 160,Compact Camera 160 — quality cameras product.,12,34,423.82,213.65,374,10.33,1,2021-03-17T11:32:11Z
+467,SKU-25-537245,Elite Yoga Mat 879,Elite Yoga Mat 879 — quality fitness product.,25,50,279.55,170.71,154,8.01,1,2021-03-17T12:10:12Z
+468,SKU-9-223795,Compact Notebook 241,Compact Notebook 241 — quality laptops product.,9,8,485.7,274.18,212,6.18,1,2021-03-17T18:22:29Z
+469,SKU-12-326064,Deluxe Camera 642,Deluxe Camera 642 — quality cameras product.,12,12,467.5,336.78,209,5.57,1,2021-03-17T21:59:10Z
+470,SKU-22-645061,Elite Novel 423,Elite Novel 423 — quality fiction product.,22,19,501.56,339.14,107,12.71,1,2021-03-17T22:40:16Z
+471,SKU-22-494916,Heavy-Duty Hardcover 142,Heavy-Duty Hardcover 142 — quality fiction product.,22,50,15.83,11.61,310,10.98,1,2021-03-18T06:18:56Z
+472,SKU-27-452214,Ultra Bike Light 639,Ultra Bike Light 639 — quality cycling product.,27,42,607.78,335.7,347,9.6,1,2021-03-18T09:10:49Z
+473,SKU-13-554804,Lightweight LED TV 132,Lightweight LED TV 132 — quality televisions product.,13,56,270.93,205.08,306,4.46,1,2021-03-18T17:02:37Z
+474,SKU-31-926497,Elite Cleanser 994,Elite Cleanser 994 — quality skincare product.,31,13,500.91,341.52,379,15.1,1,2021-03-19T01:02:13Z
+475,SKU-10-873447,Max Smartphone 650,Max Smartphone 650 — quality smartphones product.,10,52,531.03,308.18,68,10.63,1,2021-03-19T03:38:54Z
+476,SKU-35-534009,Essential All-Purpose Cleaner 238,Essential All-Purpose Cleaner 238 — quality cleaning product.,35,13,215.21,143.71,25,2.42,0,2021-03-19T11:16:56Z
+477,SKU-29-685436,Classic Action Figure 816,Classic Action Figure 816 — quality action figures product.,29,60,71.5,35.7,316,14.25,1,2021-03-19T12:18:14Z
+478,SKU-20-667447,Essential Kids Shorts 169,Essential Kids Shorts 169 — quality kids product.,20,57,427.22,197.3,300,12.03,1,2021-03-19T19:36:07Z
+479,SKU-9-957749,Classic Laptop 266,Classic Laptop 266 — quality laptops product.,9,11,381.49,197.43,183,4.31,1,2021-03-19T20:01:50Z
+480,SKU-9-727562,Premium Laptop 263,Premium Laptop 263 — quality laptops product.,9,66,485.01,243.28,66,9.7,1,2021-03-19T22:39:45Z
+481,SKU-18-848801,Smart Jacket 418,Smart Jacket 418 — quality men's product.,18,58,226.3,146.23,407,7.54,1,2021-03-20T04:54:13Z
+482,SKU-20-088658,Eco Kids T-Shirt 338,Eco Kids T-Shirt 338 — quality kids product.,20,1,476.92,271.74,377,2.1,1,2021-03-20T10:53:58Z
+483,SKU-9-437579,Deluxe Chromebook 495,Deluxe Chromebook 495 — quality laptops product.,9,34,346.75,168.66,419,1.67,1,2021-03-20T14:43:59Z
+484,SKU-24-737326,Max Picture Book 591,Max Picture Book 591 — quality children's books product.,24,6,112.44,74.94,193,0.11,1,2021-03-20T21:19:13Z
+485,SKU-25-097618,Max Kettlebell 678,Max Kettlebell 678 — quality fitness product.,25,33,604.24,378.22,102,5.43,1,2021-03-20T22:03:29Z
+486,SKU-15-979550,Smart Desk 587,Smart Desk 587 — quality furniture product.,15,57,756.94,391.49,317,0.66,0,2021-03-21T04:13:36Z
+487,SKU-33-902454,Portable Shampoo 284,Portable Shampoo 284 — quality hair care product.,33,46,233.18,151.57,162,10.26,0,2021-03-21T09:39:08Z
+488,SKU-17-557447,Essential Coffee Maker 839,Essential Coffee Maker 839 — quality small appliances product.,17,35,437.58,271.39,154,9.75,0,2021-03-21T11:18:04Z
+489,SKU-29-292843,Max Action Figure 713,Max Action Figure 713 — quality action figures product.,29,13,55.41,33.2,313,13.18,1,2021-03-21T12:12:56Z
+490,SKU-9-371638,Portable Chromebook 347,Portable Chromebook 347 — quality laptops product.,9,3,173.38,106.14,346,9.85,1,2021-03-21T18:34:39Z
+491,SKU-9-744814,Heavy-Duty Laptop 931,Heavy-Duty Laptop 931 — quality laptops product.,9,49,455.57,239.12,400,14.19,1,2021-03-21T19:58:24Z
+492,SKU-32-902332,Prime Eyeshadow Palette 482,Prime Eyeshadow Palette 482 — quality makeup product.,32,32,880.03,400.32,331,2.34,1,2021-03-22T02:30:09Z
+493,SKU-23-316880,Ultra Guidebook 267,Ultra Guidebook 267 — quality non-fiction product.,23,14,334.04,153.94,474,7.5,0,2021-03-22T06:08:19Z
+494,SKU-32-915225,Deluxe Lipstick 611,Deluxe Lipstick 611 — quality makeup product.,32,59,366.43,169.57,282,6.25,1,2021-03-22T08:54:07Z
+495,SKU-24-519435,Pro Picture Book 194,Pro Picture Book 194 — quality children's books product.,24,14,413.13,285.21,421,3.82,1,2021-03-22T11:11:58Z
+496,SKU-33-299707,Portable Shampoo 926,Portable Shampoo 926 — quality hair care product.,33,59,729.45,339.86,388,5.21,1,2021-03-22T11:53:05Z
+497,SKU-14-181932,Deluxe Frying Pan 457,Deluxe Frying Pan 457 — quality cookware product.,14,39,524.38,325.76,10,8.33,1,2021-03-22T15:08:57Z
+498,SKU-16-094538,Essential Duvet 135,Essential Duvet 135 — quality bedding product.,16,68,546.17,258.65,412,5.07,0,2021-03-22T19:02:02Z
+499,SKU-18-079998,Max T-Shirt 525,Max T-Shirt 525 — quality men's product.,18,66,107.52,78.92,86,2.07,0,2021-03-22T23:50:30Z
+500,SKU-31-065853,Heavy-Duty Face Cream 494,Heavy-Duty Face Cream 494 — quality skincare product.,31,54,728.76,355.14,418,8.49,1,2021-03-23T04:25:48Z
+501,SKU-22-343317,Heavy-Duty Hardcover 392,Heavy-Duty Hardcover 392 — quality fiction product.,22,6,577.73,364.46,451,9.15,1,2021-03-23T09:00:37Z
+502,SKU-25-082342,Max Yoga Mat 766,Max Yoga Mat 766 — quality fitness product.,25,7,57.77,29.21,214,3.08,1,2021-03-23T17:00:11Z
+503,SKU-14-432322,Prime Dutch Oven 631,Prime Dutch Oven 631 — quality cookware product.,14,13,42.55,20.54,462,7.31,1,2021-03-23T18:13:25Z
+504,SKU-26-175415,Portable Tent 459,Portable Tent 459 — quality camping product.,26,9,421.16,306.92,304,13.66,1,2021-03-23T19:20:48Z
+505,SKU-21-204528,Compact Boots 775,Compact Boots 775 — quality shoes product.,21,44,426.24,218.61,262,12.72,1,2021-03-23T23:16:03Z
+506,SKU-18-636892,Compact T-Shirt 324,Compact T-Shirt 324 — quality men's product.,18,68,79.59,40.64,85,8.6,0,2021-03-24T00:06:43Z
+507,SKU-15-803987,Pro Desk 350,Pro Desk 350 — quality furniture product.,15,63,454.58,325.65,185,13.52,1,2021-03-24T00:40:19Z
+508,SKU-13-671180,Max Smart TV 970,Max Smart TV 970 — quality televisions product.,13,41,492.98,279.6,241,13.85,1,2021-03-24T06:13:35Z
+509,SKU-24-966508,Smart Picture Book 762,Smart Picture Book 762 — quality children's books product.,24,1,465.85,290.1,31,7.21,1,2021-03-24T10:10:05Z
+510,SKU-11-339207,Heavy-Duty Earbuds 111,Heavy-Duty Earbuds 111 — quality headphones product.,11,64,10.63,7.29,245,3.57,1,2021-03-24T16:32:05Z
+511,SKU-13-126494,Pro Smart TV 268,Pro Smart TV 268 — quality televisions product.,13,34,26.98,13.86,337,12.45,1,2021-03-24T22:37:41Z
+512,SKU-17-487291,Lightweight Blender 211,Lightweight Blender 211 — quality small appliances product.,17,69,625.71,325.12,35,8.81,1,2021-03-25T02:02:20Z
+513,SKU-21-579259,Eco Running Shoes 194,Eco Running Shoes 194 — quality shoes product.,21,62,456.6,333.64,351,4.12,0,2021-03-25T04:29:00Z
+514,SKU-19-217433,Max Leggings 384,Max Leggings 384 — quality women's product.,19,35,353.98,191.82,331,9.91,1,2021-03-25T04:44:02Z
+515,SKU-35-094406,Deluxe Laundry Detergent 107,Deluxe Laundry Detergent 107 — quality cleaning product.,35,43,239.78,135.85,4,10.83,1,2021-03-25T10:18:58Z
+516,SKU-21-529522,Compact Sneakers 397,Compact Sneakers 397 — quality shoes product.,21,11,591.52,282.48,293,11.89,1,2021-03-25T16:25:16Z
+517,SKU-12-679503,Pro Action Cam 389,Pro Action Cam 389 — quality cameras product.,12,34,204.4,105.03,119,14.87,1,2021-03-25T20:55:09Z
+518,SKU-20-481779,Deluxe Kids Shorts 971,Deluxe Kids Shorts 971 — quality kids product.,20,31,60.83,36.74,475,12.5,1,2021-03-26T00:41:48Z
+519,SKU-30-408888,Elite Learning Toy 946,Elite Learning Toy 946 — quality educational product.,30,54,551.26,295.14,204,13.03,1,2021-03-26T07:07:47Z
+520,SKU-24-099116,Heavy-Duty Picture Book 241,Heavy-Duty Picture Book 241 — quality children's books product.,24,19,329.19,180.81,300,1.25,1,2021-03-26T07:17:38Z
+521,SKU-21-765397,Heavy-Duty Running Shoes 862,Heavy-Duty Running Shoes 862 — quality shoes product.,21,64,664.49,373.78,212,1.92,1,2021-03-26T10:35:39Z
+522,SKU-33-415187,Compact Shampoo 746,Compact Shampoo 746 — quality hair care product.,33,51,126.92,61.3,20,6.85,1,2021-03-26T11:04:17Z
+523,SKU-29-140110,Deluxe Action Figure 415,Deluxe Action Figure 415 — quality action figures product.,29,6,135.67,77.2,268,8.52,1,2021-03-26T13:25:07Z
+524,SKU-30-039645,Pro Learning Toy 123,Pro Learning Toy 123 — quality educational product.,30,46,213.26,107.81,449,4.7,1,2021-03-26T18:23:11Z
+525,SKU-34-511593,Heavy-Duty Multivitamin 415,Heavy-Duty Multivitamin 415 — quality vitamins product.,34,17,749.91,400.11,205,13.49,1,2021-03-26T21:27:40Z
+526,SKU-25-153330,Pro Resistance Bands 116,Pro Resistance Bands 116 — quality fitness product.,25,55,15.95,12.04,354,10.46,1,2021-03-26T23:06:17Z
+527,SKU-13-831549,Premium Smart TV 467,Premium Smart TV 467 — quality televisions product.,13,17,335.13,229.32,484,10.1,1,2021-03-26T23:56:20Z
+528,SKU-21-833364,Elite Boots 913,Elite Boots 913 — quality shoes product.,21,16,344.64,170.78,307,11.52,0,2021-03-27T07:41:00Z
+529,SKU-21-668237,Prime Sneakers 786,Prime Sneakers 786 — quality shoes product.,21,21,387.57,182.76,181,13.39,1,2021-03-27T09:20:05Z
+530,SKU-23-202871,Eco Biography 280,Eco Biography 280 — quality non-fiction product.,23,30,540.43,299.94,422,13.12,1,2021-03-27T15:38:26Z
+531,SKU-20-551571,Ultra Kids Jacket 167,Ultra Kids Jacket 167 — quality kids product.,20,70,106.14,54.97,300,10.2,1,2021-03-27T21:55:49Z
+532,SKU-25-934206,Compact Kettlebell 711,Compact Kettlebell 711 — quality fitness product.,25,38,349.06,184.57,346,6.6,1,2021-03-28T02:18:00Z
+533,SKU-17-663179,Elite Toaster 557,Elite Toaster 557 — quality small appliances product.,17,50,79.47,41.92,222,13.37,1,2021-03-28T06:07:46Z
+534,SKU-29-117993,Essential Collectible Figure 441,Essential Collectible Figure 441 — quality action figures product.,29,69,681.02,318.27,254,12.95,1,2021-03-28T10:58:49Z
+535,SKU-15-433390,Pro Bookshelf 696,Pro Bookshelf 696 — quality furniture product.,15,43,101,48.57,452,2.45,1,2021-03-28T17:31:48Z
+536,SKU-31-733615,Premium Face Cream 177,Premium Face Cream 177 — quality skincare product.,31,48,494.85,270.46,35,0.44,1,2021-03-28T19:22:20Z
+537,SKU-18-294192,Portable T-Shirt 225,Portable T-Shirt 225 — quality men's product.,18,47,472,290.27,422,14.04,1,2021-03-28T21:19:30Z
+538,SKU-33-660760,Compact Hair Oil 644,Compact Hair Oil 644 — quality hair care product.,33,14,308.96,172.24,345,15.01,1,2021-03-29T04:02:38Z
+539,SKU-18-487788,Essential Hoodie 846,Essential Hoodie 846 — quality men's product.,18,47,285.33,202.5,52,13.19,1,2021-03-29T09:21:18Z
+540,SKU-25-086236,Smart Yoga Mat 155,Smart Yoga Mat 155 — quality fitness product.,25,57,217.71,120.63,191,6.94,0,2021-03-29T15:16:18Z
+541,SKU-26-751352,Classic Tent 637,Classic Tent 637 — quality camping product.,26,11,253.31,183.29,152,0.64,1,2021-03-29T15:37:56Z
+542,SKU-30-968078,Premium Puzzle 275,Premium Puzzle 275 — quality educational product.,30,50,292.98,168.58,311,5.27,1,2021-03-29T20:56:27Z
+543,SKU-14-185501,Deluxe Cookware Set 289,Deluxe Cookware Set 289 — quality cookware product.,14,28,282.06,131.06,78,9.92,0,2021-03-30T03:38:37Z
+544,SKU-34-114379,Pro Probiotic 233,Pro Probiotic 233 — quality vitamins product.,34,2,425.56,300.82,405,1.23,1,2021-03-30T09:29:48Z
+545,SKU-27-985150,Smart Cycling Gloves 377,Smart Cycling Gloves 377 — quality cycling product.,27,17,520.37,350.52,283,11.39,1,2021-03-30T12:49:25Z
+546,SKU-31-933996,Classic Face Cream 805,Classic Face Cream 805 — quality skincare product.,31,16,178.87,129.84,465,0.15,1,2021-03-30T17:26:54Z
+547,SKU-11-057873,Eco Earbuds 153,Eco Earbuds 153 — quality headphones product.,11,56,138.25,84.38,241,3.86,1,2021-03-31T01:12:04Z
+548,SKU-16-270863,Eco Duvet 868,Eco Duvet 868 — quality bedding product.,16,48,484.74,281.79,382,1.67,1,2021-03-31T08:53:40Z
+549,SKU-24-941092,Max Picture Book 384,Max Picture Book 384 — quality children's books product.,24,49,586.62,295.85,415,6.17,1,2021-03-31T12:57:57Z
+550,SKU-23-089116,Lightweight Guidebook 636,Lightweight Guidebook 636 — quality non-fiction product.,23,5,32.57,16.21,448,7.52,1,2021-03-31T18:17:20Z
+551,SKU-19-152013,Eco Dress 630,Eco Dress 630 — quality women's product.,19,41,185.84,93.69,81,6.96,1,2021-03-31T18:42:26Z
+552,SKU-20-332100,Essential Kids Jacket 483,Essential Kids Jacket 483 — quality kids product.,20,36,476.29,280.24,146,2.44,1,2021-04-01T02:03:34Z
+553,SKU-28-897886,Eco Board Game 372,Eco Board Game 372 — quality board games product.,28,28,409.08,215.99,219,10.12,1,2021-04-01T05:06:23Z
+554,SKU-22-338377,Classic Novel 762,Classic Novel 762 — quality fiction product.,22,55,552.72,379.12,381,10.02,1,2021-04-01T11:34:57Z
+555,SKU-13-654617,Max 4K TV 339,Max 4K TV 339 — quality televisions product.,13,19,502.3,365.18,435,14.26,0,2021-04-01T12:32:44Z
+556,SKU-19-296739,Prime Dress 632,Prime Dress 632 — quality women's product.,19,26,300.79,192.45,14,11.96,1,2021-04-01T14:59:54Z
+557,SKU-16-856516,Elite Pillow 602,Elite Pillow 602 — quality bedding product.,16,59,544.71,358.1,454,1.11,1,2021-04-01T21:30:47Z
+558,SKU-17-860202,Classic Toaster 156,Classic Toaster 156 — quality small appliances product.,17,58,424.96,270.14,240,9.08,1,2021-04-01T22:02:30Z
+559,SKU-13-689054,Max LED TV 764,Max LED TV 764 — quality televisions product.,13,17,81.71,61.03,383,5.27,1,2021-04-02T00:32:06Z
+560,SKU-9-620064,Deluxe Laptop 994,Deluxe Laptop 994 — quality laptops product.,9,6,366.63,190.5,87,10.63,1,2021-04-02T07:21:42Z
+561,SKU-16-827815,Classic Duvet 763,Classic Duvet 763 — quality bedding product.,16,63,192.46,105.21,453,3.17,1,2021-04-02T10:34:00Z
+562,SKU-11-824617,Portable Headset 801,Portable Headset 801 — quality headphones product.,11,45,638.09,387.55,259,9.47,1,2021-04-02T15:06:26Z
+563,SKU-28-451007,Lightweight Card Game 457,Lightweight Card Game 457 — quality board games product.,28,47,334.97,168.91,297,13.39,0,2021-04-02T15:20:56Z
+564,SKU-23-218825,Max Biography 393,Max Biography 393 — quality non-fiction product.,23,52,35.78,26.02,188,12.51,0,2021-04-02T15:50:43Z
+565,SKU-17-992036,Compact Coffee Maker 353,Compact Coffee Maker 353 — quality small appliances product.,17,10,192.48,130.02,484,4.28,1,2021-04-02T17:45:10Z
+566,SKU-16-503030,Heavy-Duty Duvet 679,Heavy-Duty Duvet 679 — quality bedding product.,16,68,40.61,28.53,241,1.84,1,2021-04-02T22:23:11Z
+567,SKU-10-914021,Portable Mobile 593,Portable Mobile 593 — quality smartphones product.,10,16,42.15,21.87,222,9.61,1,2021-04-03T02:04:06Z
+568,SKU-13-990406,Lightweight LED TV 353,Lightweight LED TV 353 — quality televisions product.,13,20,430.05,279.26,427,12.58,1,2021-04-03T08:05:38Z
+569,SKU-20-712966,Elite Kids T-Shirt 366,Elite Kids T-Shirt 366 — quality kids product.,20,4,243.93,154.6,82,8.72,1,2021-04-03T15:13:48Z
+570,SKU-10-807429,Elite Smartphone 345,Elite Smartphone 345 — quality smartphones product.,10,61,264.33,174.9,17,1.35,0,2021-04-03T22:04:20Z
+571,SKU-11-136639,Heavy-Duty Earbuds 244,Heavy-Duty Earbuds 244 — quality headphones product.,11,38,12.02,6.76,234,1.57,1,2021-04-03T23:30:36Z
+572,SKU-32-662133,Prime Eyeshadow Palette 553,Prime Eyeshadow Palette 553 — quality makeup product.,32,47,486.25,350.91,391,10.8,1,2021-04-04T05:00:10Z
+573,SKU-35-899668,Compact All-Purpose Cleaner 299,Compact All-Purpose Cleaner 299 — quality cleaning product.,35,23,441.5,212.22,268,12.74,1,2021-04-04T07:42:42Z
+574,SKU-25-485350,Eco Resistance Bands 223,Eco Resistance Bands 223 — quality fitness product.,25,55,140.61,69.34,226,13.36,1,2021-04-04T09:26:50Z
+575,SKU-27-237576,Classic Bike Light 751,Classic Bike Light 751 — quality cycling product.,27,50,308,185,128,1.33,1,2021-04-04T15:28:58Z
+576,SKU-33-584150,Eco Conditioner 256,Eco Conditioner 256 — quality hair care product.,33,36,163.28,77.5,358,0.15,1,2021-04-04T19:57:11Z
+577,SKU-25-164816,Deluxe Dumbbell Set 713,Deluxe Dumbbell Set 713 — quality fitness product.,25,36,113.23,74.88,487,12.84,1,2021-04-05T01:51:06Z
+578,SKU-9-918983,Portable Notebook 434,Portable Notebook 434 — quality laptops product.,9,33,445.45,214.02,318,11.2,1,2021-04-05T06:25:38Z
+579,SKU-33-830646,Max Hair Oil 498,Max Hair Oil 498 — quality hair care product.,33,1,116.8,61.91,348,5.43,1,2021-04-05T12:28:04Z
+580,SKU-27-472889,Pro Helmet 429,Pro Helmet 429 — quality cycling product.,27,62,262.62,175.23,475,13.83,1,2021-04-05T19:34:01Z
+581,SKU-29-202716,Lightweight Action Figure 680,Lightweight Action Figure 680 — quality action figures product.,29,57,797.07,377.11,277,3.24,1,2021-04-05T20:18:37Z
+582,SKU-30-518963,Classic Learning Toy 191,Classic Learning Toy 191 — quality educational product.,30,36,240.68,144.66,308,3.81,1,2021-04-06T02:29:00Z
+583,SKU-27-552125,Heavy-Duty Helmet 123,Heavy-Duty Helmet 123 — quality cycling product.,27,31,353.17,264.25,403,13.63,1,2021-04-06T06:32:41Z
+584,SKU-9-354422,Portable Laptop 462,Portable Laptop 462 — quality laptops product.,9,8,549.78,385.04,354,13.86,1,2021-04-06T09:50:02Z
+585,SKU-15-699703,Lightweight Sofa 146,Lightweight Sofa 146 — quality furniture product.,15,11,535.18,320.62,274,13.5,0,2021-04-06T14:46:50Z
+586,SKU-30-268526,Premium Learning Toy 458,Premium Learning Toy 458 — quality educational product.,30,40,613.8,305.03,460,5.28,1,2021-04-06T17:53:08Z
+587,SKU-9-956570,Classic Chromebook 749,Classic Chromebook 749 — quality laptops product.,9,60,445.54,229.74,229,14.89,1,2021-04-07T00:20:10Z
+588,SKU-11-210734,Classic Headset 195,Classic Headset 195 — quality headphones product.,11,63,69.47,42.72,233,1.42,1,2021-04-07T06:00:15Z
+589,SKU-23-741630,Lightweight Guidebook 328,Lightweight Guidebook 328 — quality non-fiction product.,23,68,532.95,242.84,349,9.53,1,2021-04-07T10:53:50Z
+590,SKU-19-245016,Smart Leggings 666,Smart Leggings 666 — quality women's product.,19,65,199.63,100.66,212,7.45,0,2021-04-07T13:46:39Z
+591,SKU-11-717513,Deluxe Headset 303,Deluxe Headset 303 — quality headphones product.,11,6,301.62,165.4,468,6.62,0,2021-04-07T16:12:06Z
+592,SKU-15-799374,Portable Desk 419,Portable Desk 419 — quality furniture product.,15,18,609.32,386.98,369,1.8,1,2021-04-07T20:40:21Z
+593,SKU-24-451067,Premium Storybook 740,Premium Storybook 740 — quality children's books product.,24,11,63.34,41.33,261,7.35,1,2021-04-07T21:18:44Z
+594,SKU-17-462454,Classic Coffee Maker 526,Classic Coffee Maker 526 — quality small appliances product.,17,22,101.01,61.02,396,0.56,1,2021-04-07T23:08:33Z
+595,SKU-22-084969,Classic Paperback 280,Classic Paperback 280 — quality fiction product.,22,27,726.22,377.22,41,7.82,1,2021-04-08T01:46:51Z
+596,SKU-30-738140,Smart Learning Toy 355,Smart Learning Toy 355 — quality educational product.,30,63,281.5,197.99,154,11.37,1,2021-04-08T03:13:09Z
+597,SKU-30-505474,Premium Puzzle 549,Premium Puzzle 549 — quality educational product.,30,52,630.07,341.05,226,14.44,1,2021-04-08T09:04:22Z
+598,SKU-21-518937,Essential Sneakers 785,Essential Sneakers 785 — quality shoes product.,21,22,41.92,23.04,65,5.57,1,2021-04-08T14:11:14Z
+599,SKU-11-901236,Elite Earbuds 538,Elite Earbuds 538 — quality headphones product.,11,61,243.35,185.94,61,4.97,1,2021-04-08T15:14:18Z
+600,SKU-18-441104,Premium T-Shirt 122,Premium T-Shirt 122 — quality men's product.,18,65,200.79,110.05,458,4.54,0,2021-04-08T15:25:17Z
+601,SKU-11-764159,Eco Headset 934,Eco Headset 934 — quality headphones product.,11,10,317.83,241.06,43,11.66,1,2021-04-08T19:25:10Z
+602,SKU-13-708502,Classic Smart TV 940,Classic Smart TV 940 — quality televisions product.,13,26,144.77,109.24,208,1.57,1,2021-04-08T22:57:22Z
+603,SKU-17-603279,Eco Toaster 278,Eco Toaster 278 — quality small appliances product.,17,4,75.01,42.61,317,7.45,0,2021-04-09T00:53:32Z
+604,SKU-22-181240,Classic Paperback 308,Classic Paperback 308 — quality fiction product.,22,4,540.57,289.34,110,5.3,1,2021-04-09T07:46:25Z
+605,SKU-11-329562,Compact Headset 786,Compact Headset 786 — quality headphones product.,11,29,519.61,362.38,380,4.69,1,2021-04-09T14:58:58Z
+606,SKU-32-800843,Smart Foundation 510,Smart Foundation 510 — quality makeup product.,32,28,143.08,82.44,253,1.99,1,2021-04-09T20:05:34Z
+607,SKU-35-920538,Compact Laundry Detergent 319,Compact Laundry Detergent 319 — quality cleaning product.,35,36,141.46,82.99,304,6.35,0,2021-04-10T01:56:41Z
+608,SKU-11-795864,Max Headset 389,Max Headset 389 — quality headphones product.,11,10,198.54,136.84,412,2.5,1,2021-04-10T06:45:34Z
+609,SKU-24-009569,Elite Storybook 148,Elite Storybook 148 — quality children's books product.,24,10,588.68,315.67,299,0.59,1,2021-04-10T12:48:34Z
+610,SKU-16-528894,Ultra Comforter 717,Ultra Comforter 717 — quality bedding product.,16,31,553.41,323.13,63,5.28,1,2021-04-10T15:43:10Z
+611,SKU-34-391962,Classic Vitamin C 571,Classic Vitamin C 571 — quality vitamins product.,34,36,577.05,321.94,353,2.46,1,2021-04-10T21:13:01Z
+612,SKU-29-045860,Premium Collectible Figure 337,Premium Collectible Figure 337 — quality action figures product.,29,67,144.01,99.34,37,8.14,1,2021-04-11T03:21:24Z
+613,SKU-21-908255,Heavy-Duty Sneakers 808,Heavy-Duty Sneakers 808 — quality shoes product.,21,68,247.66,177.03,288,10.78,0,2021-04-11T06:41:44Z
+614,SKU-23-420424,Essential Biography 735,Essential Biography 735 — quality non-fiction product.,23,45,45.89,24.36,462,8.33,1,2021-04-11T07:34:01Z
+615,SKU-33-551287,Elite Conditioner 407,Elite Conditioner 407 — quality hair care product.,33,50,175.68,100.87,130,11.07,1,2021-04-11T15:26:10Z
+616,SKU-19-841788,Classic Dress 914,Classic Dress 914 — quality women's product.,19,4,354.25,258.75,170,13.53,0,2021-04-11T16:12:34Z
+617,SKU-29-756376,Prime Action Figure 442,Prime Action Figure 442 — quality action figures product.,29,38,414.15,225.58,249,10.26,1,2021-04-11T16:34:26Z
+618,SKU-18-113950,Essential Hoodie 638,Essential Hoodie 638 — quality men's product.,18,1,591.71,321.32,113,4.82,1,2021-04-11T19:34:43Z
+619,SKU-13-821445,Deluxe 4K TV 539,Deluxe 4K TV 539 — quality televisions product.,13,22,47.49,21.7,209,9.21,1,2021-04-12T03:07:47Z
+620,SKU-21-285781,Heavy-Duty Sneakers 999,Heavy-Duty Sneakers 999 — quality shoes product.,21,11,558.25,381.06,449,7.83,1,2021-04-12T04:14:53Z
+621,SKU-26-373041,Pro Camp Stove 624,Pro Camp Stove 624 — quality camping product.,26,35,743.99,381.55,182,9.04,1,2021-04-12T10:38:14Z
+622,SKU-18-640886,Eco Jeans 180,Eco Jeans 180 — quality men's product.,18,6,409.59,246.5,489,8.31,1,2021-04-12T15:44:13Z
+623,SKU-11-364001,Heavy-Duty Headphones 542,Heavy-Duty Headphones 542 — quality headphones product.,11,5,262.15,167.71,349,12.25,1,2021-04-12T17:04:19Z
+624,SKU-31-295643,Max Cleanser 898,Max Cleanser 898 — quality skincare product.,31,15,265,122.58,256,10.79,1,2021-04-12T19:04:52Z
+625,SKU-11-014777,Lightweight Earbuds 548,Lightweight Earbuds 548 — quality headphones product.,11,65,147.47,69.37,356,13.46,1,2021-04-12T23:49:26Z
+626,SKU-32-353705,Essential Lipstick 970,Essential Lipstick 970 — quality makeup product.,32,63,154.1,81.23,350,4.53,1,2021-04-13T06:47:43Z
+627,SKU-21-745106,Classic Sneakers 507,Classic Sneakers 507 — quality shoes product.,21,8,509.96,262.43,495,9.04,1,2021-04-13T07:49:20Z
+628,SKU-14-775299,Prime Cookware Set 682,Prime Cookware Set 682 — quality cookware product.,14,70,162.2,81.92,90,10.88,1,2021-04-13T12:31:19Z
+629,SKU-14-522642,Portable Cookware Set 689,Portable Cookware Set 689 — quality cookware product.,14,11,111.87,75.17,452,6.55,1,2021-04-13T17:54:13Z
+630,SKU-17-376874,Lightweight Coffee Maker 363,Lightweight Coffee Maker 363 — quality small appliances product.,17,11,170.26,105.82,299,0.34,1,2021-04-13T22:46:34Z
+631,SKU-11-491551,Lightweight Headphones 775,Lightweight Headphones 775 — quality headphones product.,11,52,217.52,142.78,91,0.97,0,2021-04-14T03:09:03Z
+632,SKU-31-422881,Portable Face Cream 532,Portable Face Cream 532 — quality skincare product.,31,57,47.51,35.81,31,6.88,1,2021-04-14T05:54:26Z
+633,SKU-16-857985,Premium Duvet 141,Premium Duvet 141 — quality bedding product.,16,25,321.03,181.75,246,14.91,1,2021-04-14T10:53:49Z
+634,SKU-29-689210,Eco Collectible Figure 788,Eco Collectible Figure 788 — quality action figures product.,29,12,751.64,377.92,157,10.84,1,2021-04-14T14:34:47Z
+635,SKU-35-811682,Compact Laundry Detergent 703,Compact Laundry Detergent 703 — quality cleaning product.,35,18,618.47,291.02,336,3.27,0,2021-04-14T22:19:52Z
+636,SKU-19-406068,Elite Dress 740,Elite Dress 740 — quality women's product.,19,39,722.31,347.95,404,10.1,0,2021-04-15T03:48:15Z
+637,SKU-24-966250,Prime Storybook 290,Prime Storybook 290 — quality children's books product.,24,5,696.64,324.55,269,0.99,1,2021-04-15T11:03:31Z
+638,SKU-24-350530,Elite Storybook 328,Elite Storybook 328 — quality children's books product.,24,3,456.67,223.12,460,3.16,1,2021-04-15T13:06:05Z
+639,SKU-24-643562,Pro Storybook 551,Pro Storybook 551 — quality children's books product.,24,40,316.12,173.55,187,13.11,1,2021-04-15T19:39:36Z
+640,SKU-28-991169,Ultra Strategy Game 341,Ultra Strategy Game 341 — quality board games product.,28,57,116.4,85.11,40,14.57,1,2021-04-15T23:10:13Z
+641,SKU-28-555634,Deluxe Strategy Game 105,Deluxe Strategy Game 105 — quality board games product.,28,37,149.74,69.45,441,12.65,1,2021-04-16T04:08:51Z
+642,SKU-9-613344,Pro Notebook 935,Pro Notebook 935 — quality laptops product.,9,30,101.55,59.57,388,0.72,1,2021-04-16T07:23:27Z
+643,SKU-20-044112,Deluxe Kids Jacket 196,Deluxe Kids Jacket 196 — quality kids product.,20,59,705.94,398.74,109,5.68,1,2021-04-16T08:53:30Z
+644,SKU-27-697601,Elite Bike Light 387,Elite Bike Light 387 — quality cycling product.,27,20,187.85,90.66,341,15.08,1,2021-04-16T11:43:21Z
+645,SKU-33-231448,Pro Shampoo 413,Pro Shampoo 413 — quality hair care product.,33,1,260.47,169.14,357,11,1,2021-04-16T18:24:25Z
+646,SKU-20-312035,Heavy-Duty Kids T-Shirt 363,Heavy-Duty Kids T-Shirt 363 — quality kids product.,20,60,747,382.92,432,12.52,1,2021-04-16T19:01:04Z
+647,SKU-11-252989,Lightweight Headset 305,Lightweight Headset 305 — quality headphones product.,11,19,302.73,228.66,396,10.6,1,2021-04-17T00:21:04Z
+648,SKU-26-467154,Eco Camp Stove 255,Eco Camp Stove 255 — quality camping product.,26,62,148.08,111.26,111,14.51,1,2021-04-17T01:11:47Z
+649,SKU-35-524293,Elite All-Purpose Cleaner 203,Elite All-Purpose Cleaner 203 — quality cleaning product.,35,34,89.91,62.4,162,11.15,1,2021-04-17T03:22:27Z
+650,SKU-22-474663,Classic Paperback 975,Classic Paperback 975 — quality fiction product.,22,52,244.45,140.07,279,5.22,1,2021-04-17T05:41:53Z
+651,SKU-19-604339,Pro Blouse 169,Pro Blouse 169 — quality women's product.,19,1,441.05,229.84,184,11.36,1,2021-04-17T06:10:19Z
+652,SKU-31-118983,Heavy-Duty Face Cream 584,Heavy-Duty Face Cream 584 — quality skincare product.,31,35,381.92,281.23,161,5.26,1,2021-04-17T12:39:40Z
+653,SKU-12-510209,Eco DSLR 856,Eco DSLR 856 — quality cameras product.,12,34,515.99,344.5,174,11.05,1,2021-04-17T19:01:40Z
+654,SKU-9-333416,Smart Laptop 225,Smart Laptop 225 — quality laptops product.,9,53,444.94,288.94,436,14.29,1,2021-04-17T19:59:21Z
+655,SKU-30-861498,Smart Learning Toy 115,Smart Learning Toy 115 — quality educational product.,30,44,421.88,210.84,348,1.83,1,2021-04-17T19:59:56Z
+656,SKU-14-570740,Smart Saucepan 730,Smart Saucepan 730 — quality cookware product.,14,3,187.54,86.62,433,11.38,1,2021-04-17T22:24:52Z
+657,SKU-10-475824,Elite Phone 724,Elite Phone 724 — quality smartphones product.,10,45,796.1,382.03,24,4.58,1,2021-04-18T03:41:30Z
+658,SKU-12-191676,Elite Action Cam 244,Elite Action Cam 244 — quality cameras product.,12,28,366.7,193.27,6,1.9,1,2021-04-18T06:16:41Z
+659,SKU-9-939476,Pro Notebook 661,Pro Notebook 661 — quality laptops product.,9,42,578.08,316.81,471,4.8,1,2021-04-18T08:47:11Z
+660,SKU-11-452176,Eco Headset 642,Eco Headset 642 — quality headphones product.,11,9,757.14,391.15,475,4.15,1,2021-04-18T11:19:53Z
+661,SKU-30-440840,Compact STEM Kit 451,Compact STEM Kit 451 — quality educational product.,30,23,369.62,188.44,6,12.54,1,2021-04-18T11:20:46Z
+662,SKU-22-453369,Prime Novel 686,Prime Novel 686 — quality fiction product.,22,65,299.33,151.41,105,2.45,0,2021-04-18T12:53:04Z
+663,SKU-22-355710,Smart Hardcover 425,Smart Hardcover 425 — quality fiction product.,22,23,147.1,111.24,18,10.59,1,2021-04-18T16:22:18Z
+664,SKU-11-538886,Ultra Earbuds 116,Ultra Earbuds 116 — quality headphones product.,11,24,176.89,93.18,263,5.85,1,2021-04-18T17:25:15Z
+665,SKU-31-910444,Elite Moisturizer 977,Elite Moisturizer 977 — quality skincare product.,31,65,635.5,342.69,327,12.78,1,2021-04-18T20:59:37Z
+666,SKU-31-934807,Deluxe Moisturizer 670,Deluxe Moisturizer 670 — quality skincare product.,31,3,312.07,149.22,358,5.91,1,2021-04-19T03:14:57Z
+667,SKU-12-173689,Ultra Camera 804,Ultra Camera 804 — quality cameras product.,12,63,629.66,380.3,16,11.33,0,2021-04-19T03:31:56Z
+668,SKU-27-955583,Deluxe Bike Light 419,Deluxe Bike Light 419 — quality cycling product.,27,41,76.16,45.64,25,13.12,0,2021-04-19T07:40:38Z
+669,SKU-17-352290,Heavy-Duty Blender 271,Heavy-Duty Blender 271 — quality small appliances product.,17,61,203.91,145.48,396,8.12,1,2021-04-19T08:58:43Z
+670,SKU-34-976808,Pro Vitamin C 313,Pro Vitamin C 313 — quality vitamins product.,34,14,553.68,390.04,294,11.82,1,2021-04-19T16:26:13Z
+671,SKU-9-989369,Compact Laptop 100,Compact Laptop 100 — quality laptops product.,9,52,595.63,399.98,44,10.53,1,2021-04-20T00:22:57Z
+672,SKU-18-785613,Deluxe T-Shirt 987,Deluxe T-Shirt 987 — quality men's product.,18,69,471.2,331.18,45,6.79,1,2021-04-20T01:56:57Z
+673,SKU-32-059445,Deluxe Foundation 502,Deluxe Foundation 502 — quality makeup product.,32,42,241.38,124.01,76,0.12,1,2021-04-20T09:19:23Z
+674,SKU-23-101058,Smart Biography 301,Smart Biography 301 — quality non-fiction product.,23,2,467.71,232.59,60,11.62,1,2021-04-20T16:35:55Z
+675,SKU-22-583867,Portable Novel 841,Portable Novel 841 — quality fiction product.,22,33,497.49,364.42,11,12.56,1,2021-04-20T21:05:06Z
+676,SKU-13-864938,Smart 4K TV 331,Smart 4K TV 331 — quality televisions product.,13,41,394.12,218.34,228,5.05,1,2021-04-21T00:00:25Z
+677,SKU-15-304696,Heavy-Duty Bookshelf 878,Heavy-Duty Bookshelf 878 — quality furniture product.,15,30,466.1,219.92,112,9.08,1,2021-04-21T01:12:50Z
+678,SKU-35-248093,Max All-Purpose Cleaner 502,Max All-Purpose Cleaner 502 — quality cleaning product.,35,50,173.67,116.83,147,6.65,1,2021-04-21T08:49:30Z
+679,SKU-15-452749,Portable Office Chair 100,Portable Office Chair 100 — quality furniture product.,15,40,24.83,16.8,493,2.19,1,2021-04-21T08:53:57Z
+680,SKU-17-207696,Compact Air Fryer 914,Compact Air Fryer 914 — quality small appliances product.,17,28,500.97,256.73,229,12.7,1,2021-04-21T15:51:14Z
+681,SKU-32-996219,Eco Lipstick 776,Eco Lipstick 776 — quality makeup product.,32,2,428.3,300.93,143,12.74,0,2021-04-21T21:48:48Z
+682,SKU-15-482956,Lightweight Bookshelf 356,Lightweight Bookshelf 356 — quality furniture product.,15,27,287.37,150.72,80,8.04,1,2021-04-21T23:04:42Z
+683,SKU-34-804495,Heavy-Duty Multivitamin 541,Heavy-Duty Multivitamin 541 — quality vitamins product.,34,30,574.46,283.48,368,7.63,1,2021-04-22T05:04:28Z
+684,SKU-21-807672,Deluxe Boots 260,Deluxe Boots 260 — quality shoes product.,21,8,576.12,332.68,51,5.77,1,2021-04-22T07:21:45Z
+685,SKU-18-290969,Elite T-Shirt 681,Elite T-Shirt 681 — quality men's product.,18,7,603.07,346.86,226,1.56,1,2021-04-22T11:54:31Z
+686,SKU-28-305578,Portable Strategy Game 761,Portable Strategy Game 761 — quality board games product.,28,28,221.75,161.02,154,9.5,1,2021-04-22T11:56:04Z
+687,SKU-15-300752,Pro Office Chair 578,Pro Office Chair 578 — quality furniture product.,15,40,511.3,253.49,103,12.11,1,2021-04-22T17:33:40Z
+688,SKU-19-265293,Ultra Dress 710,Ultra Dress 710 — quality women's product.,19,8,226.86,112.47,397,8.05,1,2021-04-22T21:59:02Z
+689,SKU-34-505841,Smart Vitamin C 559,Smart Vitamin C 559 — quality vitamins product.,34,13,205.33,108.69,4,1.14,1,2021-04-22T22:31:07Z
+690,SKU-32-446597,Ultra Foundation 187,Ultra Foundation 187 — quality makeup product.,32,9,610.02,304.23,328,9.66,1,2021-04-23T03:59:01Z
+691,SKU-17-543719,Smart Coffee Maker 703,Smart Coffee Maker 703 — quality small appliances product.,17,29,152.03,82.94,401,3.88,1,2021-04-23T09:50:03Z
+692,SKU-19-414793,Ultra Leggings 623,Ultra Leggings 623 — quality women's product.,19,57,126.76,92.94,315,6.17,1,2021-04-23T17:08:56Z
+693,SKU-13-696298,Classic LED TV 636,Classic LED TV 636 — quality televisions product.,13,68,283.01,164.91,21,6.78,1,2021-04-23T19:16:39Z
+694,SKU-20-833860,Compact Kids Shorts 636,Compact Kids Shorts 636 — quality kids product.,20,60,353.19,198.55,343,11.08,1,2021-04-24T01:24:43Z
+695,SKU-10-051090,Classic Smartphone 395,Classic Smartphone 395 — quality smartphones product.,10,58,561.3,401.03,387,13.96,0,2021-04-24T03:32:16Z
+696,SKU-20-579865,Classic Kids Shorts 457,Classic Kids Shorts 457 — quality kids product.,20,55,345.86,232.6,394,6.19,1,2021-04-24T07:26:49Z
+697,SKU-26-632704,Lightweight Sleeping Bag 820,Lightweight Sleeping Bag 820 — quality camping product.,26,16,83.47,45.68,121,8.24,1,2021-04-24T13:58:56Z
+698,SKU-13-637970,Max LED TV 529,Max LED TV 529 — quality televisions product.,13,47,52.88,34.3,222,4.65,1,2021-04-24T21:27:17Z
+699,SKU-26-057524,Portable Tent 305,Portable Tent 305 — quality camping product.,26,9,482.12,351.25,312,5.07,1,2021-04-25T00:56:00Z
+700,SKU-16-525330,Premium Sheet Set 215,Premium Sheet Set 215 — quality bedding product.,16,13,22.05,12.73,190,11.74,1,2021-04-25T03:19:21Z
+701,SKU-9-065295,Portable Ultrabook 681,Portable Ultrabook 681 — quality laptops product.,9,48,113.19,51.52,315,8.76,1,2021-04-25T05:25:12Z
+702,SKU-28-848288,Pro Card Game 577,Pro Card Game 577 — quality board games product.,28,21,540.73,386.74,202,12.63,1,2021-04-25T11:59:00Z
+703,SKU-32-065467,Classic Lipstick 107,Classic Lipstick 107 — quality makeup product.,32,57,612.57,368.49,396,2.13,0,2021-04-25T14:02:14Z
+704,SKU-13-922215,Smart 4K TV 901,Smart 4K TV 901 — quality televisions product.,13,38,386.61,220.96,424,5.08,1,2021-04-25T19:11:51Z
+705,SKU-13-880660,Premium 4K TV 822,Premium 4K TV 822 — quality televisions product.,13,9,577.52,350.87,447,1.84,1,2021-04-25T23:08:38Z
+706,SKU-11-107382,Deluxe Headset 476,Deluxe Headset 476 — quality headphones product.,11,45,691.37,377.88,30,8.51,1,2021-04-26T02:01:45Z
+707,SKU-27-498748,Max Bike Light 971,Max Bike Light 971 — quality cycling product.,27,34,23.97,17.2,363,10.06,1,2021-04-26T07:50:27Z
+708,SKU-27-577132,Pro Bike Light 799,Pro Bike Light 799 — quality cycling product.,27,43,391.65,218.17,411,12.2,1,2021-04-26T13:36:46Z
+709,SKU-32-414752,Compact Lipstick 269,Compact Lipstick 269 — quality makeup product.,32,61,638.67,402.38,146,1.55,1,2021-04-26T14:14:22Z
+710,SKU-14-853530,Premium Frying Pan 651,Premium Frying Pan 651 — quality cookware product.,14,25,425.33,219.38,471,11.77,1,2021-04-26T19:17:07Z
+711,SKU-33-602843,Classic Conditioner 871,Classic Conditioner 871 — quality hair care product.,33,1,488.2,287.68,110,12.92,1,2021-04-27T01:17:30Z
+712,SKU-17-756056,Pro Blender 717,Pro Blender 717 — quality small appliances product.,17,37,433.94,301.66,381,14.9,1,2021-04-27T04:34:52Z
+713,SKU-18-271502,Smart Hoodie 874,Smart Hoodie 874 — quality men's product.,18,59,340.97,226.86,129,7.63,1,2021-04-27T08:19:04Z
+714,SKU-17-072454,Pro Air Fryer 780,Pro Air Fryer 780 — quality small appliances product.,17,36,145.6,87.29,391,12.06,1,2021-04-27T10:10:17Z
+715,SKU-23-618742,Portable Handbook 514,Portable Handbook 514 — quality non-fiction product.,23,56,740.03,377.6,294,8.22,1,2021-04-27T11:30:36Z
+716,SKU-26-852300,Ultra Camp Stove 164,Ultra Camp Stove 164 — quality camping product.,26,63,397.63,183.89,282,13.07,1,2021-04-27T17:15:27Z
+717,SKU-27-446375,Compact Bike Light 991,Compact Bike Light 991 — quality cycling product.,27,32,455.39,250.93,365,4.29,1,2021-04-27T19:10:57Z
+718,SKU-17-753809,Premium Toaster 221,Premium Toaster 221 — quality small appliances product.,17,20,485.87,259.21,298,10.24,1,2021-04-28T01:20:02Z
+719,SKU-15-689478,Ultra Office Chair 354,Ultra Office Chair 354 — quality furniture product.,15,63,386.24,200.54,23,0.69,1,2021-04-28T06:04:07Z
+720,SKU-10-695908,Pro Smartphone 737,Pro Smartphone 737 — quality smartphones product.,10,29,640.81,367.21,16,12,0,2021-04-28T11:05:29Z
+721,SKU-32-495147,Classic Eyeshadow Palette 509,Classic Eyeshadow Palette 509 — quality makeup product.,32,39,59.96,36.72,269,14.24,1,2021-04-28T11:44:05Z
+722,SKU-30-745770,Lightweight Puzzle 284,Lightweight Puzzle 284 — quality educational product.,30,65,819.6,403.13,179,11.58,1,2021-04-28T12:39:24Z
+723,SKU-19-203717,Eco Leggings 834,Eco Leggings 834 — quality women's product.,19,58,396.38,225.3,294,15.07,1,2021-04-28T20:33:24Z
+724,SKU-21-141948,Pro Running Shoes 988,Pro Running Shoes 988 — quality shoes product.,21,27,333.77,164.74,193,5.74,1,2021-04-29T03:37:07Z
+725,SKU-24-985206,Essential Picture Book 655,Essential Picture Book 655 — quality children's books product.,24,2,190.89,120.25,135,14.16,1,2021-04-29T05:07:00Z
+726,SKU-20-205255,Deluxe Kids Shorts 705,Deluxe Kids Shorts 705 — quality kids product.,20,67,29.68,17.8,369,14.85,1,2021-04-29T05:59:04Z
+727,SKU-31-460941,Max Cleanser 357,Max Cleanser 357 — quality skincare product.,31,16,253.42,152.94,35,6.15,1,2021-04-29T06:13:30Z
+728,SKU-13-653515,Premium LED TV 347,Premium LED TV 347 — quality televisions product.,13,18,644.31,343.53,426,4.38,1,2021-04-29T07:39:12Z
+729,SKU-32-857269,Smart Mascara 640,Smart Mascara 640 — quality makeup product.,32,7,26.99,20.63,273,3.42,1,2021-04-29T14:03:31Z
+730,SKU-11-393460,Heavy-Duty Headphones 110,Heavy-Duty Headphones 110 — quality headphones product.,11,2,589.82,335.28,216,1.07,1,2021-04-29T21:59:32Z
+731,SKU-18-423394,Deluxe Jacket 956,Deluxe Jacket 956 — quality men's product.,18,27,601.71,392.08,157,11.82,1,2021-04-30T04:29:30Z
+732,SKU-33-183465,Ultra Shampoo 217,Ultra Shampoo 217 — quality hair care product.,33,19,660.15,354.86,497,6.4,1,2021-04-30T05:05:11Z
+733,SKU-15-956976,Elite Office Chair 684,Elite Office Chair 684 — quality furniture product.,15,64,84.27,47.95,187,1.45,1,2021-04-30T05:36:18Z
+734,SKU-21-308999,Compact Boots 447,Compact Boots 447 — quality shoes product.,21,45,332.91,172.59,282,2.2,1,2021-04-30T11:37:44Z
+735,SKU-9-573515,Lightweight Chromebook 335,Lightweight Chromebook 335 — quality laptops product.,9,10,198.19,113.27,28,3.64,1,2021-04-30T15:51:47Z
+736,SKU-10-769397,Prime Mobile 192,Prime Mobile 192 — quality smartphones product.,10,65,66.53,31.57,52,5.75,0,2021-04-30T20:24:40Z
+737,SKU-22-885939,Prime Hardcover 937,Prime Hardcover 937 — quality fiction product.,22,39,568.19,270.88,51,11.69,1,2021-04-30T21:37:50Z
+738,SKU-25-633715,Heavy-Duty Yoga Mat 810,Heavy-Duty Yoga Mat 810 — quality fitness product.,25,58,587.2,386.95,411,3.94,1,2021-05-01T04:54:02Z
+739,SKU-19-824153,Premium Dress 810,Premium Dress 810 — quality women's product.,19,9,214.27,114.91,467,14.64,1,2021-05-01T12:53:10Z
+740,SKU-10-039545,Portable Smartphone 872,Portable Smartphone 872 — quality smartphones product.,10,67,488.41,367.3,124,14.16,1,2021-05-01T14:20:40Z
+741,SKU-30-497223,Pro Learning Toy 441,Pro Learning Toy 441 — quality educational product.,30,14,322.7,187.32,128,13.61,1,2021-05-01T21:05:39Z
+742,SKU-20-393431,Elite Kids T-Shirt 644,Elite Kids T-Shirt 644 — quality kids product.,20,63,129.51,98.3,399,6.96,1,2021-05-02T00:52:42Z
+743,SKU-26-540670,Pro Camp Stove 135,Pro Camp Stove 135 — quality camping product.,26,5,390.83,292.51,475,3.75,1,2021-05-02T03:31:08Z
+744,SKU-15-541411,Classic Desk 571,Classic Desk 571 — quality furniture product.,15,2,595.19,364.08,311,7.66,1,2021-05-02T11:17:24Z
+745,SKU-22-852060,Premium Paperback 263,Premium Paperback 263 — quality fiction product.,22,45,283.43,188.11,400,11.59,1,2021-05-02T17:00:37Z
+746,SKU-20-963261,Pro Kids Jacket 464,Pro Kids Jacket 464 — quality kids product.,20,53,718.33,376.47,96,9.27,0,2021-05-02T22:01:23Z
+747,SKU-25-818579,Smart Dumbbell Set 428,Smart Dumbbell Set 428 — quality fitness product.,25,36,487.09,275.58,213,3.28,1,2021-05-03T02:50:54Z
+748,SKU-16-471238,Premium Duvet 447,Premium Duvet 447 — quality bedding product.,16,57,449.07,256.66,163,2.37,0,2021-05-03T04:14:47Z
+749,SKU-18-033985,Ultra Hoodie 685,Ultra Hoodie 685 — quality men's product.,18,36,433.74,299.27,401,13.36,1,2021-05-03T05:25:07Z
+750,SKU-14-585039,Deluxe Frying Pan 560,Deluxe Frying Pan 560 — quality cookware product.,14,70,535.61,294.01,463,1.65,1,2021-05-03T12:11:36Z
+751,SKU-25-750041,Pro Kettlebell 273,Pro Kettlebell 273 — quality fitness product.,25,43,41.55,22,359,1.66,1,2021-05-03T12:29:20Z
+752,SKU-34-927844,Elite Multivitamin 410,Elite Multivitamin 410 — quality vitamins product.,34,45,17.94,13.03,18,3.73,1,2021-05-03T17:28:38Z
+753,SKU-29-100206,Compact Action Figure 478,Compact Action Figure 478 — quality action figures product.,29,48,200.94,101.3,222,3.57,1,2021-05-04T01:25:46Z
+754,SKU-10-638633,Eco Phone 587,Eco Phone 587 — quality smartphones product.,10,27,530.57,344.14,482,2.63,1,2021-05-04T08:44:00Z
+755,SKU-17-155501,Premium Air Fryer 559,Premium Air Fryer 559 — quality small appliances product.,17,8,597.93,315.97,5,9.93,1,2021-05-04T13:04:18Z
+756,SKU-20-205571,Eco Kids Jacket 802,Eco Kids Jacket 802 — quality kids product.,20,34,80.55,40.63,331,3.17,0,2021-05-04T17:30:55Z
+757,SKU-20-080246,Elite Kids Jacket 342,Elite Kids Jacket 342 — quality kids product.,20,11,267.15,154.07,297,13.07,1,2021-05-05T01:23:23Z
+758,SKU-28-309947,Pro Strategy Game 290,Pro Strategy Game 290 — quality board games product.,28,2,237.64,171.35,296,10.51,1,2021-05-05T02:17:22Z
+759,SKU-15-960729,Deluxe Desk 657,Deluxe Desk 657 — quality furniture product.,15,61,176.04,112.39,446,3.33,1,2021-05-05T04:26:26Z
+760,SKU-25-458016,Heavy-Duty Kettlebell 677,Heavy-Duty Kettlebell 677 — quality fitness product.,25,55,205.35,108.44,134,10.19,1,2021-05-05T11:26:51Z
+761,SKU-17-875399,Elite Toaster 750,Elite Toaster 750 — quality small appliances product.,17,64,417.18,235.66,352,1.6,1,2021-05-05T15:06:39Z
+762,SKU-28-764623,Prime Board Game 272,Prime Board Game 272 — quality board games product.,28,64,530.42,318.29,349,2.85,1,2021-05-05T20:04:40Z
+763,SKU-21-516120,Portable Sneakers 947,Portable Sneakers 947 — quality shoes product.,21,50,582.29,283.12,176,11.19,1,2021-05-05T23:45:24Z
+764,SKU-12-843043,Max Camera 426,Max Camera 426 — quality cameras product.,12,66,424.42,197.35,90,9.93,1,2021-05-06T03:01:25Z
+765,SKU-34-046645,Max Vitamin C 391,Max Vitamin C 391 — quality vitamins product.,34,45,476.11,254.54,325,10.33,1,2021-05-06T05:20:09Z
+766,SKU-17-822700,Elite Air Fryer 666,Elite Air Fryer 666 — quality small appliances product.,17,6,480.4,236.74,424,8.8,0,2021-05-06T07:09:55Z
+767,SKU-26-443743,Lightweight Backpack 286,Lightweight Backpack 286 — quality camping product.,26,53,248.29,143.27,496,12.79,1,2021-05-06T09:35:02Z
+768,SKU-13-935841,Portable Smart TV 981,Portable Smart TV 981 — quality televisions product.,13,15,505.27,374.19,276,1.23,1,2021-05-06T15:17:25Z
+769,SKU-16-619265,Ultra Duvet 978,Ultra Duvet 978 — quality bedding product.,16,8,79.03,40.57,473,13.83,1,2021-05-06T23:06:35Z
+770,SKU-30-840599,Deluxe STEM Kit 106,Deluxe STEM Kit 106 — quality educational product.,30,12,687.16,376.22,278,5,0,2021-05-07T07:03:42Z
+771,SKU-13-818404,Portable 4K TV 834,Portable 4K TV 834 — quality televisions product.,13,44,747.67,370.34,164,0.95,1,2021-05-07T07:18:40Z
+772,SKU-9-586888,Classic Laptop 229,Classic Laptop 229 — quality laptops product.,9,34,25.04,13.03,396,5.63,1,2021-05-07T07:45:09Z
+773,SKU-34-303641,Elite Vitamin C 713,Elite Vitamin C 713 — quality vitamins product.,34,21,517.34,314.74,327,15.05,1,2021-05-07T13:20:07Z
+774,SKU-21-057949,Pro Sneakers 653,Pro Sneakers 653 — quality shoes product.,21,46,68.38,38.41,155,13.46,1,2021-05-07T16:36:54Z
+775,SKU-35-242235,Essential Laundry Detergent 546,Essential Laundry Detergent 546 — quality cleaning product.,35,34,644.49,348.11,172,9.96,1,2021-05-07T23:49:02Z
+776,SKU-27-354914,Eco Helmet 949,Eco Helmet 949 — quality cycling product.,27,43,207.65,102.4,288,5.25,1,2021-05-08T04:00:14Z
+777,SKU-22-040813,Max Paperback 758,Max Paperback 758 — quality fiction product.,22,55,14.35,6.73,365,12.14,1,2021-05-08T06:48:12Z
+778,SKU-32-429920,Ultra Mascara 602,Ultra Mascara 602 — quality makeup product.,32,42,294.61,144.31,373,8.28,1,2021-05-08T08:35:31Z
+779,SKU-24-715155,Deluxe Picture Book 161,Deluxe Picture Book 161 — quality children's books product.,24,64,665.14,322.89,437,6.64,1,2021-05-08T14:05:20Z
+780,SKU-15-789955,Pro Office Chair 502,Pro Office Chair 502 — quality furniture product.,15,14,364.66,216.02,352,9.65,0,2021-05-08T18:34:42Z
+781,SKU-11-899548,Premium Headset 693,Premium Headset 693 — quality headphones product.,11,21,734.5,367.6,154,3.76,1,2021-05-08T23:14:40Z
+782,SKU-32-965951,Max Lipstick 372,Max Lipstick 372 — quality makeup product.,32,27,30.51,17.54,460,6.1,1,2021-05-09T03:29:13Z
+783,SKU-16-315480,Lightweight Comforter 666,Lightweight Comforter 666 — quality bedding product.,16,35,98.44,58.15,423,12.75,1,2021-05-09T05:51:01Z
+784,SKU-11-204659,Portable Headphones 725,Portable Headphones 725 — quality headphones product.,11,18,711.32,388.03,334,0.86,1,2021-05-09T09:35:40Z
+785,SKU-16-792982,Smart Pillow 733,Smart Pillow 733 — quality bedding product.,16,51,316.05,223.72,202,8.1,1,2021-05-09T11:05:30Z
+786,SKU-35-246784,Compact Laundry Detergent 767,Compact Laundry Detergent 767 — quality cleaning product.,35,69,646.52,383.67,234,9.34,1,2021-05-09T16:25:56Z
+787,SKU-26-255781,Max Backpack 500,Max Backpack 500 — quality camping product.,26,41,110.79,68.58,270,7.49,1,2021-05-09T17:38:58Z
+788,SKU-14-592112,Ultra Cookware Set 648,Ultra Cookware Set 648 — quality cookware product.,14,57,284.08,209.57,387,4.84,1,2021-05-10T00:18:17Z
+789,SKU-30-750950,Elite Learning Toy 516,Elite Learning Toy 516 — quality educational product.,30,63,451.09,247.44,95,3.65,1,2021-05-10T05:38:34Z
+790,SKU-34-672667,Elite Vitamin C 979,Elite Vitamin C 979 — quality vitamins product.,34,54,353.43,165.52,205,7.04,1,2021-05-10T10:04:14Z
+791,SKU-11-465399,Ultra Earbuds 241,Ultra Earbuds 241 — quality headphones product.,11,1,549.93,314.72,383,11.54,1,2021-05-10T13:04:29Z
+792,SKU-31-089892,Smart Moisturizer 441,Smart Moisturizer 441 — quality skincare product.,31,52,127.17,80.18,209,9.64,1,2021-05-10T19:28:44Z
+793,SKU-29-921477,Lightweight Collectible Figure 519,Lightweight Collectible Figure 519 — quality action figures product.,29,5,294.81,205.19,44,1.28,0,2021-05-11T02:39:51Z
+794,SKU-21-228753,Heavy-Duty Sandals 342,Heavy-Duty Sandals 342 — quality shoes product.,21,45,82.79,60.14,166,7.53,0,2021-05-11T05:42:15Z
+795,SKU-31-499154,Ultra Serum 967,Ultra Serum 967 — quality skincare product.,31,28,334.69,160.91,4,1.15,1,2021-05-11T06:16:08Z
+796,SKU-29-150679,Portable Collectible Figure 177,Portable Collectible Figure 177 — quality action figures product.,29,48,488.34,252.76,424,8.87,1,2021-05-11T11:08:50Z
+797,SKU-30-152279,Max Learning Toy 869,Max Learning Toy 869 — quality educational product.,30,2,610.88,332.74,381,8.51,0,2021-05-11T18:22:44Z
+798,SKU-34-237209,Pro Multivitamin 180,Pro Multivitamin 180 — quality vitamins product.,34,5,289.02,149.8,276,4.32,0,2021-05-11T19:34:34Z
+799,SKU-13-825307,Heavy-Duty LED TV 792,Heavy-Duty LED TV 792 — quality televisions product.,13,2,290.71,186.23,183,5.95,1,2021-05-12T03:12:10Z
+800,SKU-13-217721,Portable LED TV 752,Portable LED TV 752 — quality televisions product.,13,21,471.36,273.16,491,0.65,1,2021-05-12T11:09:02Z
+801,SKU-26-943204,Deluxe Backpack 604,Deluxe Backpack 604 — quality camping product.,26,7,479.81,292.82,326,13.64,1,2021-05-12T18:58:25Z
+802,SKU-30-288160,Smart Puzzle 217,Smart Puzzle 217 — quality educational product.,30,66,461.87,216.96,196,8.02,1,2021-05-12T20:54:51Z
+803,SKU-16-893449,Eco Duvet 260,Eco Duvet 260 — quality bedding product.,16,34,741.76,345.42,64,1.25,1,2021-05-12T23:28:25Z
+804,SKU-15-475544,Deluxe Desk 481,Deluxe Desk 481 — quality furniture product.,15,27,519.86,248.82,303,11.7,1,2021-05-13T03:16:59Z
+805,SKU-33-519125,Pro Shampoo 172,Pro Shampoo 172 — quality hair care product.,33,41,158.45,75.1,452,8.88,0,2021-05-13T03:18:34Z
+806,SKU-9-385161,Ultra Notebook 991,Ultra Notebook 991 — quality laptops product.,9,27,392.59,301.82,372,13.39,0,2021-05-13T09:24:20Z
+807,SKU-30-935179,Essential Puzzle 579,Essential Puzzle 579 — quality educational product.,30,16,36.67,19.61,160,10.13,1,2021-05-13T12:10:55Z
+808,SKU-33-966318,Pro Conditioner 190,Pro Conditioner 190 — quality hair care product.,33,25,141.09,80.18,222,8.4,1,2021-05-13T16:44:49Z
+809,SKU-34-612446,Classic Probiotic 921,Classic Probiotic 921 — quality vitamins product.,34,1,449.63,258.47,263,2.87,1,2021-05-13T20:51:59Z
+810,SKU-30-828761,Max STEM Kit 610,Max STEM Kit 610 — quality educational product.,30,51,170.22,127.86,418,4.2,1,2021-05-14T03:17:57Z
+811,SKU-20-088466,Pro Kids Jacket 370,Pro Kids Jacket 370 — quality kids product.,20,4,229.45,115.89,495,2.86,1,2021-05-14T07:11:19Z
+812,SKU-31-909914,Premium Cleanser 280,Premium Cleanser 280 — quality skincare product.,31,20,458.55,245.74,20,3.6,1,2021-05-14T10:21:55Z
+813,SKU-13-253303,Heavy-Duty LED TV 758,Heavy-Duty LED TV 758 — quality televisions product.,13,15,560.45,292.25,189,5.9,1,2021-05-14T17:39:00Z
+814,SKU-11-504816,Elite Headset 643,Elite Headset 643 — quality headphones product.,11,49,337.45,189.08,462,14.69,0,2021-05-14T23:27:35Z
+815,SKU-30-416788,Lightweight STEM Kit 890,Lightweight STEM Kit 890 — quality educational product.,30,44,427.9,204.1,127,0.29,1,2021-05-15T00:19:09Z
+816,SKU-12-818708,Prime Camera 175,Prime Camera 175 — quality cameras product.,12,3,21.07,12.7,325,3.21,1,2021-05-15T06:16:13Z
+817,SKU-24-872713,Deluxe Picture Book 442,Deluxe Picture Book 442 — quality children's books product.,24,41,378.91,273.68,210,4.6,1,2021-05-15T07:09:48Z
+818,SKU-13-591294,Smart 4K TV 576,Smart 4K TV 576 — quality televisions product.,13,61,360.43,175.19,377,8.69,1,2021-05-15T08:26:27Z
+819,SKU-23-497946,Prime Biography 161,Prime Biography 161 — quality non-fiction product.,23,5,474.91,238.09,388,5.75,1,2021-05-15T11:36:54Z
+820,SKU-24-622694,Elite Picture Book 972,Elite Picture Book 972 — quality children's books product.,24,5,298.54,191.71,282,9.31,0,2021-05-15T13:38:51Z
+821,SKU-35-357339,Smart Laundry Detergent 448,Smart Laundry Detergent 448 — quality cleaning product.,35,49,806.25,378.16,335,7.02,1,2021-05-15T16:46:58Z
+822,SKU-35-155670,Max Dish Soap 437,Max Dish Soap 437 — quality cleaning product.,35,33,323.93,149.23,36,3.35,1,2021-05-15T17:39:40Z
+823,SKU-28-971942,Essential Card Game 258,Essential Card Game 258 — quality board games product.,28,31,274.93,168.82,79,11.12,1,2021-05-16T01:37:20Z
+824,SKU-22-770179,Essential Hardcover 788,Essential Hardcover 788 — quality fiction product.,22,23,342.21,240.38,479,11.56,1,2021-05-16T05:44:42Z
+825,SKU-29-008749,Pro Collectible Figure 770,Pro Collectible Figure 770 — quality action figures product.,29,19,458.4,264.49,173,1.59,1,2021-05-16T06:13:00Z
+826,SKU-22-781813,Prime Paperback 917,Prime Paperback 917 — quality fiction product.,22,6,472.44,223.35,312,11.96,1,2021-05-16T08:34:55Z
+827,SKU-13-974890,Heavy-Duty Smart TV 140,Heavy-Duty Smart TV 140 — quality televisions product.,13,64,659.82,319.16,456,8.9,1,2021-05-16T15:03:06Z
+828,SKU-9-358243,Premium Notebook 465,Premium Notebook 465 — quality laptops product.,9,58,136.66,101.45,357,11.88,1,2021-05-16T19:51:35Z
+829,SKU-28-550682,Portable Strategy Game 172,Portable Strategy Game 172 — quality board games product.,28,14,669.5,382.66,206,3.51,1,2021-05-16T21:21:48Z
+830,SKU-26-452003,Heavy-Duty Backpack 115,Heavy-Duty Backpack 115 — quality camping product.,26,68,711.77,393.59,93,12.31,1,2021-05-17T03:43:22Z
+831,SKU-20-731398,Lightweight Kids Jacket 565,Lightweight Kids Jacket 565 — quality kids product.,20,8,435.19,249.39,43,0.93,1,2021-05-17T04:59:21Z
+832,SKU-25-729335,Deluxe Dumbbell Set 117,Deluxe Dumbbell Set 117 — quality fitness product.,25,10,70.56,36.26,365,6.24,1,2021-05-17T10:07:21Z
+833,SKU-33-644160,Ultra Conditioner 563,Ultra Conditioner 563 — quality hair care product.,33,5,103.91,67.68,150,10.97,0,2021-05-17T15:42:51Z
+834,SKU-32-701103,Classic Lipstick 535,Classic Lipstick 535 — quality makeup product.,32,9,104.17,53.07,332,1.45,1,2021-05-17T19:25:22Z
+835,SKU-13-095102,Eco Smart TV 376,Eco Smart TV 376 — quality televisions product.,13,40,557.91,353.55,376,3.08,1,2021-05-17T21:41:58Z
+836,SKU-11-419672,Prime Headphones 619,Prime Headphones 619 — quality headphones product.,11,30,167.51,120.24,238,12.64,1,2021-05-18T04:29:07Z
+837,SKU-10-297912,Deluxe Phone 796,Deluxe Phone 796 — quality smartphones product.,10,61,519.97,371.9,354,9.58,1,2021-05-18T11:35:01Z
+838,SKU-12-012787,Portable DSLR 610,Portable DSLR 610 — quality cameras product.,12,17,460.87,321.04,444,11.72,1,2021-05-18T17:31:50Z
+839,SKU-11-745342,Smart Headphones 241,Smart Headphones 241 — quality headphones product.,11,26,37.36,22.64,36,10.17,0,2021-05-18T18:43:26Z
+840,SKU-15-309064,Classic Bookshelf 111,Classic Bookshelf 111 — quality furniture product.,15,58,43.78,28.98,474,7.03,1,2021-05-18T23:43:53Z
+841,SKU-26-081481,Portable Sleeping Bag 906,Portable Sleeping Bag 906 — quality camping product.,26,8,430.29,224.96,246,14.04,0,2021-05-19T06:27:20Z
+842,SKU-32-907589,Deluxe Foundation 967,Deluxe Foundation 967 — quality makeup product.,32,31,299.6,229.35,482,1.33,1,2021-05-19T08:59:41Z
+843,SKU-12-867983,Portable DSLR 382,Portable DSLR 382 — quality cameras product.,12,12,521.28,270.51,471,8.48,1,2021-05-19T11:41:43Z
+844,SKU-35-374124,Smart Dish Soap 848,Smart Dish Soap 848 — quality cleaning product.,35,22,459.84,250.52,208,12.01,1,2021-05-19T19:16:12Z
+845,SKU-14-285566,Heavy-Duty Saucepan 644,Heavy-Duty Saucepan 644 — quality cookware product.,14,56,715.97,326.66,405,0.61,0,2021-05-19T19:50:21Z
+846,SKU-23-571127,Portable Handbook 340,Portable Handbook 340 — quality non-fiction product.,23,67,178.4,120.65,257,7.28,1,2021-05-19T20:23:22Z
+847,SKU-16-600572,Elite Duvet 904,Elite Duvet 904 — quality bedding product.,16,30,535.39,400.55,35,0.64,1,2021-05-20T00:27:28Z
+848,SKU-16-204671,Premium Comforter 188,Premium Comforter 188 — quality bedding product.,16,26,520.08,270.9,411,13.6,1,2021-05-20T08:02:33Z
+849,SKU-20-012662,Eco Kids Shorts 962,Eco Kids Shorts 962 — quality kids product.,20,43,172.4,122.03,482,9.27,1,2021-05-20T10:26:42Z
+850,SKU-27-772167,Essential Cycling Gloves 342,Essential Cycling Gloves 342 — quality cycling product.,27,19,625.29,296.45,343,0.88,1,2021-05-20T11:19:31Z
+851,SKU-23-995133,Lightweight Handbook 240,Lightweight Handbook 240 — quality non-fiction product.,23,34,705.28,369.46,68,11.62,1,2021-05-20T12:47:18Z
+852,SKU-25-746985,Portable Resistance Bands 403,Portable Resistance Bands 403 — quality fitness product.,25,42,545.03,308.37,36,14.06,1,2021-05-20T17:52:33Z
+853,SKU-16-426044,Classic Sheet Set 772,Classic Sheet Set 772 — quality bedding product.,16,59,430.18,295.02,62,3.65,0,2021-05-20T23:26:05Z
+854,SKU-9-740471,Pro Chromebook 734,Pro Chromebook 734 — quality laptops product.,9,2,87.35,45.32,111,12.08,1,2021-05-21T05:54:15Z
+855,SKU-10-976785,Ultra Phone 787,Ultra Phone 787 — quality smartphones product.,10,48,20.54,12.1,467,15.06,1,2021-05-21T05:57:32Z
+856,SKU-25-639952,Portable Dumbbell Set 409,Portable Dumbbell Set 409 — quality fitness product.,25,35,118.09,76.35,282,4.66,1,2021-05-21T06:19:13Z
+857,SKU-21-625332,Elite Boots 814,Elite Boots 814 — quality shoes product.,21,53,708.12,364.15,23,8.64,1,2021-05-21T11:10:19Z
+858,SKU-17-581471,Essential Toaster 476,Essential Toaster 476 — quality small appliances product.,17,21,663.07,309.65,26,7.84,0,2021-05-21T12:09:24Z
+859,SKU-9-266742,Prime Chromebook 897,Prime Chromebook 897 — quality laptops product.,9,54,550.01,271.83,140,0.36,0,2021-05-21T14:33:30Z
+860,SKU-30-448823,Heavy-Duty Learning Toy 659,Heavy-Duty Learning Toy 659 — quality educational product.,30,6,674.01,339.84,254,3.56,1,2021-05-21T15:08:48Z
+861,SKU-24-968283,Prime Picture Book 248,Prime Picture Book 248 — quality children's books product.,24,56,273.38,127.34,201,5.43,1,2021-05-21T22:49:02Z
+862,SKU-10-352304,Eco Mobile 548,Eco Mobile 548 — quality smartphones product.,10,12,869.38,403.89,295,1.73,1,2021-05-22T01:14:44Z
+863,SKU-25-215565,Elite Dumbbell Set 104,Elite Dumbbell Set 104 — quality fitness product.,25,45,508.79,356.44,470,9.02,1,2021-05-22T08:21:28Z
+864,SKU-28-963633,Portable Board Game 189,Portable Board Game 189 — quality board games product.,28,67,210,126.56,446,0.29,1,2021-05-22T10:10:20Z
+865,SKU-13-135864,Prime Smart TV 116,Prime Smart TV 116 — quality televisions product.,13,10,558.03,359.36,200,13.39,1,2021-05-22T14:33:58Z
+866,SKU-27-512835,Pro Bike Light 721,Pro Bike Light 721 — quality cycling product.,27,8,218.09,115,458,3.32,1,2021-05-22T20:57:52Z
+867,SKU-32-171485,Heavy-Duty Foundation 785,Heavy-Duty Foundation 785 — quality makeup product.,32,16,780.23,370.26,378,6.85,1,2021-05-22T21:35:23Z
+868,SKU-10-851114,Elite Phone 147,Elite Phone 147 — quality smartphones product.,10,34,9.57,6.4,188,1.47,1,2021-05-23T01:54:08Z
+869,SKU-15-178855,Premium Desk 457,Premium Desk 457 — quality furniture product.,15,62,443.56,241.45,327,11.56,1,2021-05-23T09:06:10Z
+870,SKU-13-942891,Heavy-Duty Smart TV 148,Heavy-Duty Smart TV 148 — quality televisions product.,13,19,534.85,294.47,0,2.66,1,2021-05-23T09:21:56Z
+871,SKU-23-808039,Ultra Guidebook 974,Ultra Guidebook 974 — quality non-fiction product.,23,6,590.82,338.19,126,9.81,1,2021-05-23T11:14:53Z
+872,SKU-22-923737,Premium Paperback 118,Premium Paperback 118 — quality fiction product.,22,30,191.28,89.03,450,6.58,1,2021-05-23T16:08:03Z
+873,SKU-24-573352,Classic Storybook 269,Classic Storybook 269 — quality children's books product.,24,40,542.28,309.34,200,3.47,1,2021-05-23T20:03:51Z
+874,SKU-33-105317,Compact Shampoo 787,Compact Shampoo 787 — quality hair care product.,33,18,232.78,128.89,140,4.18,1,2021-05-24T00:31:15Z
+875,SKU-10-437025,Lightweight Mobile 291,Lightweight Mobile 291 — quality smartphones product.,10,56,34.82,22.37,428,14.15,1,2021-05-24T03:22:20Z
+876,SKU-16-199116,Heavy-Duty Duvet 767,Heavy-Duty Duvet 767 — quality bedding product.,16,52,459.93,233.9,305,0.42,1,2021-05-24T07:23:21Z
+877,SKU-25-127650,Eco Yoga Mat 322,Eco Yoga Mat 322 — quality fitness product.,25,15,743.14,385.82,23,6.87,0,2021-05-24T08:03:37Z
+878,SKU-22-637108,Smart Hardcover 611,Smart Hardcover 611 — quality fiction product.,22,70,218.58,108.45,176,6.29,1,2021-05-24T12:19:34Z
+879,SKU-20-722520,Pro Kids Shorts 104,Pro Kids Shorts 104 — quality kids product.,20,46,195.66,137.14,383,0.84,1,2021-05-24T18:08:59Z
+880,SKU-16-571439,Essential Sheet Set 272,Essential Sheet Set 272 — quality bedding product.,16,25,508.37,288.99,74,11.69,1,2021-05-24T23:38:10Z
+881,SKU-31-063430,Premium Cleanser 524,Premium Cleanser 524 — quality skincare product.,31,8,359.69,179.93,382,4.21,1,2021-05-25T07:14:17Z
+882,SKU-19-101261,Prime Cardigan 809,Prime Cardigan 809 — quality women's product.,19,60,228.83,124.37,209,1.75,1,2021-05-25T09:24:30Z
+883,SKU-34-851688,Compact Probiotic 322,Compact Probiotic 322 — quality vitamins product.,34,28,629.16,350.72,150,8.5,1,2021-05-25T13:22:43Z
+884,SKU-14-656001,Pro Frying Pan 922,Pro Frying Pan 922 — quality cookware product.,14,35,690.23,315.19,498,2.9,1,2021-05-25T16:20:45Z
+885,SKU-17-173113,Prime Air Fryer 366,Prime Air Fryer 366 — quality small appliances product.,17,39,398.01,273.83,212,3.29,1,2021-05-25T18:50:27Z
+886,SKU-19-981271,Elite Leggings 331,Elite Leggings 331 — quality women's product.,19,54,138.17,66.71,441,10.1,0,2021-05-26T02:40:15Z
+887,SKU-32-390638,Lightweight Eyeshadow Palette 259,Lightweight Eyeshadow Palette 259 — quality makeup product.,32,10,447.72,267.1,371,11.57,1,2021-05-26T04:34:12Z
+888,SKU-32-921822,Smart Foundation 988,Smart Foundation 988 — quality makeup product.,32,49,258.19,139.17,236,5.77,1,2021-05-26T06:13:55Z
+889,SKU-32-258511,Max Foundation 140,Max Foundation 140 — quality makeup product.,32,32,813.39,392.24,403,3.09,1,2021-05-26T10:06:14Z
+890,SKU-20-533955,Essential Kids T-Shirt 401,Essential Kids T-Shirt 401 — quality kids product.,20,29,325.28,199.59,456,2.54,1,2021-05-26T14:05:52Z
+891,SKU-20-000076,Elite Kids T-Shirt 551,Elite Kids T-Shirt 551 — quality kids product.,20,29,481.3,267.04,47,14.37,0,2021-05-26T16:50:17Z
+892,SKU-24-381138,Deluxe Storybook 888,Deluxe Storybook 888 — quality children's books product.,24,39,614.58,322.36,493,14.74,0,2021-05-26T22:38:56Z
+893,SKU-31-721455,Classic Serum 737,Classic Serum 737 — quality skincare product.,31,57,333.15,248.85,387,14.86,1,2021-05-27T01:26:11Z
+894,SKU-35-375641,Lightweight Laundry Detergent 953,Lightweight Laundry Detergent 953 — quality cleaning product.,35,60,201.58,128.26,271,9.56,1,2021-05-27T07:03:11Z
+895,SKU-35-088972,Premium All-Purpose Cleaner 477,Premium All-Purpose Cleaner 477 — quality cleaning product.,35,3,343.51,238.98,437,9.61,1,2021-05-27T09:24:02Z
+896,SKU-12-133372,Deluxe Camera 963,Deluxe Camera 963 — quality cameras product.,12,56,257.86,140.96,89,13.26,1,2021-05-27T10:46:00Z
+897,SKU-11-135093,Pro Earbuds 850,Pro Earbuds 850 — quality headphones product.,11,68,473.57,281.27,279,6.46,1,2021-05-27T16:10:23Z
+898,SKU-18-692668,Compact Hoodie 199,Compact Hoodie 199 — quality men's product.,18,26,119.2,82.31,24,13.81,1,2021-05-27T23:40:24Z
+899,SKU-30-739389,Deluxe STEM Kit 697,Deluxe STEM Kit 697 — quality educational product.,30,65,402.94,267,489,7.96,1,2021-05-28T03:25:34Z
+900,SKU-21-360367,Portable Running Shoes 689,Portable Running Shoes 689 — quality shoes product.,21,28,126.44,59.95,75,9.55,1,2021-05-28T08:47:26Z
+901,SKU-34-353662,Ultra Multivitamin 471,Ultra Multivitamin 471 — quality vitamins product.,34,31,594.3,362.79,387,8.86,1,2021-05-28T14:08:45Z
+902,SKU-13-623967,Ultra LED TV 103,Ultra LED TV 103 — quality televisions product.,13,47,593.63,324.93,12,6.37,1,2021-05-28T18:53:37Z
+903,SKU-33-663550,Max Conditioner 334,Max Conditioner 334 — quality hair care product.,33,13,294.98,140.45,126,13.73,1,2021-05-28T23:31:26Z
+904,SKU-28-056642,Deluxe Card Game 777,Deluxe Card Game 777 — quality board games product.,28,57,310.02,144.46,8,12.29,1,2021-05-29T00:56:30Z
+905,SKU-17-009405,Essential Toaster 634,Essential Toaster 634 — quality small appliances product.,17,32,416.96,229.86,53,3.9,1,2021-05-29T06:21:35Z
+906,SKU-20-496815,Eco Kids Jacket 543,Eco Kids Jacket 543 — quality kids product.,20,14,263.78,200.14,257,2.89,1,2021-05-29T10:19:12Z
+907,SKU-18-371356,Smart Jacket 832,Smart Jacket 832 — quality men's product.,18,33,375.29,215.97,119,12.96,1,2021-05-29T12:41:31Z
+908,SKU-9-842858,Deluxe Ultrabook 530,Deluxe Ultrabook 530 — quality laptops product.,9,1,95.52,57.98,401,4.59,1,2021-05-29T17:38:59Z
+909,SKU-28-432118,Elite Strategy Game 127,Elite Strategy Game 127 — quality board games product.,28,22,166.28,94.28,11,15.09,1,2021-05-29T21:03:48Z
+910,SKU-25-932422,Heavy-Duty Kettlebell 480,Heavy-Duty Kettlebell 480 — quality fitness product.,25,26,286.45,132.41,263,14.51,1,2021-05-30T00:17:25Z
+911,SKU-32-821524,Classic Lipstick 959,Classic Lipstick 959 — quality makeup product.,32,60,414.43,281.89,162,3.49,1,2021-05-30T05:35:45Z
+912,SKU-9-663346,Smart Chromebook 778,Smart Chromebook 778 — quality laptops product.,9,30,280.01,168.47,393,3.34,0,2021-05-30T08:35:41Z
+913,SKU-34-819770,Eco Multivitamin 974,Eco Multivitamin 974 — quality vitamins product.,34,67,115.53,54.18,282,0.73,1,2021-05-30T10:21:36Z
+914,SKU-29-494051,Smart Action Figure 222,Smart Action Figure 222 — quality action figures product.,29,32,353.5,166.47,391,4.34,1,2021-05-30T12:51:39Z
+915,SKU-30-899112,Pro Puzzle 898,Pro Puzzle 898 — quality educational product.,30,58,647.88,395.59,486,9.5,1,2021-05-30T15:55:33Z
+916,SKU-11-079202,Heavy-Duty Headset 369,Heavy-Duty Headset 369 — quality headphones product.,11,34,133.95,90.87,400,10.4,1,2021-05-30T23:38:05Z
+917,SKU-32-637266,Premium Foundation 510,Premium Foundation 510 — quality makeup product.,32,38,31.89,14.63,64,13.45,1,2021-05-31T03:32:52Z
+918,SKU-32-021708,Elite Eyeshadow Palette 809,Elite Eyeshadow Palette 809 — quality makeup product.,32,35,696.98,391.17,406,9.26,1,2021-05-31T10:28:10Z
+919,SKU-9-159553,Compact Chromebook 834,Compact Chromebook 834 — quality laptops product.,9,5,216.62,134.37,321,1.99,0,2021-05-31T12:00:24Z
+920,SKU-16-875403,Smart Sheet Set 920,Smart Sheet Set 920 — quality bedding product.,16,67,414.91,265.9,269,3.82,1,2021-05-31T17:47:47Z
+921,SKU-14-064770,Elite Dutch Oven 610,Elite Dutch Oven 610 — quality cookware product.,14,23,431.18,303.35,70,12.23,1,2021-05-31T19:27:39Z
+922,SKU-12-843131,Essential Action Cam 195,Essential Action Cam 195 — quality cameras product.,12,63,693.67,384.15,398,10.85,0,2021-05-31T20:53:16Z
+923,SKU-16-647332,Lightweight Pillow 374,Lightweight Pillow 374 — quality bedding product.,16,66,428.16,262.19,320,7.64,1,2021-06-01T01:37:17Z
+924,SKU-9-457028,Eco Laptop 433,Eco Laptop 433 — quality laptops product.,9,44,13.03,6.86,175,6.53,1,2021-06-01T07:15:44Z
+925,SKU-9-992926,Heavy-Duty Notebook 818,Heavy-Duty Notebook 818 — quality laptops product.,9,1,122.01,93.47,58,12.28,0,2021-06-01T08:45:35Z
+926,SKU-18-611540,Essential Hoodie 341,Essential Hoodie 341 — quality men's product.,18,30,148.15,82.93,63,1.74,0,2021-06-01T16:42:06Z
+927,SKU-20-170765,Smart Kids T-Shirt 433,Smart Kids T-Shirt 433 — quality kids product.,20,15,191.98,94.31,153,3.86,1,2021-06-01T17:00:31Z
+928,SKU-23-366198,Pro Guidebook 532,Pro Guidebook 532 — quality non-fiction product.,23,38,24.78,15.07,97,11.74,1,2021-06-01T19:00:26Z
+929,SKU-17-456023,Elite Coffee Maker 487,Elite Coffee Maker 487 — quality small appliances product.,17,26,503.11,306.5,16,0.92,0,2021-06-01T20:33:50Z
+930,SKU-16-656753,Essential Comforter 194,Essential Comforter 194 — quality bedding product.,16,46,243.15,176.26,368,2.56,0,2021-06-02T04:16:12Z
+931,SKU-19-258360,Pro Cardigan 401,Pro Cardigan 401 — quality women's product.,19,37,354.76,257.88,110,13.24,0,2021-06-02T06:59:32Z
+932,SKU-31-697979,Prime Moisturizer 749,Prime Moisturizer 749 — quality skincare product.,31,58,521.78,341.81,271,0.45,1,2021-06-02T07:27:47Z
+933,SKU-18-646950,Smart Jacket 186,Smart Jacket 186 — quality men's product.,18,19,14.27,6.6,256,1.42,1,2021-06-02T14:55:51Z
+934,SKU-30-968087,Pro Learning Toy 934,Pro Learning Toy 934 — quality educational product.,30,24,411.43,287.54,498,8.81,1,2021-06-02T21:24:54Z
+935,SKU-12-569985,Pro Action Cam 539,Pro Action Cam 539 — quality cameras product.,12,57,111.7,73.8,291,5.87,1,2021-06-03T01:50:23Z
+936,SKU-19-451888,Portable Cardigan 132,Portable Cardigan 132 — quality women's product.,19,34,109.41,82.38,168,2.37,1,2021-06-03T02:05:04Z
+937,SKU-15-697676,Lightweight Desk 113,Lightweight Desk 113 — quality furniture product.,15,42,123.49,64.7,376,14.46,0,2021-06-03T06:04:44Z
+938,SKU-29-167096,Compact Collectible Figure 162,Compact Collectible Figure 162 — quality action figures product.,29,32,467.26,269.24,488,4.93,1,2021-06-03T07:55:05Z
+939,SKU-33-049263,Elite Shampoo 527,Elite Shampoo 527 — quality hair care product.,33,25,119.41,87.09,331,2.57,1,2021-06-03T11:38:45Z
+940,SKU-29-890586,Elite Action Figure 833,Elite Action Figure 833 — quality action figures product.,29,37,481.91,285.87,67,9.96,1,2021-06-03T18:04:19Z
+941,SKU-28-183344,Heavy-Duty Strategy Game 243,Heavy-Duty Strategy Game 243 — quality board games product.,28,43,660.34,327.32,91,13.32,1,2021-06-04T01:58:48Z
+942,SKU-29-081069,Pro Collectible Figure 501,Pro Collectible Figure 501 — quality action figures product.,29,54,60.75,28.07,264,2.82,1,2021-06-04T03:51:17Z
+943,SKU-9-523270,Smart Notebook 328,Smart Notebook 328 — quality laptops product.,9,47,457.02,276.33,499,7.15,1,2021-06-04T10:48:49Z
+944,SKU-19-919700,Eco Blouse 261,Eco Blouse 261 — quality women's product.,19,31,565.91,337.01,457,1.75,1,2021-06-04T17:24:27Z
+945,SKU-21-260990,Prime Boots 493,Prime Boots 493 — quality shoes product.,21,63,667.03,385.45,444,13.25,1,2021-06-04T21:06:20Z
+946,SKU-17-075869,Lightweight Toaster 397,Lightweight Toaster 397 — quality small appliances product.,17,55,82.07,41.57,335,8.54,1,2021-06-05T01:55:07Z
+947,SKU-28-271472,Deluxe Card Game 731,Deluxe Card Game 731 — quality board games product.,28,23,131.75,78.18,427,13.73,1,2021-06-05T03:59:20Z
+948,SKU-9-775185,Compact Chromebook 217,Compact Chromebook 217 — quality laptops product.,9,59,747.09,374.56,165,6.91,1,2021-06-05T11:02:01Z
+949,SKU-13-501758,Elite 4K TV 182,Elite 4K TV 182 — quality televisions product.,13,60,296.17,153,369,13.02,1,2021-06-05T14:14:30Z
+950,SKU-30-641103,Compact Puzzle 443,Compact Puzzle 443 — quality educational product.,30,32,299.25,201.5,135,9.7,1,2021-06-05T17:00:31Z
+951,SKU-29-071763,Compact Collectible Figure 514,Compact Collectible Figure 514 — quality action figures product.,29,45,134.11,81.35,223,12.26,1,2021-06-06T00:29:50Z
+952,SKU-19-326575,Ultra Blouse 235,Ultra Blouse 235 — quality women's product.,19,69,531.85,293.95,325,7.48,1,2021-06-06T05:30:27Z
+953,SKU-34-979015,Premium Vitamin C 256,Premium Vitamin C 256 — quality vitamins product.,34,45,316.18,236.55,329,5.81,1,2021-06-06T13:13:24Z
+954,SKU-27-385747,Premium Helmet 711,Premium Helmet 711 — quality cycling product.,27,54,282.85,168.77,80,14.79,1,2021-06-06T18:06:16Z
+955,SKU-27-396299,Prime Cycling Gloves 703,Prime Cycling Gloves 703 — quality cycling product.,27,56,371.35,237.71,178,0.64,1,2021-06-06T18:19:52Z
+956,SKU-24-907514,Prime Picture Book 732,Prime Picture Book 732 — quality children's books product.,24,37,566.71,385.19,108,1.54,0,2021-06-06T20:56:36Z
+957,SKU-17-400273,Heavy-Duty Toaster 450,Heavy-Duty Toaster 450 — quality small appliances product.,17,29,487.16,289.65,118,7.45,1,2021-06-06T23:56:22Z
+958,SKU-13-559032,Pro 4K TV 394,Pro 4K TV 394 — quality televisions product.,13,3,83.15,47.64,444,13.39,1,2021-06-07T00:12:51Z
+959,SKU-27-472143,Ultra Helmet 582,Ultra Helmet 582 — quality cycling product.,27,55,351.7,209.92,49,3.53,1,2021-06-07T02:13:01Z
+960,SKU-15-151694,Deluxe Sofa 163,Deluxe Sofa 163 — quality furniture product.,15,10,435.99,274.88,424,5.03,1,2021-06-07T09:54:59Z
+961,SKU-13-382217,Portable 4K TV 861,Portable 4K TV 861 — quality televisions product.,13,42,300.35,187.59,383,9.79,0,2021-06-07T16:41:10Z
+962,SKU-10-710130,Essential Mobile 583,Essential Mobile 583 — quality smartphones product.,10,45,585.14,300.3,398,10.69,0,2021-06-07T17:46:41Z
+963,SKU-14-792767,Deluxe Dutch Oven 832,Deluxe Dutch Oven 832 — quality cookware product.,14,37,329.19,241.87,233,1.81,1,2021-06-08T01:34:52Z
+964,SKU-24-290441,Deluxe Picture Book 532,Deluxe Picture Book 532 — quality children's books product.,24,16,75.73,46.1,378,10.24,1,2021-06-08T07:55:26Z
+965,SKU-12-793537,Prime Camera 240,Prime Camera 240 — quality cameras product.,12,3,600.17,344.62,400,3.06,1,2021-06-08T12:01:56Z
+966,SKU-10-023082,Premium Smartphone 596,Premium Smartphone 596 — quality smartphones product.,10,33,87.5,45.33,397,2.94,1,2021-06-08T18:08:50Z
+967,SKU-11-800775,Smart Earbuds 482,Smart Earbuds 482 — quality headphones product.,11,40,788.13,389.09,159,8.44,1,2021-06-08T18:42:59Z
+968,SKU-17-928836,Lightweight Coffee Maker 249,Lightweight Coffee Maker 249 — quality small appliances product.,17,58,472.54,278.65,281,13.89,1,2021-06-09T02:13:03Z
+969,SKU-28-561473,Portable Card Game 545,Portable Card Game 545 — quality board games product.,28,36,508.97,271.01,107,5.19,1,2021-06-09T03:50:15Z
+970,SKU-12-891072,Classic DSLR 671,Classic DSLR 671 — quality cameras product.,12,63,708.03,331.18,273,5.25,1,2021-06-09T08:32:14Z
+971,SKU-9-392087,Deluxe Notebook 286,Deluxe Notebook 286 — quality laptops product.,9,29,127.75,87.18,269,1.9,1,2021-06-09T16:09:13Z
+972,SKU-11-361128,Heavy-Duty Headset 129,Heavy-Duty Headset 129 — quality headphones product.,11,50,136.7,77.84,416,14.84,1,2021-06-09T18:10:22Z
+973,SKU-25-527304,Essential Yoga Mat 584,Essential Yoga Mat 584 — quality fitness product.,25,54,454.82,252.76,437,12.48,1,2021-06-09T20:18:54Z
+974,SKU-26-818900,Premium Sleeping Bag 605,Premium Sleeping Bag 605 — quality camping product.,26,68,39.81,23.03,477,2.32,1,2021-06-09T22:14:27Z
+975,SKU-18-681023,Elite Jacket 286,Elite Jacket 286 — quality men's product.,18,38,312.94,149.17,321,10.04,1,2021-06-10T03:31:27Z
+976,SKU-17-932234,Premium Toaster 815,Premium Toaster 815 — quality small appliances product.,17,53,530.23,321.27,460,12.31,1,2021-06-10T04:52:09Z
+977,SKU-14-615164,Ultra Saucepan 392,Ultra Saucepan 392 — quality cookware product.,14,67,43,20.09,92,12.04,1,2021-06-10T08:04:13Z
+978,SKU-26-807163,Pro Backpack 266,Pro Backpack 266 — quality camping product.,26,59,507.4,298.38,148,8.66,1,2021-06-10T09:36:27Z
+979,SKU-33-325431,Essential Hair Oil 172,Essential Hair Oil 172 — quality hair care product.,33,38,431.76,239.33,363,13.09,1,2021-06-10T11:39:33Z
+980,SKU-21-844793,Eco Sneakers 832,Eco Sneakers 832 — quality shoes product.,21,22,14.16,6.53,160,0.65,1,2021-06-10T13:21:15Z
+981,SKU-16-080024,Ultra Duvet 228,Ultra Duvet 228 — quality bedding product.,16,42,667.31,311.87,365,4.93,1,2021-06-10T14:21:22Z
+982,SKU-11-386171,Portable Headphones 566,Portable Headphones 566 — quality headphones product.,11,40,401.07,260.25,165,9.12,1,2021-06-10T15:06:53Z
+983,SKU-30-126173,Premium Learning Toy 259,Premium Learning Toy 259 — quality educational product.,30,56,587.23,327.07,412,10.98,1,2021-06-10T18:30:44Z
+984,SKU-17-116905,Portable Toaster 229,Portable Toaster 229 — quality small appliances product.,17,58,319.58,205.32,306,13.61,1,2021-06-11T00:07:00Z
+985,SKU-30-396869,Elite STEM Kit 851,Elite STEM Kit 851 — quality educational product.,30,28,237.4,167.87,57,11.25,1,2021-06-11T04:15:30Z
+986,SKU-16-542418,Portable Sheet Set 359,Portable Sheet Set 359 — quality bedding product.,16,18,814.69,387.66,461,4.33,1,2021-06-11T04:44:31Z
+987,SKU-21-638464,Lightweight Sandals 427,Lightweight Sandals 427 — quality shoes product.,21,25,749.05,359.28,177,3.99,1,2021-06-11T08:09:37Z
+988,SKU-30-545353,Max Learning Toy 499,Max Learning Toy 499 — quality educational product.,30,53,477.44,327.88,41,8.87,1,2021-06-11T13:42:22Z
+989,SKU-21-031603,Ultra Boots 723,Ultra Boots 723 — quality shoes product.,21,21,575.86,311.88,153,7.85,1,2021-06-11T15:01:24Z
+990,SKU-22-738359,Essential Hardcover 542,Essential Hardcover 542 — quality fiction product.,22,51,226.23,107.31,252,13.6,0,2021-06-11T15:38:14Z
+991,SKU-32-019977,Eco Lipstick 897,Eco Lipstick 897 — quality makeup product.,32,65,394.71,264.83,258,12.53,0,2021-06-11T18:48:43Z
+992,SKU-23-637888,Premium Biography 977,Premium Biography 977 — quality non-fiction product.,23,36,328.17,195.73,328,4.6,1,2021-06-12T02:18:03Z
+993,SKU-21-612174,Elite Sandals 195,Elite Sandals 195 — quality shoes product.,21,66,232.25,165.54,55,13.43,1,2021-06-12T09:50:31Z
+994,SKU-30-771895,Smart STEM Kit 133,Smart STEM Kit 133 — quality educational product.,30,10,88.45,64.45,26,11.72,1,2021-06-12T10:51:25Z
+995,SKU-19-048213,Compact Cardigan 262,Compact Cardigan 262 — quality women's product.,19,30,598.35,390.37,168,10.86,1,2021-06-12T15:28:47Z
+996,SKU-13-967072,Premium LED TV 768,Premium LED TV 768 — quality televisions product.,13,31,295.45,167.79,157,4.13,1,2021-06-12T20:13:05Z
+997,SKU-14-264391,Elite Cookware Set 626,Elite Cookware Set 626 — quality cookware product.,14,30,323.21,162.78,295,4.69,1,2021-06-12T21:38:14Z
+998,SKU-28-464188,Premium Strategy Game 420,Premium Strategy Game 420 — quality board games product.,28,57,355.68,170.33,100,13.72,1,2021-06-13T01:16:00Z
+999,SKU-12-727978,Heavy-Duty Camera 855,Heavy-Duty Camera 855 — quality cameras product.,12,21,225.13,140.17,252,7.61,1,2021-06-13T03:49:55Z
+1000,SKU-19-904714,Ultra Cardigan 929,Ultra Cardigan 929 — quality women's product.,19,5,232.78,152.4,152,2.1,0,2021-06-13T11:27:04Z
+1001,SKU-20-574094,Deluxe Kids Shorts 972,Deluxe Kids Shorts 972 — quality kids product.,20,66,635.23,361.36,145,6.13,1,2021-06-13T12:59:47Z
+1002,SKU-22-340090,Lightweight Novel 881,Lightweight Novel 881 — quality fiction product.,22,15,694.19,384.42,414,3.01,1,2021-06-13T20:52:51Z
+1003,SKU-18-913693,Heavy-Duty Jacket 991,Heavy-Duty Jacket 991 — quality men's product.,18,18,521.12,240.36,240,13.86,1,2021-06-14T01:20:36Z
+1004,SKU-17-050235,Smart Blender 480,Smart Blender 480 — quality small appliances product.,17,69,612.93,284.68,195,3.05,1,2021-06-14T03:00:10Z
+1005,SKU-9-840186,Max Ultrabook 488,Max Ultrabook 488 — quality laptops product.,9,29,314.75,166.87,478,9.72,1,2021-06-14T05:35:48Z
+1006,SKU-26-211720,Prime Backpack 682,Prime Backpack 682 — quality camping product.,26,18,317.24,229.13,370,11.52,1,2021-06-14T12:34:29Z
+1007,SKU-19-562126,Classic Leggings 434,Classic Leggings 434 — quality women's product.,19,39,201.75,106.82,275,6.49,1,2021-06-14T20:18:56Z
+1008,SKU-15-589010,Eco Office Chair 968,Eco Office Chair 968 — quality furniture product.,15,43,567.44,344.56,126,0.71,1,2021-06-15T03:16:07Z
+1009,SKU-34-068364,Pro Probiotic 219,Pro Probiotic 219 — quality vitamins product.,34,28,446.16,313.15,44,7.33,1,2021-06-15T04:50:48Z
+1010,SKU-20-335703,Smart Kids Jacket 585,Smart Kids Jacket 585 — quality kids product.,20,58,591.96,315.5,471,11.36,1,2021-06-15T10:38:43Z
+1011,SKU-24-137355,Essential Picture Book 943,Essential Picture Book 943 — quality children's books product.,24,3,111.33,55.66,154,1.68,1,2021-06-15T11:36:33Z
+1012,SKU-35-511020,Essential All-Purpose Cleaner 940,Essential All-Purpose Cleaner 940 — quality cleaning product.,35,13,356.05,216.59,142,10.3,1,2021-06-15T13:42:21Z
+1013,SKU-20-444411,Deluxe Kids T-Shirt 746,Deluxe Kids T-Shirt 746 — quality kids product.,20,37,83.73,39.09,65,14.79,1,2021-06-15T15:32:47Z
+1014,SKU-19-591425,Prime Cardigan 598,Prime Cardigan 598 — quality women's product.,19,31,11.74,5.44,330,0.25,1,2021-06-15T20:27:28Z
+1015,SKU-12-472722,Compact Camera 464,Compact Camera 464 — quality cameras product.,12,21,388.26,236.11,116,0.4,1,2021-06-16T01:49:41Z
+1016,SKU-11-435104,Ultra Earbuds 662,Ultra Earbuds 662 — quality headphones product.,11,59,263.53,157.18,250,0.57,1,2021-06-16T07:41:11Z
+1017,SKU-25-928542,Elite Dumbbell Set 882,Elite Dumbbell Set 882 — quality fitness product.,25,5,583.28,392.12,163,0.65,1,2021-06-16T09:44:23Z
+1018,SKU-23-865669,Premium Guidebook 767,Premium Guidebook 767 — quality non-fiction product.,23,46,369.37,227.54,413,12.77,0,2021-06-16T10:52:15Z
+1019,SKU-12-987780,Pro DSLR 262,Pro DSLR 262 — quality cameras product.,12,68,75.9,34.96,366,13.45,1,2021-06-16T14:45:35Z
+1020,SKU-14-804655,Prime Dutch Oven 504,Prime Dutch Oven 504 — quality cookware product.,14,35,600.84,361.89,466,2.62,1,2021-06-16T16:51:48Z
+1021,SKU-28-855135,Portable Strategy Game 954,Portable Strategy Game 954 — quality board games product.,28,33,554.87,267.28,153,4.94,1,2021-06-16T22:02:58Z
+1022,SKU-34-002875,Ultra Probiotic 693,Ultra Probiotic 693 — quality vitamins product.,34,29,201.69,101.49,151,6.44,1,2021-06-17T04:03:44Z
+1023,SKU-24-127509,Smart Storybook 182,Smart Storybook 182 — quality children's books product.,24,32,149.18,78.41,262,10.1,1,2021-06-17T07:51:24Z
+1024,SKU-28-526929,Deluxe Board Game 511,Deluxe Board Game 511 — quality board games product.,28,8,763.57,357.69,256,14.22,1,2021-06-17T14:48:28Z
+1025,SKU-19-846550,Pro Blouse 931,Pro Blouse 931 — quality women's product.,19,67,516.93,367.21,278,7.45,0,2021-06-17T17:10:26Z
+1026,SKU-31-311018,Heavy-Duty Serum 912,Heavy-Duty Serum 912 — quality skincare product.,31,23,391.59,251.97,463,12.83,1,2021-06-18T00:11:46Z
+1027,SKU-9-644822,Premium Ultrabook 893,Premium Ultrabook 893 — quality laptops product.,9,25,558.01,270.07,358,1.8,1,2021-06-18T06:07:08Z
+1028,SKU-11-111933,Ultra Earbuds 798,Ultra Earbuds 798 — quality headphones product.,11,45,538.05,252.16,55,9.77,1,2021-06-18T06:44:14Z
+1029,SKU-22-889727,Compact Hardcover 105,Compact Hardcover 105 — quality fiction product.,22,27,44.15,22.04,40,8.52,1,2021-06-18T10:44:36Z
+1030,SKU-35-979658,Pro Dish Soap 564,Pro Dish Soap 564 — quality cleaning product.,35,29,646.95,319.61,282,7.74,1,2021-06-18T14:45:46Z
+1031,SKU-33-940753,Elite Shampoo 739,Elite Shampoo 739 — quality hair care product.,33,62,113.9,74.5,413,12.64,1,2021-06-18T18:40:36Z
+1032,SKU-34-420007,Smart Multivitamin 921,Smart Multivitamin 921 — quality vitamins product.,34,47,134.87,78.29,64,1,1,2021-06-18T18:49:03Z
+1033,SKU-23-319754,Portable Biography 144,Portable Biography 144 — quality non-fiction product.,23,42,351.11,185.68,428,2.5,1,2021-06-18T21:20:43Z
+1034,SKU-26-233754,Essential Sleeping Bag 686,Essential Sleeping Bag 686 — quality camping product.,26,11,464.16,319.85,401,1.88,1,2021-06-19T01:36:53Z
+1035,SKU-29-896757,Eco Action Figure 326,Eco Action Figure 326 — quality action figures product.,29,56,386.35,194.28,90,9.9,1,2021-06-19T07:27:36Z
+1036,SKU-18-189584,Pro T-Shirt 371,Pro T-Shirt 371 — quality men's product.,18,23,24.98,16.47,213,12.44,1,2021-06-19T08:45:37Z
+1037,SKU-25-204477,Eco Dumbbell Set 480,Eco Dumbbell Set 480 — quality fitness product.,25,63,169.46,93.76,456,6.3,1,2021-06-19T10:20:31Z
+1038,SKU-27-199254,Elite Cycling Gloves 793,Elite Cycling Gloves 793 — quality cycling product.,27,27,321.39,188.64,353,3.31,1,2021-06-19T14:11:16Z
+1039,SKU-18-216440,Essential Jacket 576,Essential Jacket 576 — quality men's product.,18,34,803.44,402.21,308,0.46,1,2021-06-19T21:29:49Z
+1040,SKU-18-337471,Compact T-Shirt 542,Compact T-Shirt 542 — quality men's product.,18,1,259.07,176.52,72,14.19,1,2021-06-19T23:33:25Z
+1041,SKU-24-019136,Eco Storybook 704,Eco Storybook 704 — quality children's books product.,24,5,25.38,12.1,455,14.06,1,2021-06-20T05:10:46Z
+1042,SKU-12-985882,Max Camera 143,Max Camera 143 — quality cameras product.,12,43,128.86,89.21,326,4.57,1,2021-06-20T09:40:55Z
+1043,SKU-20-219789,Prime Kids Jacket 515,Prime Kids Jacket 515 — quality kids product.,20,52,428.18,320.68,408,9.08,1,2021-06-20T15:26:03Z
+1044,SKU-30-624067,Ultra Puzzle 147,Ultra Puzzle 147 — quality educational product.,30,29,364.34,216.18,341,11.84,1,2021-06-20T19:37:49Z
+1045,SKU-17-927115,Classic Blender 224,Classic Blender 224 — quality small appliances product.,17,22,209.32,113.85,468,13.23,1,2021-06-20T23:06:14Z
+1046,SKU-20-563866,Deluxe Kids Shorts 564,Deluxe Kids Shorts 564 — quality kids product.,20,36,556.03,339.72,424,5.15,1,2021-06-20T23:35:48Z
+1047,SKU-25-445604,Lightweight Dumbbell Set 204,Lightweight Dumbbell Set 204 — quality fitness product.,25,19,385.44,208.61,157,5.97,1,2021-06-21T04:29:36Z
+1048,SKU-17-964029,Deluxe Coffee Maker 679,Deluxe Coffee Maker 679 — quality small appliances product.,17,69,618.5,341.93,226,6.83,1,2021-06-21T06:39:59Z
+1049,SKU-15-751537,Heavy-Duty Desk 917,Heavy-Duty Desk 917 — quality furniture product.,15,7,322.98,223.12,107,5.06,1,2021-06-21T13:58:03Z
+1050,SKU-34-650153,Smart Omega-3 956,Smart Omega-3 956 — quality vitamins product.,34,9,342.16,202.64,274,1.8,1,2021-06-21T21:30:11Z
+1051,SKU-11-061571,Premium Earbuds 571,Premium Earbuds 571 — quality headphones product.,11,10,201.24,138.65,450,9.54,0,2021-06-22T04:55:11Z
+1052,SKU-10-859947,Essential Smartphone 185,Essential Smartphone 185 — quality smartphones product.,10,40,451.71,286.74,9,4.39,1,2021-06-22T12:16:37Z
+1053,SKU-11-387935,Eco Headset 653,Eco Headset 653 — quality headphones product.,11,51,252.25,151.08,7,3.39,1,2021-06-22T13:40:53Z
+1054,SKU-12-751380,Eco Action Cam 676,Eco Action Cam 676 — quality cameras product.,12,56,55.29,42.06,312,2.78,1,2021-06-22T16:31:50Z
+1055,SKU-24-471160,Max Storybook 408,Max Storybook 408 — quality children's books product.,24,38,274.41,146.08,19,11.28,1,2021-06-22T23:07:33Z
+1056,SKU-16-102158,Pro Comforter 580,Pro Comforter 580 — quality bedding product.,16,29,78.1,39.1,0,8.43,1,2021-06-23T06:25:23Z
+1057,SKU-20-622228,Heavy-Duty Kids Shorts 219,Heavy-Duty Kids Shorts 219 — quality kids product.,20,42,459.37,349.58,36,12.76,0,2021-06-23T09:20:23Z
+1058,SKU-17-682246,Max Air Fryer 447,Max Air Fryer 447 — quality small appliances product.,17,15,120.62,85.93,13,3.94,1,2021-06-23T10:20:54Z
+1059,SKU-17-425554,Ultra Coffee Maker 197,Ultra Coffee Maker 197 — quality small appliances product.,17,3,643.56,353.3,56,5.45,1,2021-06-23T17:38:56Z
+1060,SKU-27-968781,Lightweight Cycling Gloves 114,Lightweight Cycling Gloves 114 — quality cycling product.,27,30,538.23,390.89,52,4.32,1,2021-06-23T23:17:59Z
+1061,SKU-24-767604,Portable Picture Book 337,Portable Picture Book 337 — quality children's books product.,24,12,623.14,303.03,101,6.27,1,2021-06-24T04:55:04Z
+1062,SKU-35-461065,Classic Laundry Detergent 386,Classic Laundry Detergent 386 — quality cleaning product.,35,35,560.52,393.63,102,2.01,1,2021-06-24T10:12:51Z
+1063,SKU-28-207883,Smart Card Game 426,Smart Card Game 426 — quality board games product.,28,53,500.2,254.99,58,5.33,1,2021-06-24T11:43:49Z
+1064,SKU-28-134011,Pro Board Game 896,Pro Board Game 896 — quality board games product.,28,11,329.61,169.41,65,1.1,1,2021-06-24T14:54:18Z
+1065,SKU-27-177853,Eco Cycling Gloves 324,Eco Cycling Gloves 324 — quality cycling product.,27,22,35.18,20.72,486,5.86,1,2021-06-24T22:21:52Z
+1066,SKU-18-212369,Heavy-Duty Jacket 719,Heavy-Duty Jacket 719 — quality men's product.,18,34,40.57,23.87,164,1.52,0,2021-06-25T02:44:50Z
+1067,SKU-32-350506,Deluxe Lipstick 445,Deluxe Lipstick 445 — quality makeup product.,32,15,204.82,144.79,258,3.99,1,2021-06-25T09:08:48Z
+1068,SKU-32-179999,Heavy-Duty Mascara 328,Heavy-Duty Mascara 328 — quality makeup product.,32,28,529.66,369.11,268,11.34,1,2021-06-25T12:28:01Z
+1069,SKU-14-882788,Ultra Cookware Set 441,Ultra Cookware Set 441 — quality cookware product.,14,63,27.15,14.24,380,4.16,1,2021-06-25T16:42:36Z
+1070,SKU-27-473911,Pro Bike Light 449,Pro Bike Light 449 — quality cycling product.,27,21,819.8,381.68,388,10.34,0,2021-06-25T20:19:38Z
+1071,SKU-22-496389,Compact Paperback 819,Compact Paperback 819 — quality fiction product.,22,53,482.31,317.82,95,12.58,1,2021-06-26T00:00:04Z
+1072,SKU-28-285216,Eco Strategy Game 907,Eco Strategy Game 907 — quality board games product.,28,4,771.11,374.41,31,4.98,1,2021-06-26T02:25:15Z
+1073,SKU-16-911974,Compact Comforter 146,Compact Comforter 146 — quality bedding product.,16,48,336.6,227.17,140,10.48,1,2021-06-26T10:07:57Z
+1074,SKU-35-327273,Portable Laundry Detergent 797,Portable Laundry Detergent 797 — quality cleaning product.,35,48,245.23,169.22,90,0.59,1,2021-06-26T14:12:36Z
+1075,SKU-10-762557,Max Mobile 167,Max Mobile 167 — quality smartphones product.,10,69,467.31,241.94,199,8.99,1,2021-06-26T17:15:09Z
+1076,SKU-14-310964,Essential Dutch Oven 630,Essential Dutch Oven 630 — quality cookware product.,14,10,383.64,205.04,79,6.56,0,2021-06-26T18:46:41Z
+1077,SKU-25-353721,Portable Kettlebell 163,Portable Kettlebell 163 — quality fitness product.,25,12,659.98,305.49,373,11.7,1,2021-06-26T18:56:39Z
+1078,SKU-10-786989,Max Smartphone 503,Max Smartphone 503 — quality smartphones product.,10,31,320.04,203.67,355,5.55,0,2021-06-27T00:35:40Z
+1079,SKU-27-872358,Compact Cycling Gloves 412,Compact Cycling Gloves 412 — quality cycling product.,27,44,79.44,42.09,440,14.04,0,2021-06-27T04:00:38Z
+1080,SKU-33-735291,Classic Hair Oil 611,Classic Hair Oil 611 — quality hair care product.,33,9,545.76,351.54,412,0.57,1,2021-06-27T11:47:36Z
+1081,SKU-21-827143,Premium Sneakers 838,Premium Sneakers 838 — quality shoes product.,21,24,566.45,353.92,268,1.14,1,2021-06-27T15:40:59Z
+1082,SKU-19-530864,Lightweight Dress 937,Lightweight Dress 937 — quality women's product.,19,56,359.87,255.58,491,9.06,1,2021-06-27T17:08:14Z
+1083,SKU-22-819231,Heavy-Duty Hardcover 607,Heavy-Duty Hardcover 607 — quality fiction product.,22,34,827.74,394.44,129,3.44,1,2021-06-27T20:43:15Z
+1084,SKU-11-651774,Ultra Headset 912,Ultra Headset 912 — quality headphones product.,11,44,615.53,318.24,496,6.83,1,2021-06-27T21:11:26Z
+1085,SKU-19-284256,Portable Cardigan 482,Portable Cardigan 482 — quality women's product.,19,6,461.17,310.07,432,3.43,1,2021-06-28T01:42:59Z
+1086,SKU-27-331390,Heavy-Duty Helmet 463,Heavy-Duty Helmet 463 — quality cycling product.,27,6,190.53,108.7,245,0.97,1,2021-06-28T06:53:56Z
+1087,SKU-25-685038,Smart Dumbbell Set 555,Smart Dumbbell Set 555 — quality fitness product.,25,70,114.07,54.24,370,9.37,1,2021-06-28T11:53:46Z
+1088,SKU-31-809889,Deluxe Serum 518,Deluxe Serum 518 — quality skincare product.,31,18,194.14,140.1,217,12.64,1,2021-06-28T13:29:37Z
+1089,SKU-11-510078,Max Headset 230,Max Headset 230 — quality headphones product.,11,51,656.04,316.86,169,11.3,1,2021-06-28T20:28:27Z
+1090,SKU-17-256081,Deluxe Coffee Maker 799,Deluxe Coffee Maker 799 — quality small appliances product.,17,40,345.86,189.05,320,10.99,1,2021-06-29T02:00:31Z
+1091,SKU-19-945185,Compact Leggings 766,Compact Leggings 766 — quality women's product.,19,4,283.76,173.5,251,9.58,1,2021-06-29T03:19:11Z
+1092,SKU-34-250833,Portable Vitamin C 853,Portable Vitamin C 853 — quality vitamins product.,34,2,590.45,340.33,101,3.28,1,2021-06-29T09:23:32Z
+1093,SKU-10-960474,Eco Smartphone 170,Eco Smartphone 170 — quality smartphones product.,10,16,170.41,125.54,114,4.31,1,2021-06-29T10:07:59Z
+1094,SKU-21-007307,Heavy-Duty Running Shoes 410,Heavy-Duty Running Shoes 410 — quality shoes product.,21,35,61.31,30.18,360,1.11,1,2021-06-29T11:12:31Z
+1095,SKU-31-540303,Eco Face Cream 606,Eco Face Cream 606 — quality skincare product.,31,46,10.21,7.03,353,13.27,0,2021-06-29T15:13:41Z
+1096,SKU-19-742524,Max Blouse 797,Max Blouse 797 — quality women's product.,19,15,98.51,58.98,301,2.01,1,2021-06-29T18:14:49Z
+1097,SKU-31-388571,Portable Serum 706,Portable Serum 706 — quality skincare product.,31,9,22.44,12.48,16,5.3,1,2021-06-30T01:49:15Z
+1098,SKU-22-992886,Essential Novel 511,Essential Novel 511 — quality fiction product.,22,18,582.15,367.85,337,0.18,1,2021-06-30T04:18:53Z
+1099,SKU-25-776290,Ultra Kettlebell 864,Ultra Kettlebell 864 — quality fitness product.,25,69,463.5,307.47,490,1.96,1,2021-06-30T05:53:50Z
+1100,SKU-34-157752,Lightweight Probiotic 448,Lightweight Probiotic 448 — quality vitamins product.,34,47,122.72,83.51,88,10.81,1,2021-06-30T10:08:25Z
+1101,SKU-13-354099,Portable Smart TV 863,Portable Smart TV 863 — quality televisions product.,13,19,670.14,358.42,499,8.83,1,2021-06-30T12:33:09Z
+1102,SKU-22-844362,Deluxe Novel 370,Deluxe Novel 370 — quality fiction product.,22,47,477.88,357.32,36,2.97,1,2021-06-30T13:05:44Z
+1103,SKU-18-076410,Pro T-Shirt 863,Pro T-Shirt 863 — quality men's product.,18,63,44.23,23.12,357,9.44,1,2021-06-30T13:29:58Z
+1104,SKU-24-693845,Compact Storybook 532,Compact Storybook 532 — quality children's books product.,24,8,628.14,344.35,322,5.64,1,2021-06-30T15:26:55Z
+1105,SKU-29-008024,Max Collectible Figure 105,Max Collectible Figure 105 — quality action figures product.,29,1,528.58,367.78,153,8.66,1,2021-06-30T16:32:15Z
+1106,SKU-28-773687,Heavy-Duty Card Game 843,Heavy-Duty Card Game 843 — quality board games product.,28,63,582.25,352.8,463,8.32,1,2021-06-30T22:15:50Z
+1107,SKU-14-212517,Classic Cookware Set 119,Classic Cookware Set 119 — quality cookware product.,14,13,614.68,304.96,385,14.28,1,2021-07-01T03:03:06Z
+1108,SKU-23-799611,Ultra Guidebook 294,Ultra Guidebook 294 — quality non-fiction product.,23,19,136.13,65.33,158,11.65,1,2021-07-01T04:47:55Z
+1109,SKU-33-686701,Classic Hair Oil 319,Classic Hair Oil 319 — quality hair care product.,33,9,17.72,12.51,198,5.14,1,2021-07-01T05:43:22Z
+1110,SKU-21-812953,Pro Sneakers 255,Pro Sneakers 255 — quality shoes product.,21,1,539.47,345.02,482,1,0,2021-07-01T12:06:35Z
+1111,SKU-13-776475,Compact Smart TV 813,Compact Smart TV 813 — quality televisions product.,13,11,735.95,351.69,95,6.9,1,2021-07-01T13:10:10Z
+1112,SKU-19-146032,Max Leggings 969,Max Leggings 969 — quality women's product.,19,43,387.4,205.18,297,6.76,1,2021-07-01T20:17:38Z
+1113,SKU-16-471562,Premium Sheet Set 295,Premium Sheet Set 295 — quality bedding product.,16,25,429.71,232.63,156,0.36,0,2021-07-01T23:02:52Z
+1114,SKU-25-396225,Premium Resistance Bands 541,Premium Resistance Bands 541 — quality fitness product.,25,2,338.36,191.89,292,12.17,1,2021-07-02T02:54:06Z
+1115,SKU-20-662923,Prime Kids Shorts 620,Prime Kids Shorts 620 — quality kids product.,20,44,486.13,316.16,57,11.24,1,2021-07-02T04:40:14Z
+1116,SKU-29-884526,Max Collectible Figure 647,Max Collectible Figure 647 — quality action figures product.,29,16,643,314.11,336,5.41,1,2021-07-02T07:19:28Z
+1117,SKU-27-007117,Premium Bike Light 334,Premium Bike Light 334 — quality cycling product.,27,34,345.74,170.47,446,10.93,0,2021-07-02T13:51:39Z
+1118,SKU-32-374523,Eco Lipstick 836,Eco Lipstick 836 — quality makeup product.,32,11,92.29,47.92,189,2.91,1,2021-07-02T21:24:15Z
+1119,SKU-17-845919,Essential Toaster 826,Essential Toaster 826 — quality small appliances product.,17,34,97.87,73.95,198,6.2,0,2021-07-03T04:41:07Z
+1120,SKU-30-058193,Pro STEM Kit 985,Pro STEM Kit 985 — quality educational product.,30,63,722.42,353.79,260,6.36,1,2021-07-03T06:58:14Z
+1121,SKU-14-507754,Elite Frying Pan 576,Elite Frying Pan 576 — quality cookware product.,14,30,288.91,215.55,128,3.67,1,2021-07-03T07:45:48Z
+1122,SKU-27-164583,Ultra Cycling Gloves 928,Ultra Cycling Gloves 928 — quality cycling product.,27,40,214.89,160.5,421,10.35,1,2021-07-03T11:48:31Z
+1123,SKU-15-885932,Eco Sofa 552,Eco Sofa 552 — quality furniture product.,15,41,502.51,264.3,1,13.74,1,2021-07-03T18:12:52Z
+1124,SKU-16-147081,Pro Sheet Set 309,Pro Sheet Set 309 — quality bedding product.,16,51,549.07,386.12,432,11.45,1,2021-07-03T20:15:45Z
+1125,SKU-18-295688,Prime Hoodie 387,Prime Hoodie 387 — quality men's product.,18,63,523.47,252.97,33,4.64,1,2021-07-03T22:28:02Z
+1126,SKU-31-303589,Max Cleanser 877,Max Cleanser 877 — quality skincare product.,31,24,98.17,70.42,362,11.45,1,2021-07-03T23:13:18Z
+1127,SKU-18-915968,Smart T-Shirt 646,Smart T-Shirt 646 — quality men's product.,18,61,54.29,40.32,356,14.39,0,2021-07-03T23:13:25Z
+1128,SKU-19-981766,Deluxe Cardigan 589,Deluxe Cardigan 589 — quality women's product.,19,66,359.72,188.32,450,11.08,1,2021-07-04T01:05:55Z
+1129,SKU-11-984124,Prime Headset 909,Prime Headset 909 — quality headphones product.,11,54,533.95,269.86,460,13.65,0,2021-07-04T07:31:48Z
+1130,SKU-15-631518,Eco Bookshelf 436,Eco Bookshelf 436 — quality furniture product.,15,11,784.54,367.09,360,1.08,0,2021-07-04T15:24:26Z
+1131,SKU-26-423724,Essential Sleeping Bag 594,Essential Sleeping Bag 594 — quality camping product.,26,70,244.5,115.68,184,8.48,0,2021-07-04T20:43:22Z
+1132,SKU-26-842888,Lightweight Sleeping Bag 703,Lightweight Sleeping Bag 703 — quality camping product.,26,11,380,183.85,404,0.54,1,2021-07-05T03:19:16Z
+1133,SKU-20-695102,Deluxe Kids Shorts 961,Deluxe Kids Shorts 961 — quality kids product.,20,55,805.1,378.41,329,12.38,1,2021-07-05T05:01:02Z
+1134,SKU-16-503832,Ultra Duvet 172,Ultra Duvet 172 — quality bedding product.,16,48,694.92,324,153,7.64,1,2021-07-05T09:01:07Z
+1135,SKU-14-878867,Compact Saucepan 865,Compact Saucepan 865 — quality cookware product.,14,69,691.89,319.57,144,1.58,1,2021-07-05T14:32:19Z
+1136,SKU-26-395765,Lightweight Sleeping Bag 985,Lightweight Sleeping Bag 985 — quality camping product.,26,48,300.87,231.42,131,10.37,1,2021-07-05T19:52:05Z
+1137,SKU-21-324879,Classic Sandals 304,Classic Sandals 304 — quality shoes product.,21,58,639.76,388.54,125,14.4,1,2021-07-06T01:49:11Z
+1138,SKU-33-927730,Smart Conditioner 325,Smart Conditioner 325 — quality hair care product.,33,11,597.45,310.17,155,15.09,1,2021-07-06T03:16:15Z
+1139,SKU-14-193938,Prime Frying Pan 529,Prime Frying Pan 529 — quality cookware product.,14,43,419.32,216.26,187,11.06,1,2021-07-06T03:24:53Z
+1140,SKU-32-732520,Portable Foundation 643,Portable Foundation 643 — quality makeup product.,32,55,249.88,161.57,51,8.74,1,2021-07-06T08:19:42Z
+1141,SKU-25-336742,Prime Kettlebell 586,Prime Kettlebell 586 — quality fitness product.,25,38,388.02,190.81,389,1.1,1,2021-07-06T14:34:57Z
+1142,SKU-16-932422,Lightweight Comforter 350,Lightweight Comforter 350 — quality bedding product.,16,17,431.49,239.84,109,8.73,1,2021-07-06T21:15:20Z
+1143,SKU-21-007539,Ultra Boots 975,Ultra Boots 975 — quality shoes product.,21,8,506.08,277.75,187,9.92,1,2021-07-07T02:03:53Z
+1144,SKU-32-082094,Max Lipstick 738,Max Lipstick 738 — quality makeup product.,32,49,120.06,83.3,186,4,1,2021-07-07T08:30:09Z
+1145,SKU-33-661619,Portable Shampoo 832,Portable Shampoo 832 — quality hair care product.,33,32,392.85,250.13,397,7.31,1,2021-07-07T15:08:35Z
+1146,SKU-21-414266,Prime Running Shoes 288,Prime Running Shoes 288 — quality shoes product.,21,41,465.86,356.96,185,1.79,1,2021-07-07T17:07:10Z
+1147,SKU-14-208660,Classic Dutch Oven 977,Classic Dutch Oven 977 — quality cookware product.,14,32,698.22,327.99,246,9.32,1,2021-07-07T17:22:36Z
+1148,SKU-17-632588,Portable Toaster 749,Portable Toaster 749 — quality small appliances product.,17,12,158.84,86.56,225,3.62,1,2021-07-07T21:58:20Z
+1149,SKU-15-994512,Prime Office Chair 134,Prime Office Chair 134 — quality furniture product.,15,1,426.27,298.9,317,10.25,0,2021-07-08T05:05:35Z
+1150,SKU-27-783004,Deluxe Bike Light 533,Deluxe Bike Light 533 — quality cycling product.,27,28,531.41,345.81,470,1.85,1,2021-07-08T05:57:28Z
+1151,SKU-14-224525,Classic Saucepan 845,Classic Saucepan 845 — quality cookware product.,14,22,212.37,155.69,285,0.22,1,2021-07-08T09:16:59Z
+1152,SKU-22-813461,Essential Novel 802,Essential Novel 802 — quality fiction product.,22,39,353.27,203.96,266,2.87,1,2021-07-08T14:54:08Z
+1153,SKU-17-562325,Ultra Coffee Maker 625,Ultra Coffee Maker 625 — quality small appliances product.,17,67,301.85,180.39,106,9.85,1,2021-07-08T19:27:17Z
+1154,SKU-16-447708,Prime Comforter 717,Prime Comforter 717 — quality bedding product.,16,48,347.44,182.05,382,13.7,1,2021-07-08T21:35:27Z
+1155,SKU-10-712834,Essential Phone 902,Essential Phone 902 — quality smartphones product.,10,49,564.36,296.94,124,1.19,1,2021-07-08T23:08:51Z
+1156,SKU-35-096297,Compact Laundry Detergent 476,Compact Laundry Detergent 476 — quality cleaning product.,35,9,468.5,295.7,8,13.4,1,2021-07-09T04:07:35Z
+1157,SKU-31-009191,Max Cleanser 646,Max Cleanser 646 — quality skincare product.,31,63,135.25,100.41,219,1.25,1,2021-07-09T10:51:05Z
+1158,SKU-17-152064,Eco Coffee Maker 603,Eco Coffee Maker 603 — quality small appliances product.,17,69,142.17,81.05,132,2.91,1,2021-07-09T14:17:19Z
+1159,SKU-28-309660,Portable Board Game 205,Portable Board Game 205 — quality board games product.,28,6,621.25,284.72,136,13.84,1,2021-07-09T19:52:24Z
+1160,SKU-11-275235,Lightweight Earbuds 934,Lightweight Earbuds 934 — quality headphones product.,11,58,181.04,101.7,422,7.23,1,2021-07-10T03:36:14Z
+1161,SKU-33-870584,Lightweight Shampoo 529,Lightweight Shampoo 529 — quality hair care product.,33,49,666.31,345.44,414,7.87,0,2021-07-10T05:37:50Z
+1162,SKU-17-013191,Heavy-Duty Coffee Maker 419,Heavy-Duty Coffee Maker 419 — quality small appliances product.,17,60,267.9,144.14,442,3.17,1,2021-07-10T12:52:54Z
+1163,SKU-14-739343,Essential Frying Pan 818,Essential Frying Pan 818 — quality cookware product.,14,34,486.82,230.54,338,2.49,1,2021-07-10T17:03:48Z
+1164,SKU-9-242613,Pro Ultrabook 758,Pro Ultrabook 758 — quality laptops product.,9,62,626.23,388.99,120,13.59,0,2021-07-10T20:47:41Z
+1165,SKU-29-855431,Portable Action Figure 824,Portable Action Figure 824 — quality action figures product.,29,15,497.15,348.83,410,8.63,1,2021-07-11T04:20:41Z
+1166,SKU-29-225813,Prime Collectible Figure 625,Prime Collectible Figure 625 — quality action figures product.,29,47,408.81,288.86,310,12.73,1,2021-07-11T08:41:59Z
+1167,SKU-30-240158,Eco Learning Toy 902,Eco Learning Toy 902 — quality educational product.,30,2,210.9,126.05,115,8.54,1,2021-07-11T12:34:27Z
+1168,SKU-35-324119,Elite Dish Soap 377,Elite Dish Soap 377 — quality cleaning product.,35,29,114.82,68.11,424,12.04,1,2021-07-11T13:33:15Z
+1169,SKU-34-536825,Essential Multivitamin 847,Essential Multivitamin 847 — quality vitamins product.,34,68,278.48,201.94,361,4.61,1,2021-07-11T15:25:50Z
+1170,SKU-32-647081,Portable Foundation 805,Portable Foundation 805 — quality makeup product.,32,1,439.24,233.66,48,3.11,1,2021-07-11T17:59:49Z
+1171,SKU-17-978966,Classic Toaster 548,Classic Toaster 548 — quality small appliances product.,17,48,148.85,76.25,93,13.47,1,2021-07-11T19:39:29Z
+1172,SKU-25-000645,Essential Kettlebell 682,Essential Kettlebell 682 — quality fitness product.,25,68,474.42,364.02,469,2.21,1,2021-07-12T01:19:18Z
+1173,SKU-24-819651,Ultra Storybook 220,Ultra Storybook 220 — quality children's books product.,24,62,612.94,284.35,248,10.96,1,2021-07-12T07:09:02Z
+1174,SKU-17-787872,Lightweight Air Fryer 675,Lightweight Air Fryer 675 — quality small appliances product.,17,16,472.51,300.31,67,3.7,1,2021-07-12T10:43:51Z
+1175,SKU-15-470368,Pro Bookshelf 125,Pro Bookshelf 125 — quality furniture product.,15,14,420.52,306.73,36,8.29,1,2021-07-12T17:07:30Z
+1176,SKU-28-938642,Pro Strategy Game 719,Pro Strategy Game 719 — quality board games product.,28,24,87.53,45.54,373,9.52,1,2021-07-12T22:54:30Z
+1177,SKU-9-282254,Heavy-Duty Notebook 450,Heavy-Duty Notebook 450 — quality laptops product.,9,55,342.51,170.1,271,0.58,1,2021-07-13T03:12:13Z
+1178,SKU-10-744869,Eco Phone 814,Eco Phone 814 — quality smartphones product.,10,53,572.62,306.46,300,14.93,1,2021-07-13T05:57:25Z
+1179,SKU-21-972835,Eco Sneakers 883,Eco Sneakers 883 — quality shoes product.,21,8,698.14,395.54,327,13.41,1,2021-07-13T08:04:29Z
+1180,SKU-20-133259,Heavy-Duty Kids T-Shirt 308,Heavy-Duty Kids T-Shirt 308 — quality kids product.,20,12,191.28,142.06,130,6.4,1,2021-07-13T10:59:35Z
+1181,SKU-10-761435,Lightweight Mobile 521,Lightweight Mobile 521 — quality smartphones product.,10,51,370.34,176.08,459,4.47,1,2021-07-13T12:31:58Z
+1182,SKU-12-706810,Elite DSLR 403,Elite DSLR 403 — quality cameras product.,12,37,54.35,38.78,61,3.52,1,2021-07-13T19:10:25Z
+1183,SKU-32-471055,Heavy-Duty Eyeshadow Palette 781,Heavy-Duty Eyeshadow Palette 781 — quality makeup product.,32,68,504.48,336.57,315,9.18,0,2021-07-13T19:14:56Z
+1184,SKU-29-285425,Classic Collectible Figure 745,Classic Collectible Figure 745 — quality action figures product.,29,23,508.59,381.9,246,11.3,1,2021-07-13T22:28:45Z
+1185,SKU-35-433626,Ultra All-Purpose Cleaner 470,Ultra All-Purpose Cleaner 470 — quality cleaning product.,35,11,119.93,68.82,78,14.72,0,2021-07-14T05:44:56Z
+1186,SKU-27-133184,Deluxe Cycling Gloves 376,Deluxe Cycling Gloves 376 — quality cycling product.,27,7,144.8,76.9,130,11.44,1,2021-07-14T07:10:44Z
+1187,SKU-33-915545,Prime Conditioner 678,Prime Conditioner 678 — quality hair care product.,33,24,78.06,36.27,14,8.22,1,2021-07-14T10:27:43Z
+1188,SKU-14-626759,Lightweight Cookware Set 201,Lightweight Cookware Set 201 — quality cookware product.,14,35,552.66,283.28,248,12.56,1,2021-07-14T13:06:44Z
+1189,SKU-34-970241,Prime Vitamin C 814,Prime Vitamin C 814 — quality vitamins product.,34,31,617.43,377,101,4.4,1,2021-07-14T15:53:17Z
+1190,SKU-28-978539,Pro Card Game 251,Pro Card Game 251 — quality board games product.,28,38,205.01,107.24,294,12.62,1,2021-07-14T15:56:09Z
+1191,SKU-10-236901,Compact Smartphone 777,Compact Smartphone 777 — quality smartphones product.,10,50,291.65,161.52,420,1.4,1,2021-07-14T22:50:25Z
+1192,SKU-32-953653,Prime Lipstick 584,Prime Lipstick 584 — quality makeup product.,32,40,171.94,89.44,259,13.43,1,2021-07-15T03:46:10Z
+1193,SKU-24-321925,Max Picture Book 529,Max Picture Book 529 — quality children's books product.,24,59,362.4,266.35,55,13.35,0,2021-07-15T04:57:09Z
+1194,SKU-31-827122,Eco Cleanser 343,Eco Cleanser 343 — quality skincare product.,31,47,654.52,380.77,372,5.96,0,2021-07-15T09:11:40Z
+1195,SKU-21-943609,Heavy-Duty Running Shoes 681,Heavy-Duty Running Shoes 681 — quality shoes product.,21,56,233.24,173.49,459,1.57,1,2021-07-15T09:42:48Z
+1196,SKU-14-870855,Ultra Cookware Set 690,Ultra Cookware Set 690 — quality cookware product.,14,51,320.65,214.02,483,6.12,1,2021-07-15T16:53:18Z
+1197,SKU-17-988439,Heavy-Duty Toaster 460,Heavy-Duty Toaster 460 — quality small appliances product.,17,63,684.32,350.01,483,3.81,1,2021-07-15T22:35:14Z
+1198,SKU-13-586146,Elite Smart TV 335,Elite Smart TV 335 — quality televisions product.,13,39,788.65,380.31,387,11.23,1,2021-07-16T00:38:57Z
+1199,SKU-27-228834,Prime Bike Light 110,Prime Bike Light 110 — quality cycling product.,27,46,47.94,31.82,310,3.39,1,2021-07-16T05:28:22Z
+1200,SKU-26-953275,Essential Sleeping Bag 142,Essential Sleeping Bag 142 — quality camping product.,26,25,733.33,395.11,225,12.95,1,2021-07-16T08:11:02Z
