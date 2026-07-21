@@ -24,7 +24,6 @@ Ecommerce-SQL-Analytics/
 │
 ├── README.md
 ├── LICENSE
-├── .gitignore
 │
 ├── Database/
 │   ├── ForeignKeys.sql
