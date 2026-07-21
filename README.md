@@ -165,9 +165,7 @@ Through this project, I practiced:
 
 **Your Name**
 
-GitHub: https://github.com/your-username
-
-LinkedIn: https://linkedin.com/in/your-profile
+GitHub: https://github.com/chaudharynitin7046-lang
 
 ---
 
